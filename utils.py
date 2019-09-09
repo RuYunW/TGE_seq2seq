@@ -15,10 +15,16 @@ def word2int(path):
         # 将单词转换为整数
         values = []
         _ = []
+        doc_source = []
+        __ = []
         for line in lines:
             for word in line.split(' '):
-                _.append(dic_set[word])
-            values.append(_)
-    return values
 
-values = word2int('./data/describe.txt')
+                _.append(dic_set[word])
+                __.append(word)
+            values.append(_)
+            doc_source.append(__)
+    # return values,doc_source
+    return doc_source
+
+doc_source = word2int('./data/describe.txt')

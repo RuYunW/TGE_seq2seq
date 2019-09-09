@@ -4,6 +4,7 @@ import random
 import time
 from model_seq2seq_contrib import Seq2seq
 # from model_seq2seq import Seq2seq
+# from utils import word2int
 
 tf_config = tf.ConfigProto(allow_soft_placement=True)
 tf_config.gpu_options.allow_growth = True 
@@ -17,7 +18,7 @@ class Config(object):
 	target_vocab_size = None
 
 
-def load_data(path):
+def load_data666(path):
 	num2en = {"1":"one", "2":"two", "3":"three", "4":"four", "5":"five", "6":"six", "7":"seven", "8":"eight", "9":"nine", "0":"zero"}
 	docs_source = []
 	docs_target = []
@@ -34,7 +35,29 @@ def load_data(path):
 	
 	return docs_source, docs_target
 
-	
+
+# ---------------------------------↓
+def load_data(path):
+	with open('./data/describe.txt') as f_src:
+		lines = f_src.readlines()
+		docs_source = []
+		_ = []
+		for line in lines:
+			for word in line.split(' '):
+				_.append(word)
+			docs_source.append(_)
+
+	with open('./data/program.txt') as f_tar:
+		lines = f_tar.readlines()
+		docs_target = []
+		__ = []
+		for line in lines:
+			for word in line.split(' '):
+				__.append(word)
+			docs_target.append(__)
+	return docs_source,docs_target
+# ---------------------------------↑
+
 def make_vocab(docs):
 	w2i = {"_PAD":0, "_GO":1, "_EOS":2}
 	i2w = {0:"_PAD", 1:"_GO", 2:"_EOS"}
