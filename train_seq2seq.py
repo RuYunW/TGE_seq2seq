@@ -4,7 +4,9 @@ import random
 import time
 from model_seq2seq_contrib import Seq2seq
 # from model_seq2seq import Seq2seq
-# from utils import word2int
+from utils import word2int
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 tf_config = tf.ConfigProto(allow_soft_placement=True)
 tf_config.gpu_options.allow_growth = True 
@@ -32,20 +34,23 @@ def load_data666(path):
 			doc_target.append(num2en[num])
 		docs_source.append(doc_source)
 		docs_target.append(doc_target)
-	
+
 	return docs_source, docs_target
+
 
 
 # ---------------------------------↓
 def load_data(path):
-	with open('./data/describe.txt') as f_src:
-		lines = f_src.readlines()
-		docs_source = []
-		_ = []
-		for line in lines:
-			for word in line.split(' '):
-				_.append(word)
-			docs_source.append(_)
+	# with open('./data/describe.txt') as f_src:
+	# 	lines = f_src.readlines()
+	# 	docs_source = []
+	# 	_ = []
+	# 	for line in lines:
+	# 		for word in line.split(' '):
+	# 			_.append(word)
+	# 		docs_source.append(_)
+
+	docs_source = word2int('./data/describe.txt')
 
 	with open('./data/program.txt') as f_tar:
 		lines = f_tar.readlines()
@@ -55,8 +60,14 @@ def load_data(path):
 			for word in line.split(' '):
 				__.append(word)
 			docs_target.append(__)
-	return docs_source,docs_target
+			__ = []
+
+	return docs_source[0],docs_target
 # ---------------------------------↑
+
+
+docs_source,docs_target = load_data('')
+
 
 def make_vocab(docs):
 	w2i = {"_PAD":0, "_GO":1, "_EOS":2}

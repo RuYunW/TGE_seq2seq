@@ -19,12 +19,13 @@ def word2int(path):
         __ = []
         for line in lines:
             for word in line.split(' '):
-
                 _.append(dic_set[word])
                 __.append(word)
             values.append(_)
+            _ = []
             doc_source.append(__)
-    # return values,doc_source
-    return doc_source
+            __ = []
+    return values,doc_source
+    # return doc_source
 
-doc_source = word2int('./data/describe.txt')
+# doc_source = word2int('./data/describe.txt')
