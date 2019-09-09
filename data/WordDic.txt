@@ -1,0 +1,10493 @@
+3000
+244		134
+5346								1
+3853							
+	3
+477	
+	16
+6255	!=	1
+3932	""media_id""	1
+3933	""owner_id""	1
+3934	""type""	1
+5105	"%hh".
+	1
+2358	"..."	1
+2359	"...",	1
+6342	"...collection[*].property	1
+730	".bak"	1
+8128	"/",	1
+2839	"0".
+	1
+5480	"0.9853"	1
+6820	"1"	1
+4825	"198.95.0.0",	1
+4826	"255.255.0.0")	1
+7393	"27000000000"	1
+2343	"3.2.6	1
+5481	"98.53%".
+	1
+510	"</code>	1
+6680	"Bcc"	1
+7608	"Class	1
+2360	"IMPRESSION"	1
+3085	"Object[]..."</li>	1
+3086	"Object[][]"	1
+6466	"Radius:	1
+6314	"Saved	1
+7427	"Select	1
+6791	"Server"	1
+3087	"String"	1
+3088	"String"</li>	1
+8243	"String[]").	1
+4901	"String[]").
+	1
+8796	"UTF-8"	1
+3089	"[]",	1
+7556	"[dtd]"	1
+7557	"[xml]"	1
+4016	"\n".
+	1
+6792	"\r\n".
+	1
+2953	"a"	2
+4253	"access_key"	1
+2488	"act".
+	1
+8262	"additional	1
+7940	"after	1
+6353	"alternate	1
+7688	"andrew",	1
+7689	"apiclub,"	1
+1476	"application/json"	1
+7215	"attributes";	1
+3935	"audio"	1
+6256	"b",	1
+2954	"b".	2
+4111	"binary	1
+6257	"c"	1
+6842	"camelBody"	1
+2489	"chapter"	1
+5206	"current"	1
+7415	"deleted"	1
+3936	"doc"	1
+4971	"double"	1
+2361	"events":	1
+7663	"example.group.path.metric.name".	1
+6865	"experimentIDs".
+	1
+1533	"extended	2
+4179	"fast"	1
+5975	"generateReport".
+	1
+3609	"get"	1
+7953	"http"	1
+7954	"https".
+	1
+5231	"https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/stroke-linecap">	1
+7783	"image/*"	1
+4836	"importation"	1
+7366	"inSampleSize",	1
+1337	"int"	1
+4902	"int")	2
+3090	"int..."</li>	1
+3091	"int[]"	1
+7542	"item[index]"
+	1
+5922	"label"	1
+3937	"message"	1
+2362	"name":	1
+8790	"nextText","previousText","nextPlusXText"	1
+8797	"no-output-specified"	1
+4151	"null"	1
+3794	"number-of-pauses"	1
+469	"open",	1
+3747	"p".
+	1
+2363	"payload":	1
+7310	"period"	1
+3938	"photo"	1
+8791	"previousMinusXText";	1
+4509	"rounded".
+	1
+7690	"rules_of_war"),	1
+651	"safe"	1
+5712	"short"	1
+7784	"text/html".
+	1
+2364	"timestamp":	1
+3939	"type""owner_id"_"media_id"	1
+4017	"u000A"	1
+8798	"unsupported-encoding"	1
+2365	"value":	1
+3940	"video"	1
+8792	"word"	1
+291	#,	1
+7727	%	1
+287	%0	33
+4184	%0.	1
+85	%0.
+	9
+4718	%0d	1
+1563	%0th	1
+1564	%1	7
+7755	%1
+	1
+3654	%1!
+	1
+4908	%1).
+	1
+1685	%1.
+	3
+8439	%2	1
+3180	%2.
+	2
+7625	%DURATIONTIME0	1
+1541	%DURATIONTIME0.
+	2
+7626	%DURATIONTIME1
+	1
+7024	%WORLDNAME1	1
+1612	%num0	16
+3930	%num0sp.
+	1
+5644	%num1	2
+2572	%num2	1
+5645	%num2).
+	1
+3147	&	4
+3257	&apos;	1
+3258	&gt;	1
+5236	&gt;=	1
+3259	&lt;	1
+5237	&lt;=	1
+4549	&lt;resources&gt;,	1
+3260	&quot;</code>.
+	1
+8713	'	1
+5106	'%',	1
+7558	'%';	1
+8714	'+'	1
+5107	'+',	1
+8715	'-',	1
+7311	'0'	2
+5108	';'	1
+5109	';'.	1
+5110	'=',	1
+5111	'='.	1
+2092	'CHILDREN'	1
+6646	'TARGET.this',	1
+5881	'UTF-8'	1
+7312	'YYYY-MM',	1
+7313	'YYYY-MM-DD',	1
+4018	'\'	2
+4288	'\0',	1
+5409	'\n',	1
+5410	'\r\n'	1
+7314	'day':	1
+5302	'distributionUrl'	1
+7664	'example',	1
+7665	'group',	1
+4378	'input'	1
+8736	'key'
+	1
+7666	'metric',	1
+7315	'month':	1
+7667	'name'	1
+1081	'or'	1
+7316	'overall':	1
+7462	'owner_id'	1
+7463	'owner_id'=-1	1
+7668	'path'	1
+1336	'path'
+	1
+7579	'postpunctuation'.
+	1
+5464	'rate'	2
+2235	'self'	1
+5882	'text/html'	1
+5883	'text/xml'	1
+4256	'true',	1
+7669	('.').	1
+8716	(+	1
+2769	(-1)	1
+4172	(0	1
+4598	(0=unlimited).	1
+4636	(1)	2
+4112	(1961).	1
+4767	(1e-6	1
+2326	(2	1
+4637	(2)	2
+6258	(3)	1
+7920	(3.0.0	1
+6259	(4)	1
+2996	(50+100+50)x(50+100+50),	1
+4499	(64	1
+511	(<code>"{}"</code>).	1
+1852	(<code>'"'</code>)	1
+3502	(<code>desiredDuration</code>	1
+6174	(<code>url</code>)	1
+123	(<em>x</em>,	2
+3874	(<em>x</em><sub>0</sub>,	2
+3875	(<em>x</em><sub>1</sub>,	2
+3876	(<em>x</em><sub><em>n</em>&minus;1</sub>,	1
+772	(<i>C<sub>i</sub></i>)	1
+6928	(API	1
+6537	(Added	1
+6599	(DCEL).
+	1
+1423	(Dubrulle	1
+5646	(Energy	1
+8347	(IOW	1
+1374	(If	1
+652	(In	3
+5072	(Kills	1
+8250	(Long,	1
+6373	(Model	1
+2308	(Mouse	1
+6563	(NOT	1
+5590	(NaN)	1
+6010	(Not	2
+4329	(Probable	1
+6260	(RCP	1
+2137	(Redis,	1
+3941	(Required	1
+1316	(See	2
+1638	(String-valued).	1
+8129	(System.getProperty("user.dir")).</li>	1
+5639	(The	2
+4300	(This	1
+3894	(XML	1
+8130	(\\,	1
+512	(a	2
+3215	(a)	1
+7881	(a,	1
+2770	(a-1)/(a+1).
+	1
+6663	(a-z).
+	1
+2771	(a/b)	1
+3387	(abstract)	1
+8059	(account.getAppPermissions,	1
+5392	(allowing	1
+7927	(altered)	1
+3545	(and	4
+8284	(android.app.Activity	1
+7706	(array,	1
+1108	(as	2
+5174	(assuming	1
+3216	(b)	1
+7882	(b,	1
+6347	(background	1
+4102	(based	1
+5715	(because	1
+2050	(before	1
+5144	(big-endian)	1
+2959	(black)	1
+6681	(blind	1
+6141	(but	1
+2640	(by	4
+4937	(bytePerSample	1
+3217	(c)	1
+6083	(classpath)	1
+6331	(closest	1
+6149	(couting	1
+987	(crbug.com/502384).
+	1
+2026	(create	1
+7816	(creates	1
+3218	(d)	1
+1041	(data,	1
+442	(decrypted	1
+6721	(deep	1
+5413	(default)
+	1
+3800	(die)
+	1
+8196	(dpi).
+	1
+7691	(e.g.,	1
+4638	(e1,	1
+8579	(each	1
+4289	(exclusive).	2
+1395	(exclusive).
+	1
+5127	(false	1
+4614	(files	1
+5980	(fixes	1
+370	(for	1
+5347	(from	1
+2468	(has	3
+2557	(i)	1
+687	(i.e.	6
+6046	(if	2
+7004	(ignoring	2
+2558	(ii)	1
+906	(in	6
+3769	(included	1
+1396	(inclusive)	2
+6392	(inclusive).	1
+8381	(increasing	1
+2224	(int).
+	1
+1639	(int-valued)	1
+1600	(integer	1
+4716	(inverse	1
+6405	(it	1
+2982	(later)	1
+7728	(len	1
+3789	(lexically)	1
+4903	(like	2
+7055	(logarithmic	1
+5207	(may	1
+5997	(model	1
+1680	(name	1
+3355	(no	2
+5472	(node)	1
+5366	(non-UTF-8).	1
+4374	(number	1
+7641	(optional	1
+5673	(or	5
+5674	(other	1
+6773	(others	1
+4752	(over	2
+1740	(p1,	1
+5779	(p1-p2)	1
+4962	(param	1
+4909	(per	1
+3219	(random	1
+3123	(range	1
+5842	(received	1
+2960	(red).
+	1
+2344	(refer	1
+7115	(representing	1
+3291	(required	1
+4569	(rollbak/commit)	1
+3124	(see	3
+8350	(short	1
+5287	(single	1
+8529	(so	1
+7067	(somehow...)	1
+3801	(start	2
+5208	(still)	1
+5998	(summary)	1
+552	(that	1
+3895	(the	4
+6488	(this	2
+2983	(thread)	1
+6634	(throwing	1
+1253	(using	2
+2239	(version	1
+5047	(via	1
+884	(which	9
+2366	(with	1
+5938	(without	1
+2969	(word)	1
+2772	(x	1
+2773	(x+1)/(x-1).	1
+7284	(x,	1
+2774	(x-1)	1
+4667	(x1,y1)	1
+4668	(x2,y2),	1
+2974	(x=3	1
+1741	(x_2	1
+1742	(x_3,	1
+2975	(y=5	1
+1743	(y_2	1
+3356	)
+	1
+2775	*	3
+5620	******************************	2
+3429	*is*	1
+688	+	11
+4921	+-+-+-+	1
+4922	+-----+	1
+443	+------------------+-----------------+-----------------+---------------------------------+-------------------+--------------------------------+	1
+444	+----------------------------+-----------------------------+----------------------+--------------------+	1
+445	+----------------------------+-----------------------------+----------------------+--------------------+
+	1
+5552	+/-Pi	1
+8060	+1).
+	1
+5675	,	1
+493	,you	1
+9	-	25
+5056	-(v+112).	1
+5057	-(v+120).	1
+8717	-).	1
+2903	--	20
+2776	---	1
+2777	----	1
+2778	-----	1
+2779	------	1
+2780	----------------	1
+5957	-0.0f	1
+245	-1	1
+1588	-1,	1
+4035	-1.	1
+5058	-112	1
+5059	-113	1
+5060	-120,	1
+5061	-121	1
+5062	-128,	1
+1658	-90	1
+212	->	5
+3896	-Dcom.gs.xmlschema.validation=true	1
+6261	-RCP(a,b)	1
+6262	-b	1
+6263	-b
+	1
+6264	-b.	1
+2781	-x	1
+6991	.	1
+4923	.
+	3
+2367	...	2
+4615	...)
+	1
+3877	...,	1
+4775	.equal()	1
+2782	/	6
+8131	/).</li>	1
+478	/*	12
+6066	/>	3
+8498	/Neutral-Spike-Conversion/codebook/neutral/train_99/*.wav	1
+8499	/Neutral-Spike-Conversion/codebook/neutral2angry/neutral2angryOut_codebookF3/	1
+8500	/Neutral-Spike-Conversion/codebook/neutral2angry/neutralF_X_angryF_99.pmf	1
+5445	/admin/flags/load-shedding-unload-disabled
+	1
+5432	/config	1
+7213	/metrics	1
+3765	/model
+	1
+4326	/rest/activiti/apps:	1
+4709	/rest/activiti/models	1
+1494	/setup/check
+	1
+689	0	10
+6332	0)	1
+4113	0)</code>	1
+1744	0,	7
+5821	0-255	1
+690	0.	6
+1154	0.
+	5
+3125	0..5)	1
+8645	0.01.	1
+7048	0.5	1
+6605	0.7f,	1
+6097	07	1
+8718	0s.
+	1
+6987	0~(mod-1)</p>
+	1
+10	1	5
+2783	1)	1
+5441	1).
+	1
+2240	1,	2
+1910	1-byte	1
+1503	1.	3
+721	1.
+	3
+3452	1.0	2
+3117	1.0
+	2
+6948	1.4f,	1
+4301	1.8,	1
+2868	1/2	1
+2784	1/x,	1
+3170	10	4
+157	10.
+	1
+1504	100	2
+843	100%	2
+158	100.	1
+11	1000	2
+8057	1000
+	1
+5652	10000	1
+4239	100].
+	1
+2997	100x100	1
+2998	100x100,	1
+1505	101	1
+1506	102
+	1
+5653	10<sup>6</sup>	1
+7394	12	2
+4079	127	1
+5063	127,	1
+5145	128-bit	1
+7941	12:00	1
+8659	15438:2001(E).	1
+4938	16	2
+8089	16
+	1
+7787	16,	1
+3716	17
+	1
+6929	19)
+	1
+1424	1971)
+	1
+4827	198.95.*.*.
+	1
+1875	1980</li>	1
+6165	1K	1
+595	2	8
+4939	2)
+	1
+2241	2).
+	1
+3854	2,	1
+1406	2-D	1
+581	2-dimensional	1
+4639	2.	2
+6378	2.
+	1
+7049	2.0	1
+6526	2.3,	1
+3305	2.</p>	1
+4679	2000	1
+6538	2006-5-16).
+	1
+2999	200x200.	1
+7317	2011	1
+7318	2011-09	1
+7319	2011-09-27	1
+2718	2015-4-29
+	1
+1688	248	1
+7877	25%	1
+8633	250	1
+4080	256	1
+4070	26	1
+7320	27,	1
+4753	2GB)	2
+4114	2^31,	1
+2785	2x	2
+312	3	5
+8657	3-byte	1
+6418	3-element	1
+7059	3-sample	1
+8483	3.	1
+6166	30	1
+4071	300	1
+3723	300,	1
+3000	300x300,	1
+4072	301	1
+3724	301,	1
+4073	302
+	1
+3725	302,	1
+3726	303,	1
+3727	307.
+	1
+5822	32-bit	1
+2748	32-bits.	1
+6190	32bits	1
+3601	352.srch.c	1
+1689	36x36	2
+1534	39"	2
+1601	4	4
+2860	4
+	2
+8484	4.	1
+3717	4.2	1
+4115	4.5.2	1
+1690	4096x4096	2
+2242	4122	1
+1691	4MB.	2
+2786	5	2
+8485	5.	1
+4081	5.4.3)	1
+3001	50%	1
+7620	500	1
+8486	6.	1
+2131	64-bits.	1
+2728	64bits	1
+2787	7	1
+5367	7,	1
+3621	8-bit	2
+1964	854-1987.
+	1
+8525	8601	1
+1659	90)	1
+8211	91,	1
+1782	:	10
+7068	:(	1
+8470	:-	1
+6297	:-)
+	1
+691	<	4
+1953	</a>	2
+6964	</b>	1
+3118	</br>	2
+7729	</code>	2
+8799	</li>	1
+3306	</li></ul></p>
+	1
+8800	</ol>	1
+3416	</ol>
+	1
+3092	</p>	6
+1187	</p>
+	10
+3829	</tt>	2
+8750	</tt>
+	1
+1876	</ul>	3
+773	</ul>
+	7
+8103	<<power>,<element^power	2
+692	<=	5
+6084	<EE	1
+4036	<P>	1
+6467	<Vector>".
+	1
+1877	<a	8
+1954	<a>	1
+1955	<a><b>value</b></a>
+	1
+6965	<b>Description	1
+5099	<b>MAIN</b>	1
+5999	<b>NOT	1
+6067	<b>NOTE:	1
+3434	<b>NOTE:</b>	1
+7220	<b>Note!</b>	1
+7693	<b>Note:</b>	2
+6527	<b>This	1
+5990	<b>after</b>	1
+8274	<b>security	1
+1956	<b>value</b>	1
+121	<br>	22
+8264	<code>	1
+513	<code>",	1
+1640	<code>"mbr_dur"</code>	1
+1641	<code>"mbr_targets"</code>	1
+514	<code>"null"</code>	1
+3417	<code>$java.home/lib/<i>propertiesFilename</i></code>	1
+3261	<code>&amp;	1
+7883	<code>(a,	1
+1911	<code>(byte)0</code>.
+	2
+1912	<code>(byte)1</code>;	2
+7642	<code>(key==null	1
+4754	<code>-1</code>	1
+3698	<code>.form</code>	1
+8739	<code>0.0</code>	1
+4116	<code>0</code>.</li>	1
+8740	<code>1.0</code>	1
+6624	<code>AlarmValueImpl</code>	1
+7687	<code>AlreadySpawnedException</code>	1
+4117	<code>ArithmeticException</code>,	1
+1188	<code>BLOCK_LENGTH</code>	1
+4755	<code>BufferedInputStream</code>.	1
+2016	<code>BufferedInputStream</code>.
+	3
+1416	<code>BufferedReader</code>	2
+8771	<code>BufferedReader</code>.	1
+1992	<code>BufferedReader</code>.
+	3
+4904	<code>Class.forName()</code>	2
+8603	<code>CreateException</code>	1
+4891	<code>DestroyedFailedException</code>	1
+1254	<code>DiscoveryListener</code>	1
+8801	<code>Document.actualEncoding</code>,	1
+8802	<code>Document.xmlEncoding</code>.	1
+4979	<code>DotGraph</code>	1
+1554	<code>Double.NaN</code>	2
+6474	<code>DoubleStream</code>	1
+3688	<code>EncodingException</code>	2
+7836	<code>Entry[]</code>	1
+7204	<code>Exception</code>	1
+7461	<code>ExpressionFactory</code>	1
+7015	<code>FOREVER</code>.
+	1
+5363	<code>FactoryBean</code>.
+	1
+3756	<code>File</code>	2
+3699	<code>FormScalingUtil</code>	1
+2567	<code>GSObjectMessageImpl</code>.
+	1
+6583	<code>GeneralException</code>	1
+2254	<code>GenericPK</code>	1
+2255	<code>GenericValue</code>	1
+1274	<code>GrantPermission	1
+1275	<code>GrantPermission</code>	1
+1276	<code>GrantPermission</code>s	1
+8020	<code>IllegalArgumentException</code>	1
+4037	<code>IndexOutOfBoundsException</code>	1
+6782	<code>InputSource</code>.
+	1
+2017	<code>InputStream</code>	6
+723	<code>Integer</code>.	1
+3700	<code>JBUI</code>	1
+7153	<code>JobManagerException</code>	1
+6163	<code>JsonHelper.withView(PublicView.class).asJson(instance)</code>
+	1
+6783	<code>LSInput</code>	1
+8803	<code>LSOutput.encoding</code>,	1
+8804	<code>LSOutput</code>	1
+8805	<code>LSOutput</code>,	1
+8806	<code>LSOutput</code>.	1
+8807	<code>LSSerializer</code>	1
+3503	<code>Lease.ANY</code>	1
+3504	<code>Lease.FOREVER.</code>	1
+3505	<code>Lease.FOREVER</code>	1
+8388	<code>LineUnavailableException</code>	1
+2263	<code>LogFile</code>	1
+3888	<code>LookupLocator.equals</code>	1
+6506	<code>M250,150L150,350L350,350Z</code>,	1
+3418	<code>META-INF/services/<i>factoryId</i></code>	1
+7884	<code>Map.Entry&lt;E,	1
+7885	<code>Map.Entry</code>	1
+387	<code>MarshalledInstance</code>	1
+388	<code>MarshalledWrapper</code>	1
+5958	<code>Math.max</code>	1
+8577	<code>MathRuntimeException</code>	1
+7029	<code>MulticastTimeToLive</code>	1
+3345	<code>MultipartParser</code>	1
+6757	<code>MultivariateSummaryStatistics</code>	1
+5491	<code>NullPointerException</code>	3
+4535	<code>NumericEntityEscaper</code>	1
+724	<code>Object</code>	2
+1481	<code>OutputStream</code>	3
+8772	<code>OutputStream</code>,	1
+4756	<code>OutputStream</code>.	2
+6439	<code>OutputStream</code>.
+	1
+1993	<code>Reader</code>	3
+2163	<code>Reader</code>.
+	1
+4961	<code>RoleNotFoundException</code>	1
+8391	<code>ServletInputStream</code>.
+	1
+7916	<code>ShoppingCartHelper</code>	1
+1065	<code>SpaceConfigurationException</code>	1
+5364	<code>SpringEmbeddedCacheManager</code>	1
+6475	<code>Stream&lt;DoubleStream&gt;</code>.	1
+7917	<code>String</code>	1
+7221	<code>String</code>.	1
+6377	<code>SysexMessage</code>.
+	1
+3419	<code>System.getProperty</code>	1
+4794	<code>TIntArrayList</code>	1
+8147	<code>TLongObjectHashMap</code>	1
+4591	<code>TemplateModel</code>;	1
+6317	<code>ThrowAnalysis</code>	1
+8578	<code>Throwable</code>	1
+5756	<code>Throwable</code>s	1
+4630	<code>TimbreDistribution</code>	1
+4791	<code>URLConnection</code>	1
+1277	<code>UnresolvedPermission	1
+3885	<code>UserAlreadyExistsException</code>	1
+5146	<code>Uuid</code>	1
+5513	<code>Vector3f</code>	1
+7205	<code>XNIException</code>.	1
+7886	<code>a</code>	1
+6464	<code>add</code>	1
+6502	<code>addLocal</code>	1
+6507	<code>android.graphics.Path</code>	1
+3757	<code>append(CharSequence,	1
+515	<code>array</code>	2
+6406	<code>attributeValue</code>	1
+6476	<code>average()</code>	1
+7887	<code>b</code>.</p>	1
+6325	<code>before</code>.	1
+1913	<code>boolean</code>	2
+8684	<code>boolean</code>,	1
+1994	<code>byte[]</code>	2
+4792	<code>byte[]</code>.
+	1
+1278	<code>c(g)</code>	1
+1279	<code>c(g1)</code>	1
+1280	<code>c(g2)</code>.	1
+0	<code>charToEscape</code>	1
+4757	<code>copyLarge(InputStream,	1
+6326	<code>count</code>	1
+8685	<code>date</code>.
+	1
+7222	<code>decode(str.toCharArray())</code>	1
+2075	<code>delimitedListToStringArray</code>
+	1
+3506	<code>desiredDuration</code>	1
+3507	<code>desiredExpiration</code>	1
+5510	<code>determinant</code>	1
+6741	<code>dg</code>	1
+7721	<code>double</code>	2
+8686	<code>double</code>,	1
+3674	<code>double</code>.	1
+6288	<code>end</code>	1
+6079	<code>endElement</code>	1
+3542	<code>endPrefixMapping</code>	1
+1255	<code>equals</code>	1
+6742	<code>equivRhsMap</code>	1
+1	<code>escapeChar</code>
+	1
+5786	<code>export</code>	1
+3576	<code>externalIO()</code>	1
+1281	<code>false</code>	3
+3577	<code>final</code>.	1
+5383	<code>float</code>	3
+8687	<code>float</code>,	1
+201	<code>flushPerNumRecords</code>	1
+5787	<code>force</code>	1
+1282	<code>g</code>	1
+1283	<code>g</code>,	1
+4118	<code>gcd(0,	1
+4119	<code>gcd(Integer.MIN_VALUE,	1
+4120	<code>gcd(x,	1
+4845	<code>getProviderClass()</code>	1
+5288	<code>getWithLoader()</code>	1
+8753	<code>in</code>.	1
+8688	<code>int</code>,	1
+1284	<code>java.security.UnresolvedPermission</code>s	1
+4514	<code>keySpace</code>.	1
+6743	<code>latest</code>.<br>	1
+7730	<code>len	1
+2477	<code>len</code>	2
+4038	<code>length</code>	1
+5289	<code>load()</code>	1
+7711	<code>loadIdentity</code>	1
+8082	<code>loader()</code>	1
+1061	<code>long</code>	1
+8689	<code>long</code>,	1
+7399	<code>mark</code>	1
+8743	<code>merge</code>	1
+3307	<code>mu</code>	1
+3308	<code>mu</code>.	1
+714	<code>null</code>	6
+1155	<code>null</code>,	1
+4467	<code>null</code>.	1
+516	<code>null</code>.
+	2
+202	<code>numRecords</code>	1
+6758	<code>object</code>	1
+2478	<code>off</code>	1
+6318	<code>omitExceptingUnitEdges</code>	1
+1285	<code>p1</code>	1
+1286	<code>p2</code>	1
+7472	<code>perExecutorStatsLogger</code>.	1
+8289	<code>phrase</code>.	1
+1857	<code>q.subtract(p).getNorm()</code>	1
+8392	<code>read</code>	1
+3508	<code>renewDuration</code>	1
+3509	<code>renewFor</code>,	1
+3510	<code>renewUntil</code>,	1
+3511	<code>renewUntil</code>.	1
+7137	<code>reset()</code>	1
+7400	<code>reset</code>	1
+4515	<code>resourceTypeId</code>	1
+5492	<code>roll()</code>	2
+6327	<code>s</code>	1
+6328	<code>s</code>,	1
+3309	<code>sampleStats</code>	1
+5716	<code>set(name,	1
+8672	<code>source</code>	1
+6289	<code>start</code>	2
+7167	<code>startElement</code>	1
+203	<code>startTxId</code>.	1
+7223	<code>str.charAt(i)</code>	1
+8690	<code>string</code>,	1
+3578	<code>synchronized</code>.
+	1
+1246	<code>this</code>	1
+5757	<code>throw</code>	1
+5758	<code>throw</code>'s	1
+2425	<code>time</code>.	1
+1482	<code>toString()</code>	4
+5514	<code>toString</code>	2
+389	<code>true</code>	10
+3093	<code>typeName</code>	1
+5788	<code>unexport</code>	1
+6486	<code>unsigned	2
+2704	<code>v1.subtract(v2).getNorm()</code>	1
+715	<code>val</code>	2
+5949	<code>validation.level=lenient</code>.
+	1
+4039	<code>value</code>	1
+4040	<code>value</code>,	1
+6175	<code>webSiteId</code>.
+	1
+4121	<code>x</code>,	1
+7888	<code>{(a,	1
+7889	<code>{a,	1
+6085	<com.gs.home>	1
+5717	<em>add</em>	1
+7559	<em>after</em>	1
+8558	<em>before</em>	1
+3512	<em>exactly</em>	1
+1778	<em>not</em>	1
+5900	<em>p</em>.
+	1
+5718	<em>set</em></strong>	1
+6176	<em>some</em>	1
+124	<em>y</em>),	1
+5429	<em>y</em>).
+	1
+6910	<em>y</em><sub>0</sub>)	1
+3878	<em>y</em><sub>0</sub>),	1
+3879	<em>y</em><sub>1</sub>),	1
+6911	<em>y</em><sub>1</sub>).
+	1
+3880	<em>y</em><sub><em>n</em>&minus;1</sub>).
+	1
+774	<i>C<sub>i</sub></i>	1
+6366	<i>JVM</i>	1
+5853	<i>delay</i>	1
+4290	<i>endKey</i>	1
+8554	<i>iOS</i>	1
+6657	<i>inq</i>	1
+4291	<i>key</i>	1
+7643	<i>necessarily</i>	1
+3310	<i>observed	1
+6186	<i>order</i>.
+	1
+1087	<i>other</i>.
+	2
+3311	<i>p-value</i>,	1
+775	<i>result</i>.	1
+776	<i>t</i>	1
+3658	<i>visible</i>	1
+3361	<img	3
+3094	<li>	2
+7761	<li></li>	1
+7762	<li>Aggregate	1
+1878	<li>Argonne	1
+1879	<li>Burton	1
+4550	<li>Check	1
+7763	<li>Distributions	1
+6196	<li>Does	1
+777	<li>If	3
+778	<li>It	1
+1880	<li>Jorge	1
+1881	<li>Kenneth	1
+8132	<li>On	1
+4551	<li>Return	1
+3312	<li>The	2
+2941	<li>annotated	1
+2942	<li>lists	1
+3420	<li>query	1
+3421	<li>read	1
+3422	<li>use	1
+3423	<ol>	2
+446	<p/>	38
+6159	<p/>
+	3
+693	<p>	51
+5384	<p>
+	3
+5493	<p>A	3
+8244	<p>Always	1
+6528	<p>As	1
+1858	<p>Calling	2
+6303	<p>Can	1
+1941	<p>Computes	1
+4536	<p>Constructs	1
+7890	<p>For	1
+7021	<p>Forces	1
+5494	<p>Generates	3
+2037	<p>If	4
+6410	<p>Indicates	1
+8035	<p>Loaders	1
+1882	<p>Luc	1
+6988	<p>Method:	1
+5100	<p>Removes	1
+7644	<p>Returns	1
+8212	<p>Special	1
+5147	<p>Specifically,	1
+653	<p>The	8
+6477	<p>Then	1
+654	<p>This	7
+8133	<p>URLs	1
+6966	<pre>	1
+8104	<queryHash,	2
+5719	<strong>	1
+4592	<strong>Do	1
+1779	<strong>Note:</strong>	4
+3313	<strong>Preconditions</strong>:	1
+4580	<strong>REVISIT:</strong>	1
+3314	<strong>Usage	1
+5720	<strong>does	1
+7164	<tt>(cause==null	1
+6936	<tt>CM_L2AUTH_LOGIN_CHECK	1
+6835	<tt>In</tt>	1
+3714	<tt>NOTIFY_UNMATCHED</tt>	1
+3830	<tt>SM_UPDATE_SESSION	1
+3886	<tt>UPDATE_OR_WRITE</tt>	1
+8751	<tt>XmlMerger	1
+7165	<tt>cause</tt>).
+	1
+3715	<tt>false</tt>	2
+7707	<tt>first</tt>.	1
+3821	<tt>index</tt>	1
+7469	<tt>infile</tt>	1
+8148	<tt>initialCapacity</tt>	1
+7645	<tt>k</tt>	1
+5665	<tt>key</tt>	1
+5601	<tt>length</tt>	1
+7708	<tt>n</tt>	1
+1054	<tt>next</tt>	2
+2668	<tt>null</tt>	2
+7646	<tt>null</tt>.	1
+5512	<tt>offset</tt>	2
+5602	<tt>offset</tt>
+	1
+5244	<tt>offset</tt>.
+	1
+7470	<tt>outfile</tt>.
+	1
+3143	<tt>procedure</tt>	2
+567	<tt>true</tt>	6
+568	<tt>true</tt>.
+	1
+7647	<tt>v</tt>	1
+3882	<tt>val</tt>
+	1
+5245	<tt>value</tt>,	1
+779	<ul>	11
+694	=	16
+1344	==	3
+2976	==>	1
+695	>	6
+3718	>=	5
+5676	?	3
+8411	?
+	1
+6343	?"
+	1
+573	A	30
+2869	A(z)	1
+4426	A*X	1
+2614	AABB	1
+2615	AABBs	1
+6047	ACK	1
+5465	ACOUSTPARAMS
+	1
+2729	AES	1
+6191	AES
+	1
+7069	AFTER	1
+1429	AILMENT	1
+7942	AM
+	1
+6434	ANDs	1
+3809	API	9
+7560	API,	1
+634	API.
+	3
+7464	API]	1
+655	APIs.
+	1
+5181	APK	1
+4082	ASCII	2
+2089	ASM	1
+4837	ASModels.
+	1
+964	AST	14
+1036	AXml	1
+7510	AbstractDataSources	1
+6397	AbstractDynamicMBean
+	1
+108	AbstractQueryBuilder	23
+2485	Abyss	2
+4521	Accept	4
+4254	Access	2
+3211	Accessor	1
+2337	Action
+	1
+4388	ActionButton	1
+6080	Actions	1
+4490	Activate	1
+6843	Activiti	1
+6844	Activiti.	1
+6845	Activiti.</li>	1
+4219	Activity	3
+7088	Activity
+	1
+5666	Activity.
+	2
+5616	Actually	2
+6393	Adapted	2
+6650	Adapter	1
+8604	Adapter.	1
+4892	AdapterView's	2
+780	Add	40
+4302	Added	1
+6638	Additional	2
+587	Adds	43
+1197	Adguard	2
+517	Adjacent	1
+3468	Adjust	2
+3680	Advances	1
+5755	Advertising	2
+4855	After	3
+4520	AirMapFlight	1
+8639	Alarm	1
+8213	Algorithm	1
+6539	Ali	1
+3634	All	5
+6872	AllGranularity	1
+5118	Allows	8
+3702	Also	4
+5593	Also,	5
+8601	Always	1
+5303	An	6
+258	Analyse	1
+4680	Analysis,	1
+4681	Analysis.	1
+3976	Analyze	1
+5182	Analyzes	1
+5094	Android	2
+8285	Android's	1
+4059	Android.	1
+7812	Animates	2
+574	Annotate	2
+2441	Annotates	1
+2047	Announce	1
+8636	Answer	1
+1109	Answers	1
+1388	Any	4
+301	Append	14
+5263	Appends	3
+8413	Application	1
+834	ApplicationType	1
+7536	Applications	1
+6760	Applies	5
+3662	Apply	3
+1220	Apply/Revert	2
+8538	Applying	1
+5930	Args	1
+5913	ArithmeticExpression.
+	1
+2272	Armor	1
+4875	Array	2
+2904	ArrayBoundsChecker	1
+3181	Artifact	1
+4456	Artifact.
+	2
+4408	As	1
+3653	Assert	1
+338	Assert.assertTrue
+	1
+4468	Asserts	2
+3684	Assign	1
+7276	Assigns	1
+6945	Associates	1
+4494	Assumes	4
+4776	Astyanax	1
+3121	AsyncPropertyChangeSupport	1
+731	AtomicFile	1
+3391	Attempt	3
+5266	Attempts	2
+7000	Audio	1
+7192	AudioSystem#NOT_SPECIFIED.
+	1
+6543	AuthInfo.
+	1
+5301	Author.
+	2
+5539	Authorize	1
+5814	Autocorrelation	1
+6744	Automatically	1
+5836	Available	1
+6549	Average	1
+4870	Avoid	1
+6998	AxisLabelLayout	1
+1531	B
+	2
+4122	B.	1
+7224	BASE64	1
+4599	BDD	1
+447	BE	1
+7173	BEGIN_CERTIFICATE	1
+1692	BMP	2
+5832	BOM	1
+5833	BOMs	1
+3602	Baeza-Yates.
+	1
+3057	Balances	1
+5282	Bar	1
+2210	Base64	4
+2134	Base64-encoded	1
+7330	Be	1
+6777	BeanELResolver.
+	1
+2788	Because	3
+4640	Before	1
+4352	Below	4
+6098	Ben's	1
+6117	Bezier	1
+8315	Bidding.
+	1
+8251	BigInteger)
+	1
+7845	Bind	1
+3988	Binding	2
+2183	Binds	2
+6245	Bitmap	2
+4890	BitmapFactory.
+	1
+7060	Blackman-Harris	1
+4029	Blast	2
+7992	Blaze	1
+6647	Block.
+	1
+7628	Blowfish	1
+2445	Bodies	1
+1169	Body	3
+5739	BodyDecl	4
+3746	Book.
+	1
+3267	BookKeeper	1
+8702	Bookmark	1
+6595	BoolDataType.
+	1
+7206	BooleanColumn.
+	1
+2955	Both	1
+2514	Breadth-first	1
+6609	BriefUnitGraph	1
+8532	Bring	1
+7096	BroadcastReceiver	1
+1223	Broken	2
+7425	BrowserInfoEntry.
+	1
+6394	Bruce	1
+3371	Bubble	1
+739	Build	15
+2273	Builder	1
+59	Builds	11
+5433	Bundle	1
+3462	Bundle,	2
+3913	Business_Partners.xml.
+	1
+2446	But	3
+2250	Button	1
+1140	By	9
+7209	Bypass	1
+4083	Byte	1
+8252	Byte,	1
+7034	ByteBuffer
+	1
+5064	Bytes	1
+1532	C	1
+6118	C(1)	1
+2515	C++	1
+4419	CA	1
+8784	CANCEL	1
+2966	CART	1
+7174	CAs	2
+5515	CC.CCCCC]
+	1
+448	CCITT	1
+2889	CDATA	2
+4980	CFG.
+	1
+2270	CLASSPATH
+	1
+7122	CLEAR_TASK	1
+6048	CLIENT_ACK	1
+7041	CN	1
+5621	COMPONENT	1
+3629	CONFIGURATIONCMD_REPORT	1
+3630	CONFIGURATIONCMD_SET	1
+449	CRC	1
+5470	CRUD	2
+4060	CSS3	1
+4544	CYMK	1
+6447	Cache	2
+1094	CacheHeader	1
+7482	Caches	1
+382	Calculate	9
+1578	Calculates	4
+6333	Calculates,	1
+4624	CalendarFragment	1
+1589	Call	9
+2309	Called	18
+1998	Calling	2
+604	Calls	5
+6751	Camel	2
+6451	Camera
+	1
+835	Can	3
+5740	Cancel	1
+7251	Canceled	1
+184	Cancels	2
+6119	Cardinal	1
+4188	Case	3
+7827	Cast	1
+4103	Catalog	1
+7168	CatalogEntry	1
+7736	CatalogException	1
+7737	CatalogException.</p>
+	1
+3990	CatalogManager	1
+8481	Cauchy	1
+6468	Center:	1
+2891	Certificate	2
+1326	Chain.
+	4
+8353	Chance	1
+6749	Change	1
+4002	ChangeReport	1
+6623	ChangeReport.
+	1
+2106	Changes	4
+1063	CharSequence	5
+4204	Character	3
+2304	Characters	2
+3262	Characters:	1
+2172	Charset	1
+2173	Charset.
+	1
+1999	ChartData	1
+93	Check	29
+278	Checks	42
+12	ChiSquare	1
+4839	Chinese	1
+7380	Chrome	1
+2330	ChromeApplication.
+	1
+7629	Cipher
+	1
+7445	CipherTextIvMac	1
+7537	ClarifaiClient.	1
+1170	Class	6
+1579	Class,	1
+8506	Class.forName()	1
+8507	Class.forName(),	1
+6957	ClassLoader	2
+8738	ClassLoader
+	1
+6958	ClassLoader.
+	1
+8245	ClassUtils	1
+2264	Clean	1
+4104	Cleanup	1
+1529	Clear	6
+1552	Clears	8
+3427	Click	2
+7876	Clicks	2
+892	Client	1
+2170	Clone	2
+4946	Close	2
+1922	Closes	5
+4359	Cloudant	1
+3247	ClusterPolicy	1
+1535	Code	3
+7851	Collection	2
+7348	Collection,	1
+6970	Collection.
+	1
+4695	Collections	1
+7993	Collects	1
+5005	Color	1
+5247	Combine	1
+557	ComboBox
+	1
+8742	Command	1
+855	Comment	2
+7139	Community	1
+4084	Compaction	1
+7828	Comparable	1
+1417	Compare	4
+390	Compares	7
+6011	Comparison	1
+5191	Component	1
+7544	Composes	1
+4777	Composite	1
+709	Compute	16
+6200	ComputeDescription.	1
+937	Computes	5
+7670	Concatenates	1
+6110	Conditional	1
+549	Configures	3
+2393	Connection	1
+2155	Connects	2
+4641	Consider	1
+6020	Consruct	1
+3624	Const	1
+5516	Constant:	1
+3635	Constants	1
+2225	Constraint	1
+683	Construct	27
+952	Constructs	71
+8096	Consumes	1
+7493	Container.
+	1
+3346	Content-Length.
+	1
+8170	ContentAssoc	1
+5811	ContentFilter	1
+8036	ContentObserver	1
+6884	Context	1
+7813	Contextual	2
+1818	ControlScaleOptions	1
+4152	ControlServlet	1
+1323	Convenience	8
+3732	Conversation.
+	1
+986	Convert	16
+3435	ConvertFromSequence	1
+3436	ConvertToSequence	1
+725	Converts	17
+6878	Convex	1
+8193	Cookies	1
+1663	Copies	5
+2062	Copy	5
+6974	CordovaWebView,	1
+8118	Core.
+	1
+6918	Correlation	1
+8674	CounterMovingAverage	1
+7339	Country	2
+179	Cover	1
+143	Create	92
+8605	Created	1
+79	Creates	181
+6574	Creates,	2
+1171	Creation
+	2
+2447	Current	1
+1413	Currently	4
+2018	Custom	1
+7009	CustomerReivews.xml
+	1
+7010	CustomerReviews	1
+3914	Customers	1
+8214	Cytron	1
+1021	DAA	2
+6734	DAOs.
+	2
+116	DAQ	3
+6460	DATE_UPDATED	1
+4619	DB	1
+4360	DB
+	1
+8033	DB.	2
+7750	DCEL	1
+2107	DCache	1
+4675	DELETE	1
+2093	DFA	2
+7543	DIPHardwareAddress	1
+2388	DIRECT	1
+4375	DNS	2
+6706	DOCTYPE	1
+313	DOM	9
+4004	DOM.	1
+6642	DOM2	1
+6643	DOMImplementation.
+	1
+1317	DOT	1
+4815	DP	1
+1614	DTD	2
+6798	DTD.
+	1
+635	DTDHandler	2
+4485	Dagger	1
+7538	Dashboard</a>.
+	1
+7402	Dat's	1
+5767	Data	2
+7599	DataFile	1
+6768	DataInputStream,	1
+6280	DataInputStream.
+	1
+2749	DataInputStream.readInt	1
+8150	DataOutputStream.
+	1
+2132	DataOutputStream.writeLong.
+	1
+3703	DataSet	1
+3666	DataSet.	1
+1489	DataSource	1
+2612	DataSourceProvider.
+	1
+8058	DataTag	1
+8530	DataTags.
+	1
+3916	DataViewComponent	1
+5248	Databus	2
+2345	Datatypes	1
+4912	Date	3
+5903	Date
+	1
+6395	Dawson</a>
+	1
+4991	Day	1
+8050	Debug	1
+2236	Decode	4
+2211	Decodes	4
+1828	Decomposition
+	2
+7982	Decompress	1
+8197	Decrease	1
+6278	Decrement	1
+6379	Deep-clone	1
+2317	Default	3
+4299	DefaultRolloverStrategy.
+	1
+6321	Defaults	2
+3733	Defeats	2
+6363	Defines	1
+821	Definitional	1
+4030	Delayed	2
+4846	Delegates	1
+970	Delete	6
+6440	Deletes	4
+7416	Deletion	1
+6831	Deprecated:	1
+6625	Description	1
+5746	DescriptiveStatistics	1
+6517	Descriptor
+	1
+8748	Deserialization.
+	1
+2256	Deserialize	1
+7581	Destroy	1
+5562	Detaches	1
+3917	DetailsView,	1
+1028	Detect	2
+8417	Detect.	1
+1693	Detect.
+	1
+1436	Determine	8
+1655	Determines	14
+2850	DeterministicHashMap	1
+2597	Diphone.
+	1
+4330	Disable	1
+5867	Disallow	1
+917	Discards	1
+1069	Disconnect	1
+6448	Disk	1
+3812	DiskBasedCache	2
+4742	Dispatcher,	2
+2503	Display	2
+5672	Displays	2
+5260	Dispose	1
+3191	Disruptor.	1
+2588	Distance	1
+3954	DistanceEstimator,	1
+6076	Distribute	1
+8145	DistributionDocumentEvaluator,	2
+7717	Divide	1
+6799	DividerDecoration	1
+7743	Divides	2
+8044	Dn,	1
+4940	Do	6
+7042	Docker	1
+4481	Document	4
+8589	DocumentActivity	1
+7381	DocumentTabModelSelector.	1
+2767	Does	18
+213	Doesn't	2
+4346	Don't	4
+6785	Double
+	1
+6786	Double.	1
+3982	Draw	3
+8703	Drawable	1
+125	Draws	4
+4579	Drops	3
+2967	Dumps	2
+5846	During	1
+7891	E&gt;</code>	1
+1883	E.	1
+6520	E.coli	1
+6521	E.coli
+	1
+225	EDT.
+	1
+7175	END_CERTIFICATE	1
+5584	ENTITY_MAINT	1
+5965	EOL	1
+4693	ERROR	3
+7382	EXTRA_PAGE_TRANSITION_TYPE	1
+1694	Each	5
+4712	Eating	1
+8574	Edit	2
+2482	EditShareFragment	1
+4706	Edits	1
+3060	Effect	1
+6292	EggIncubator	1
+5290	Ehcache	1
+3463	Either	3
+7346	Elect	1
+1684	ElementValue	1
+3889	Elements	1
+4482	Elements
+	1
+5884	Else	1
+4056	EmailData.
+	1
+4772	Empties	1
+4682	Emulate	1
+5452	Enable	2
+4925	Enabled	2
+4448	Encode	1
+2937	Encodes	1
+5348	Encoding	1
+450	Encrypted	1
+2730	Encryption
+	1
+4881	Ends	2
+6029	English	2
+8492	English.	1
+1407	Enqueues	1
+8406	Ensure	1
+988	Ensures	7
+7855	Enter	1
+5000	Enters	1
+6039	Entity	2
+6040	Entity.	1
+5116	EntityQuery	1
+6041	EntityReference's	1
+6223	Entry	2
+82	EntryExpired	1
+5209	Environment,	1
+7426	EnvironmentProvider.
+	1
+3197	Equality	1
+1448	Equals	1
+117	Equipment	2
+6818	EquipmentIO	1
+5387	EquipmentMapper
+	1
+858	Equivalent	1
+893	Error	1
+894	Error
+	1
+2702	Esri	1
+2708	Estimate	1
+1161	Estimates	1
+8273	Evaluate	1
+6787	Evaluates	2
+3579	Even	1
+3412	Event	3
+6731	EventLogImpl	1
+5249	EventStore	2
+2368	Example	1
+3942	Example:	4
+3095	Examples:	1
+3380	Exceeded	1
+4183	Exception	1
+6584	Exception.
+	2
+3437	Execute	4
+3144	Executes	7
+3748	Expand	2
+2251	ExpandableItem	1
+7395	Expands	1
+159	Expected	3
+6940	Export	1
+7473	Expose	1
+989	Exposed	1
+3871	Expr)	1
+2964	Expunge	1
+5677	ExtendedIndexIterator	1
+3669	Extends	1
+6619	ExternaEntries	1
+6049	ExternalEntry	1
+7745	ExternalFileResource
+	1
+1487	Externalizable
+	5
+3792	Extract	2
+1457	Extracts	1
+5815	F0	1
+4694	FATAL	2
+6247	FIR	1
+4331	FIXME	1
+5210	FIXME?:	1
+7331	FTP	1
+1695	Face	2
+3564	Fail/bad	1
+4220	Failure	1
+7515	False	1
+4458	False.
+	1
+3664	FastDFS	1
+4192	FeatureDefinition;	1
+5914	February	1
+3580	Feed	1
+6885	Fetch	1
+4993	Fetches	1
+7497	Field	1
+6352	FifoExecption
+	1
+732	File	5
+7176	File.	1
+3683	File.
+	2
+8371	File.listFiles()	1
+4067	FileFooter	1
+7746	FileResource	1
+8372	FileUtils.listFiles().
+	1
+2266	FileWriterWithEncoding	1
+7959	Filename	1
+8752	FilenameFilter.
+	1
+7588	Files	1
+2176	Fill	2
+2594	Fills	1
+2511	Filter	1
+7256	Filters	1
+3051	Finalize	1
+3253	Finalizes	1
+190	Find	20
+2943	FindBy	1
+7266	FinderException
+	1
+696	Finds	9
+1120	Fired	6
+3787	Fires	1
+1602	First	3
+8354	Fisher's	1
+4005	Fix-up	1
+8124	FixedWidthTextTableSchema.
+	1
+5161	Flushes	1
+4844	Follow	1
+5175	FontAction.	1
+5014	FontAnimator	1
+359	For	27
+1668	Force	4
+8306	Forces	1
+4210	Format	2
+627	Formats	5
+7989	Fragment
+	1
+3663	FrameBasedAnalyser	1
+4793	FrameProvider.
+	1
+7090	FrameSwitcher's	1
+5948	FreeTTSTime.
+	1
+4847	Freemarker	1
+419	Frees	1
+8027	From	1
+8210	FruchtermanReingoldLayout.
+	1
+6540	Function	1
+6021	Fundamental	1
+7017	Furthermore	1
+5016	Fuzzy	1
+5678	GE	1
+4710	GET	3
+1696	GIF(the	2
+126	GIF.
+	1
+5679	GT,	1
+3912	GUI	1
+6408	GZIP	1
+7756	Game	1
+875	GameServer	1
+4696	Garbage	1
+1884	Garbow</li>	1
+7383	Generally,	1
+1250	Generate	11
+2031	Generates	13
+236	Generator.	21
+7777	GenericExporter	1
+2599	GenomicCoordinates.	1
+8395	GeoJSON	1
+1660	Geographical	1
+5349	Geom	1
+5350	Geom,	1
+6030	German	1
+644	Get	31
+298	Gets	16
+7983	GigaSpaces	1
+2580	Given	8
+5618	Glide
+	1
+6726	Glory	1
+2600	Go	1
+7298	Goes	1
+3603	Gonnet	1
+4572	Google	1
+3131	GotoStmt(Stmt)	1
+5304	Gradle	3
+4581	Grammar	1
+6300	GrantPermission	1
+7149	Grants	1
+7240	Graph	1
+4958	Graph.
+	1
+1330	GraphML	1
+6419	GraphSimilarity.
+	1
+6239	GraphSimilarityComparatorAdapter
+	1
+1318	GraphViz	1
+4185	Group	3
+6550	Groups	1
+2465	GuiControllerSettings	1
+4347	Guice	1
+3537	H.263	1
+5776	HDFS	1
+7811	HEX	1
+8330	HMMVoice	1
+7403	HONEYCOMB	1
+6035	HP	1
+2564	HTML	1
+1089	HTTP	9
+7016	HTTPS	1
+5241	Halt	1
+2177	Hamming	1
+4248	Handle	4
+83	Handles	12
+3220	Hard	1
+1375	Hash	1
+3558	Hashtables.
+	1
+2276	Having	1
+6846	Header	1
+2114	HeaderGridView	1
+5351	HeapIns	1
+5352	HeapIns,	1
+7207	HelpNode	1
+2220	Helper	15
+7486	Here	1
+7144	Hessenberg	1
+2397	Hibernate	2
+2479	Hide	1
+1512	Hides	4
+283	Highlight	1
+1885	Hillstrom</li>	1
+4729	Hint	1
+7241	Histogram	1
+6975	Hook	2
+7928	Householder	1
+1783	However,	5
+5976	HtmlReporter	1
+1434	HttpClient	2
+7422	HttpPost	1
+2516	I	2
+8319	I'll	1
+6380	I've	1
+5654	I.E.	1
+8355	I.e.,	1
+4974	I/O-Error	1
+343	ID	15
+6012	ID)
+	1
+1784	ID,	1
+3943	ID.	2
+177	ID.
+	12
+5095	IDEA	1
+1785	IDToken	1
+1786	IDToken(ofKind,	1
+990	IDs	5
+6364	IDs.
+	2
+1965	IEEE	1
+6620	IEntryPacket.	1
+3382	ILRMIProxy	1
+6000	IMPLEMENTED</b>
+	1
+5819	INFO	1
+5158	INSECTDocumentNGrams
+	1
+6705	INSECTFileDB
+	1
+6823	IO	1
+3581	IOException	1
+8320	IOException,	1
+2322	IOExceptions	1
+4828	IP	2
+8526	ISO	1
+8660	ISO/IEC	1
+8637	ISVNRepositoryLocation#getLocation()
+	1
+6671	ITEM	1
+7446	IV	1
+2938	IV,	1
+4918	IVScanResult	1
+5558	Id	1
+6677	IdQuery	1
+1014	IdentifiableObjects	1
+1925	Identifier	2
+3847	Identifies	1
+1697	Identify	1
+8157	IdentityHashSet	1
+7853	IdsQuery	1
+13	If	86
+1974	Ignorable	1
+8301	Ignores	1
+1543	IllegalArgumentException	3
+6788	IllegalStateException	1
+6518	Image	1
+7249	ImageFactory.	1
+7830	ImageIcon,	1
+6068	ImageLoader	1
+5267	Immediate	1
+4632	Immediate)	1
+5840	ImmutablePair	1
+5841	ImmutablePair,	1
+8393	Implement	1
+4473	Implements	7
+1287	Implication	1
+7726	ImportDecl	1
+830	Imports	1
+302	In	11
+5969	InGroupPredicate.
+	1
+3513	Include	1
+2840	Increment	1
+2897	Increments	1
+2197	Indexes	1
+326	Indicates	14
+4221	Inform	1
+7632	Informs	1
+7507	Inherit	1
+6659	Init	1
+1455	Initialise	3
+3221	Initialization	2
+3991	Initialization.	1
+828	Initialize	9
+679	Initializes	30
+1025	Initiate	1
+2742	Inner	3
+3625	Inner-Class
+	1
+8501	Input:	1
+3574	InputStream	3
+5885	InputStream.	1
+4266	InputStream.
+	1
+4474	InputStream.read(byte[],	1
+4475	InputStream.read(int)	1
+8215	Insertion	1
+3464	Inserts	4
+6596	Installs	1
+5168	Instanced	1
+2466	Instantiate	3
+1095	Instantiates	30
+7294	Instruction	1
+5936	Instructs	1
+7974	IntColumn.
+	1
+3284	IntDataType	1
+3116	Integer	2
+8253	Integer,	1
+1227	Integer.MAX_VALUE.	2
+4123	Integer.MIN_VALUE)</code>	1
+4124	Integer.MIN_VALUE)</code>,	1
+7123	Intent	2
+7124	Intent,	1
+1525	Interaction	1
+162	Internal	5
+8091	Interprets	1
+4048	Invalidates	2
+6808	InvokeSpecial,	1
+6809	InvokeStatic	1
+5327	Invoked	1
+3709	Invokes	3
+5339	Is	3
+6745	Isolation-analysis	1
+204	It	43
+4573	It's	2
+3929	Item	2
+4737	ItemStack	1
+6513	ItemStacks	1
+2970	Items	2
+3610	Iterator	2
+6919	J(X_k	1
+1886	J.	1
+5082	JARs
+	2
+5368	JDK	2
+8640	JMS	1
+6050	JMSAckDataEntry	1
+127	JPEG,	3
+183	JRadioButton
+	1
+7039	JRakLibClient	1
+1853	JSON	12
+5259	JSON
+	1
+6971	JSONArray	4
+6972	JSONArray,	2
+6631	JSONArray.	2
+684	JSONArray.
+	1
+5875	JSONException	1
+645	JSONObject	4
+4982	JSONObject.	1
+646	JSONObject.
+	5
+8606	JSpace	1
+6086	JSpaces.jar,	1
+7208	JTree	1
+4245	JTree.
+	2
+3992	JVM	2
+5342	JampackException	1
+8321	Jasmin	1
+1887	Java	3
+8233	Java's),	1
+7867	Jimple	1
+7868	Jimplification	1
+7869	Jimplified,	1
+7870	Jimplify	1
+7267	Jini	1
+6398	Job	1
+5268	JobParameters.	1
+6399	JobRequestFailedException	1
+6400	JobRow	2
+6401	JobRow,	1
+60	JobRows	1
+6454	Join	1
+1015	Joins	3
+94	Jolteon	1
+4125	Josef	1
+502	JsonArray.
+	1
+3959	JsonNode	2
+3721	JsonObject,	1
+5394	JsonPrimitive	1
+4948	JsonRequestParams	1
+5167	JsonRootnode	1
+5604	JsonValue	1
+4205	Judge	2
+4211	Just	1
+3222	K-Means	2
+3604	KD-tree	1
+3104	Kettle	2
+8452	KeyBinding	1
+7414	KeyJsonValue	1
+7434	KeyManager	1
+8287	KeyStore	1
+7601	Keywords	1
+5594	Kill	1
+2573	Kinah	1
+5532	Kisk	1
+4246	Knotentext	1
+4126	Knuth	1
+1745	L;	1
+1859	L<sub>2</sub>	2
+8641	LASER	1
+451	LE	1
+5680	LE,	1
+7485	LEB128	1
+5098	LOCATION	1
+2870	LPC	1
+2871	LSF	1
+5681	LT,	1
+5923	LabelRenderer.	1
+1888	Laboratory.	1
+4050	Language.	1
+4758	Large	1
+3675	Latest	1
+6746	Latest-computation	1
+2639	Lazy	2
+807	LazyConnectionDataSourceProxy.
+	1
+3541	LeaseDeniedException	1
+4850	Leases	1
+4427	Least	1
+2226	LegacyNetworkConstraint	1
+6581	Legend.	1
+6582	Legend.
+	1
+1548	Legion	1
+7494	LegionMember	1
+2789	Let	1
+314	Level	4
+1889	Levenberg-Marquardt	1
+2750	Like	1
+6167	Limit	2
+4673	LimitLines	1
+7201	Linear	1
+5878	Link	2
+5909	LinkedIn	2
+575	List	23
+5971	List
+	1
+8005	ListQueryBinding	1
+4893	ListView	2
+8616	ListView's	1
+8785	Listener	1
+4483	Lists	1
+5180	Literal	1
+954	Ljava/lang/Object;	1
+558	Load	8
+4997	Loader.
+	1
+2722	Loads	10
+984	LocalDispatcher	1
+2027	LocalZk	1
+4459	Locale.getDefault().	1
+3248	Localized	1
+716	Locals.<br>	1
+953	Location	2
+8209	LocationAnimator	1
+8028	LocatorReg	1
+8067	Log	1
+2656	Logical	1
+5752	LogicalMetricColumn	1
+1440	Logs	2
+7760	Long	1
+7703	Long
+	1
+7158	Long.MAX_VALUE.	1
+5926	Look	2
+2684	Looks	1
+8607	Lookup	1
+1247	Lua	1
+927	LuaState
+	1
+6800	Lyft	1
+4166	M
+	1
+4167	M'	1
+7447	MAC,	1
+7349	MAP,	1
+1228	MAXIMUM_CAPACITY,	2
+1642	MBROLA	1
+1643	MBROLA-converted	1
+8045	MBean.
+	1
+4816	MD5InputStream
+	1
+7943	MIDNIGHT	1
+6930	MIME	3
+1890	MINPACK	1
+1430	MONSTER	2
+8786	MOVE	1
+5528	MP	2
+6545	MXF	1
+1825	Mahalanobis	1
+1891	Maisonobe	1
+1172	Make	8
+5662	Makes	6
+8237	Makr	1
+6687	MalformedURLException	1
+2496	Manage	1
+2430	Map	1
+4199	Map
+	1
+6847	Map&lt;String,	1
+3611	Map.Entry.
+	1
+8448	MapContext;	1
+4200	Mapping	1
+8126	Mapping(collection)	1
+1868	Maps	1
+8449	Maps
+	1
+1892	March	1
+2540	Mark	2
+6111	Markov	1
+7001	Marks	1
+1389	MarshalException.
+	1
+5148	Marshals	1
+6022	MaryHeader	1
+7216	MaryXML	1
+6612	Math.abs	1
+7404	Math.nextUp(...)	1
+3047	MathIllegalArgumentException	1
+950	Math_Vector
+	2
+2009	Matrix	4
+3438	May	1
+4798	MbrolaVoice.
+	1
+6616	Measure	1
+8617	Measures	1
+3944	Media	1
+4504	MediaFormat
+	1
+452	MedtronicReceiveMessage	1
+453	MedtronicReceiveMessage:	1
+2138	Memcached).
+	1
+2739	Merge	5
+4057	Message	1
+3804	Metadata	1
+877	Method	22
+6182	Method
+	1
+4450	Methods	1
+7671	Metric,	1
+2657	Metric.	1
+344	Migrate	1
+5437	Minimum	1
+3907	Mirror	1
+6112	Model	1
+8331	ModelSet	1
+7428	Modules"	1
+5328	MonitoredVm	1
+3961	More	2
+1893	More</li>	1
+3439	Most	1
+3061	Motion	1
+8111	Mouse	1
+1553	MouseEvent	1
+3822	Move	1
+7341	Moves	1
+2905	MultiCounter	1
+2852	Must	4
+237	MyBatis	21
+1787	MyParserConstants.ID	1
+4258	NAT.
+	1
+3388	NBT.
+	1
+1450	NBT;	1
+7125	NEW_TASK	1
+5154	NGramGaussNormSymWinDocument.
+	1
+2933	NO	2
+5952	NOI
+	1
+7780	NON-DOM:	1
+7944	NOON	1
+541	NOT	4
+6087	NOTE	2
+752	NOTE:	4
+1549	NPC	1
+8105	N^2>>
+	2
+5959	NaN	2
+4416	NaN.
+	2
+3062	Naive	1
+3063	NaiveSideEffectTester	1
+4365	Name	1
+6541	Naqvi	1
+1894	National	1
+5388	Need	2
+6437	Needs	1
+2672	Negate	1
+2148	NeighborIterator.
+	1
+7050	Nelder-Mead	1
+6008	Netscape	1
+4810	Network	1
+1676	New	6
+3872	NewInvokeExpr(Local	1
+4633	NewSpecialInvokeExpr(Local	1
+5163	NlModel	1
+3453	Nmtoken	1
+2531	No	7
+4740	NoSuchComponentException.
+	1
+4201	Node	3
+6251	Node.
+	1
+4600	Nodes	1
+1957	Normalize	4
+4616	Normally,	1
+2541	Not	4
+5904	Notation	1
+2689	Note	14
+7277	Note,	1
+844	Note:	7
+3315	Note:</strong><br>	1
+619	Notifies	3
+2887	Notify	6
+3255	NotifyDelegator	1
+2790	Now,	1
+8596	Npc	1
+5682	Null	2
+3289	Number	7
+3171	Number.	1
+5395	Number.
+	1
+5901	NumberRangeModel	1
+7724	NumericLiteral	1
+1376	OAuth	1
+5485	OCR	1
+4153	OFBiz	1
+4683	OOPSLA	1
+8666	OPTIONS	1
+4379	OR	1
+5369	OS	1
+4276	OS
+	1
+5972	Object	5
+6848	Object&gt;	1
+6849	Object&gt;</li>	1
+7242	Object,	1
+6542	Object.	1
+8523	Object.
+	1
+781	Object</li>	1
+8524	ObjectColumn.	1
+6442	ObjectReader	1
+3362	Observable	1
+5632	Observables	1
+6177	Ofbiz	1
+2006	Offset	6
+8386	Ok	1
+1256	Once	1
+371	Only	10
+7878	OpenJPA	1
+7967	OpenMapRealVector.
+	1
+430	Opens	3
+2151	Opt	13
+7968	Optimized	1
+4373	OrPredicate.
+	1
+7788	Original	1
+1515	Otherwise	2
+5314	Otherwise,	4
+8502	Ouput:	1
+1698	Out	2
+4759	OutputStream)</code>	1
+5010	Overridden	2
+226	Override	4
+2405	Overscrolling	3
+6201	OvfImporter	1
+1746	P	2
+2872	P(z)	1
+8216	P24-5,	1
+3031	PAC	1
+8275	PARTYMGR_CREATE	1
+3064	PASideEffectTester	1
+6904	PC_ALL	1
+8661	PDF417	1
+8377	PEM	1
+7177	PEM-encoded	1
+6564	PIXELS)	1
+6099	PLDI	1
+7945	PM	1
+128	PNG,	3
+4327	POST	3
+8487	POST,	1
+6963	PSVI	1
+7214	PUT	2
+5823	Packs	1
+3002	Pad	1
+3003	Padding	2
+3636	Paddle	2
+2944	PageObjectInjectorListener	1
+2945	PageObjectListProxyProvider	1
+2946	PageObjects,	1
+4669	Paint	2
+8106	Pair	2
+3668	PairingCode	1
+7814	Panel	1
+8455	Parameter	1
+506	Parse	7
+8664	Parser	1
+5279	ParserException	1
+1037	Parses	11
+7908	Parses,	1
+3735	Particularly	1
+7826	PassthroughRule,	1
+7715	Password	1
+7716	PasswordEntryEditor.
+	1
+214	PathElement	1
+4829	Pattern	1
+4642	Pay	1
+5540	PayFlow	1
+1026	PayPal	1
+454	Payload	1
+7254	PeekView
+	1
+4882	Pending	1
+8389	PercentageCellRenderer,	1
+3112	Perform	5
+1088	Performs	18
+6202	Perhaps	1
+2032	Period's	2
+2033	Periods	2
+6013	Permit	1
+3490	Persistently	1
+1699	Person	1
+7530	Petitions	1
+8217	Phi	1
+3172	Phone	1
+6082	Photo	1
+7089	Pick	1
+4207	Picks	1
+5981	Pins	1
+8704	Place.	1
+7817	Places	1
+4173	Play	3
+1241	Point	1
+6727	Points.
+	1
+14	PoissonDistributionImpl	1
+15	PoissonDistributionImpl.	1
+6832	Pokemon	1
+5566	PolarLocationAnimator	1
+1119	Populate	4
+7758	Pose	1
+3689	Positive	1
+8088	PostAggregation	1
+7525	PostLexicalAnalyzer
+	1
+4168	Postconcats	1
+7871	Pre	1
+6873	PreResponse	1
+4092	PrecacheService	1
+3855	Precision	1
+2184	Preference.	1
+5559	Preferences	1
+8769	Prefix	1
+3815	Prepare	3
+5133	Prepares	4
+6100	Prerequisite:	1
+2090	Prevent	2
+5054	Principal.
+	1
+1331	Print	4
+3736	PrintStream.	1
+582	Prints	9
+2157	Privacy	1
+5541	Pro	1
+7547	Proceed	1
+5708	Process	3
+3631	Processes	1
+8573	Produce	1
+2747	Product
+	1
+6715	ProductType.	1
+2906	Profile	4
+2907	Profiling	1
+5533	Project	2
+4418	Project.
+	1
+3637	Propagate	1
+70	Propagates	1
+5457	Propagator	1
+2108	Properties	3
+3389	Protected	1
+941	Provide	3
+8734	Provides	1
+5353	PtIns,	1
+5354	PtIns.	1
+2483	Public	2
+2135	PublicKey	1
+8624	Pull	1
+7999	PulleyJoint	1
+5970	Pulling	1
+6160	Purge	1
+4353	Pushes	3
+1051	Put	4
+6489	Puts	4
+2873	Q(z)	1
+5343	QB.	1
+5785	QQ	1
+7424	QR	1
+1431	QUERIES
+	5
+3805	Queries	1
+4524	Query	4
+1195	Question	1
+6051	Queue,	1
+8471	R(from:	1
+6265	RCP(-a,b)	1
+6266	RCP(a,-b)	1
+6267	RCP(a,b)	1
+6268	RCP(b,a)	1
+8107	RDD	2
+5638	RE-USABLE!
+	1
+5619	RESIZED	1
+6183	REST	3
+2243	RFC	1
+507	RFC1123	2
+4545	RGB	1
+5006	RGB565.	1
+6694	RMA6	1
+7798	RNG.
+	1
+6469	RRR.SSSS	1
+6108	RabbitMQ	1
+1242	Radius	1
+7759	Rajawali	1
+1132	Randomly	3
+4422	Ranges.
+	1
+2486	Rank	2
+3223	Re-iteration	1
+960	Read	10
+4643	Read-after-write	1
+5886	Reader	1
+2896	Reader.
+	1
+1418	Readers	2
+262	Reads	29
+6522	Reads]	1
+6886	Really	1
+2892	Reasonable	1
+3837	RecentProjects
+	1
+6205	RecentTabsPage	1
+3454	Recommendation
+	1
+6240	Reconcile	1
+1313	Records	3
+8783	Recover	1
+1700	Rectangle	2
+6716	Recurse	1
+5880	Recursive	1
+5548	RecyclerView	1
+5166	Redo	1
+991	Reduce	1
+4876	Ref	2
+6992	References	1
+378	Refresh	3
+7489	Refreshes	1
+876	Register	2
+1042	Registers	5
+7186	RegistrarLease	1
+1229	Rehashes	2
+7913	Reinitialise	1
+5083	Relation	1
+3986	Release	2
+2180	Reloads	1
+3690	Relying	1
+7627	Remaining:	1
+1958	Remove	11
+491	Removes	25
+7921	Renamed	1
+499	Render	2
+1319	Renders	4
+6949	Reorder	1
+1345	Repeat	1
+6423	Repeatedly	1
+3824	Replace	3
+4905	Replacement	3
+5550	Replaces	2
+6231	Replicate	1
+5159	ReplicationFilterException	1
+2565	ReportTable	1
+7260	Reports	1
+3848	Req
+	1
+4154	Request	1
+1027	Request
+	2
+4834	RequestParams	1
+5406	RequestResponseHandler	1
+930	Requests	1
+1488	Required	5
+2141	Requires	1
+2845	Reset	5
+2885	Resets	5
+8288	ResizeImageTransform	1
+6959	Resolve	2
+6283	Resolves	4
+5434	Resource	1
+6088	ResourceBundle	1
+2709	ResourceUnit	1
+8667	Responds	1
+4155	Response	1
+6874	ResponseContext	1
+2735	Rests	1
+6875	ResultSet,	1
+4975	Resumes	1
+5184	Retains	2
+5192	Retrieve	2
+2142	Retrieves	2
+2669	Retrieves,	1
+5038	RetrofitHelper	1
+355	Return	42
+172	Returns	213
+740	Revert	1
+5255	Revive	1
+8557	RewisServer
+	1
+6298	Rigourous	1
+6269	RobustCrossProd):	1
+8462	Rolls	1
+4856	Rolls-back	1
+4340	Rotates	1
+3655	Round	1
+7803	Rounds	1
+5973	Rpc	1
+6723	Run	1
+5101	Runnable	1
+1047	Runs	2
+4169	S(sx,	1
+1895	S.	1
+2575	SA.
+	1
+636	SAX	6
+812	SCCs	1
+3817	SCIPIO:	5
+4804	SITE	1
+6672	SKILL	1
+8412	SL	1
+8379	SLD	1
+8061	SMS	1
+1377	SMS.	1
+4830	SOCKS	1
+4817	SQL	2
+3279	STATE_CURRENT_FOLDER	1
+6508	SVG	1
+8238	SVN	1
+4012	SVNCompareRevisionsInput	1
+2038	SYSTEM	1
+8508	Safe	1
+8018	SafeVarargs	1
+5647	Salvation	1
+2284	Same	2
+4240	Sample	2
+5754	Samples	1
+2472	Save	7
+4872	Saves	3
+2192	Scale	1
+6157	Scales	2
+1615	Scan	2
+7842	ScanHandler	1
+3292	Scans	2
+6810	Scene	1
+3101	Schedule	4
+1224	SchedulerDrivers.
+	1
+7904	Schedules	1
+2346	Schema	3
+7692	Screen	1
+4156	ScreenRenderer	2
+6887	ScreenWiggleLocusInfo.	1
+7421	ScriptIO.
+	1
+2291	Scroll	1
+1940	Search	3
+3883	Searches	4
+6193	Security.
+	1
+61	SecurityContext.
+	1
+4127	See	2
+7043	See:	2
+1191	Seek	1
+1644	Segment	2
+2696	SegmentIntervalsHashIdGenerator	1
+4951	Select	3
+5142	Selection	1
+3032	Selects	1
+2394	Send	7
+3849	SendData	1
+3134	Sends	2
+7321	September	1
+4719	Serialization	1
+2753	Serialize	3
+5065	Serializes	1
+4400	Server	1
+7535	Server
+	1
+6934	Serverset	1
+5542	Service	3
+7483	Service
+	1
+7232	ServiceItems	1
+7233	ServiceMatches.
+	1
+8029	ServiceRegistrar	1
+8030	ServiceRegistrar.
+	1
+1390	ServiceTemplate	1
+8608	Services	1
+4574	Services.	1
+5608	ServletContext	1
+4157	ServletContext.	1
+2398	Session	2
+2274	Set	18
+599	Sets	11
+3638	Setting	3
+1468	Setup	2
+8134	Several	1
+6660	ShapeRenderers.
+	1
+6463	ShareFileFragment	1
+8737	SharedPreferences	1
+5663	ShoppingCartItem	1
+339	Short	1
+8254	Short,	1
+2631	Shortcut	3
+4801	Shorten	1
+2622	Should	6
+2961	Show	9
+7305	Shows	3
+3551	Shuffling	1
+5365	Shuts	1
+3065	Side	1
+8418	Similar,	1
+8419	Similar.	1
+8465	SimpleCommand	1
+2094	SimpleContentModel	1
+7217	SimpleFileFilter.
+	1
+5451	SimpleTextHistoDocument
+	1
+5020	Simplify	1
+1788	Simply	1
+5843	Simply,	1
+3762	Simulates	1
+7561	Since	1
+1829	Singular	1
+4500	SipHash-2-4	1
+3428	SiteAdminActionBar
+	1
+4008	Siteadmin	1
+5123	Size	1
+962	Skip	1
+380	Skips	4
+4620	Smart	1
+6604	Snackbar.
+	1
+2517	So	3
+1490	Some	4
+3066	Soot	2
+5839	SootClass	1
+4634	SootMethodRef	1
+1837	Sort	4
+8625	Sounds	1
+7771	SourceCommandTag.
+	1
+5022	Space.
+	1
+7268	SpaceFinder	1
+7269	SpaceFinder.find	1
+6698	Spanning	1
+6710	Spark	2
+7872	Spark.	1
+1664	Speaks	1
+4128	Special	2
+5416	Specification	1
+3555	Specifies	3
+1914	Specify	2
+6365	Split	1
+6194	Spring	1
+5412	SpringForce.
+	1
+6307	Stack
+	1
+3656	Stage	1
+685	Start	12
+866	Starts	8
+6078	Startswith-filter	1
+6819	StatusConsole
+	1
+4436	StatusFrame
+	2
+5474	StdoutReporter.	1
+4129	Stein	1
+1565	Stigma	1
+4268	Stigma's	1
+3461	Stock
+	1
+1566	Stone	1
+1567	Stone.
+	1
+2139	Stop	3
+6235	Stops	4
+8609	Storage	1
+6801	Store	1
+1410	Stores	3
+3430	Strand	1
+8370	StreamSource	1
+8638	Strin	1
+518	String	21
+3712	String,	3
+5225	String.	3
+4281	String.
+	3
+2076	StringTokenizer.	1
+7337	Strings	1
+2113	Strings,	1
+3177	Strips	1
+5096	Studio.)
+	1
+3029	Stun/Paralysis
+	1
+8380	StyledLayerDescriptor	1
+4074	SubEquipment	2
+1966	Subclasses	3
+2369	Submit	1
+6585	Subscribes	1
+2542	Subsequent	1
+895	Successful	1
+7609	Such	1
+1098	Suffix	1
+2476	SuffixFSM.
+	1
+5131	Suggester,	1
+6551	Sum	1
+6763	Sun	1
+591	SuperClassAccess	2
+1938	SuperInterfaceId	1
+5188	SupplierProducts	1
+7531	Support	1
+2555	Swaps	2
+7091	Switches	1
+4366	SymbolTable	1
+6052	Synch	1
+1681	Synchronizes	2
+4697	System.gc()	1
+5475	System.out.
+	1
+7785	T	1
+8614	TAC08	1
+8615	TACDocumentSet,	1
+8642	TIM	1
+5899	TIntIterator	1
+6673	TO	1
+3135	TODO	3
+992	TODO(dfalcantara):	1
+7070	TODO:	1
+6674	TREE	1
+6737	Tab	1
+7384	TabCreator	1
+993	TabModels	1
+7589	TableMetadata	1
+7590	TableMetadata}
+	1
+1043	Tag	2
+2323	Tags	1
+6514	Take	1
+8010	Takes	1
+2294	TaskManager	1
+2791	Taylor's	1
+4963	TechDataCalenda,	1
+4964	TechDataCalendar	1
+8276	TelecomNumber	1
+7748	Tells	1
+1391	Template.	1
+1585	Terminates	1
+2439	Test	9
+4348	TestInfo.	1
+3067	Tester	1
+3068	Tester.
+	1
+6603	Testing	1
+273	Tests	9
+7574	TextGrid's	1
+3383	TextView.
+	1
+6664	TextViewer
+	1
+4858	That	4
+129	The	169
+1789	Then	4
+1288	Then,	1
+1358	There	5
+4143	Therefore	2
+2448	Therefore,	1
+3263	These	1
+3192	They	3
+238	This	215
+8480	ThisRef(RefType)	1
+3300	Thread	1
+8317	Throw	2
+3048	Throws	8
+8112	TicTacTocPoint	1
+4264	Ticker	1
+2713	Time	2
+7757	Time:	1
+8098	TimeSeriesCollection	1
+6369	TimeZone	1
+5414	Timeout	1
+4989	Timer	1
+3249	Timestamp	2
+605	To	14
+4749	Toast	1
+89	Toggle	4
+1790	Token	1
+2077	Tokenize	1
+7862	Tokenizes	1
+8290	TopBaseConfiguration	1
+6053	Topic	1
+5816	Track	1
+3224	Training	2
+5296	Trains	1
+1930	Transfers	1
+2149	Transform	3
+3440	TransformProcess	1
+3832	Transforms	2
+4061	Transitions	1
+8259	Translate	1
+6354	Translates	1
+8561	Translating	1
+4914	Translation	1
+1967	Trap	1
+8756	Traverse	1
+8691	TreeML	1
+8332	TreeSet	1
+1570	Tries	4
+5269	Trigger	1
+5270	Trigger.	1
+7154	Triggers	1
+3303	Trim	2
+8308	TrustManagers	1
+7178	TrustSource	2
+7179	TrustSource,	1
+8119	Try	1
+8300	Tuple	1
+981	TupleSet	1
+3245	Turns	2
+7005	Two	2
+366	Type	4
+340	Type.
+	1
+2271	TypeArgument	1
+882	TypeBound	1
+1435	TypeDecl	1
+1580	Type[]	1
+3173	U.S.	1
+494	UI	4
+8437	UI
+	1
+90	UI.
+	5
+8071	UI?
+	1
+3301	UNSAFE
+	1
+500	URI	5
+4105	URI),	1
+6892	URI.	1
+918	URIs	3
+7545	URIs.
+	1
+795	URL	10
+7385	URL.	1
+3711	URL.
+	2
+1437	URLs	4
+5864	URLs.	1
+7180	US-ASCII.
+	1
+8527	UTC	1
+4267	UTF-16	1
+5777	UTF-8	2
+5370	UTF8	1
+5371	UTF8-compatible	1
+372	UTs	1
+2244	UUID	1
+2245	UUIDs	1
+489	Undo	2
+2	Unescape	1
+4019	Unescapes	1
+5789	Unexports	1
+3046	Unicode	1
+8409	Uniform	1
+4409	Union	1
+6836	Unit	1
+118	Unit
+	1
+5093	Unit.
+	1
+7327	UnivariateStatisticAbstractTest
+	1
+3676	Unix	1
+7198	Unloads	1
+880	UnpaidOrder	1
+5748	Unpauses	1
+8003	Unpins	1
+8787	Unrecoverable	1
+6250	Unregister	1
+8488	Unsubscribe	1
+6699	Unsupported	1
+5977	Unsupported,	1
+1221	Update	24
+119	Updates	12
+7747	Uploads	1
+7637	Upper	1
+7753	UrlViewport	1
+315	Use	12
+2216	Used	18
+4437	User	1
+7704	UserLogin	1
+16	Uses	7
+3612	Using	3
+5164	Utility	4
+3115	VERBOSE	1
+896	VERB_EXECUTING	1
+7338	VM.	1
+531	VM.
+	3
+1219	VOGeoServerShapeSymbol.
+	1
+4684	VTA	1
+7435	Valid	1
+4000	Validate	1
+4799	Validates	4
+1830	Value	2
+5200	ValueEncoderMeta	1
+4685	Variable	1
+859	Vector2f	1
+860	Vector2f(0,0).
+	1
+5850	Vector3f	1
+7960	Verbose	1
+17	Verifies	3
+4009	Verify	3
+2507	Verifying	1
+5150	Version	2
+178	Video	1
+2185	View	1
+576	View
+	1
+6402	View,	1
+8282	View.onMeasure(int,	1
+7789	ViewCompat.
+	1
+3989	ViewHolder.
+	1
+1136	ViewType	1
+2115	Views	2
+5091	VisiblePredicate.
+	1
+8042	Visit	1
+5978	Visitor	2
+8382	Visits	1
+3984	VisualItem
+	1
+2758	VisualItem.
+	1
+5176	VisualItems	2
+144	VisualTable	1
+5084	Viterbi	1
+5085	ViterbiPoints	1
+5329	VmListener	1
+8265	Voice	1
+8083	Voice-specific	1
+8084	Voice.	1
+2347	W3C	1
+2395	WARNING	1
+4193	WARNING:	2
+5004	WEAKNESS	1
+6381	WRONG_DOCUMENT_ERR	1
+831	WSDL	1
+2968	WagonFormat.
+	1
+2922	Wait	3
+4954	WallForce	1
+4983	Warning:	4
+8167	WasabiEmailException.
+	1
+7672	WavefrontString.name(String)	1
+2792	We	9
+8757	We'll	1
+1631	WebElements	1
+3924	WebRoot/WEB-INF.
+	1
+7342	Webapp	1
+7343	WebappActivity	1
+2628	WebappUrlBar.
+	1
+7821	WhatsApp	1
+2095	When	13
+7712	Where	1
+7140	WhereOperator	1
+479	Whether	4
+2756	Wiki	1
+5702	Will	4
+8575	Window.
+	1
+1656	Windows	5
+2601	With	3
+4703	Won't	1
+2971	WordRelation.
+	1
+6752	Works	1
+6651	Wrapper	1
+6866	Wraps	1
+205	Write	6
+4644	Write-after-write	1
+246	Writes	27
+4430	X	4
+8055	X
+	1
+8472	X,	1
+8473	X,to:	1
+5048	X-Geo)	1
+8309	X509TrustManager	1
+6920	X:	1
+8099	XDR	1
+2257	XML	9
+2357	XML
+	1
+4449	XML.
+	1
+7263	XMLString	1
+4552	XMLToken	1
+4553	XML_DATA_CHARACTERS,	1
+1603	XOR	1
+5648	XP	1
+7457	XPath	1
+3897	XSD	1
+6089	XSL	1
+8428	XSObjectList	1
+316	Xerces	4
+5974	Xml	1
+5887	XmlStreamReaderException	1
+4554	XmlTag	1
+7610	Xposed,	1
+4431	Y	1
+8474	Y)	1
+8475	Y)
+	1
+5517	Y=YY.YYYY,	1
+86	You	37
+2487	Your	4
+5561	Z	1
+8476	Z),	1
+8477	Z,	1
+7546	Z1.
+	1
+5518	Z=ZZ.ZZZZ]	1
+5372	ZIP	1
+373	ZK	1
+7936	ZWave	1
+2471	ZWaveAlarmCommandClass	1
+8009	ZWaveEnergyProductionCommandClass	1
+2191	ZWaveMtpWindowCoveringCommandClass	1
+6676	ZWaveScheduleEntryLockCommandClass	1
+938	Zdiagmat	1
+1701	Zero	2
+7012	Zmat	2
+939	Zmat.
+	2
+5169	Zone.	1
+5703	ZoneManager	1
+6565	Zooms	3
+2370	[	3
+186	[%SkillCaster]	21
+6319	[%SkillCaster]'s	1
+106	[%SkillName].
+	39
+1200	[%SkillTarget]	19
+816	[%SkillTarget]'s	5
+4241	[-100,	1
+5553	[-Pi,-3]	1
+5442	[0,	1
+6523	[100	1
+5554	[2,Pi]	1
+6860	[200..300),	1
+3455	[7]	1
+5519	[Normal:	1
+5520	[X=XX.XXXX,	1
+7465	[vk.com/apiclub|VK	1
+2793	\	1
+1747	\(p3	1
+1748	\[	1
+1749	\]	1
+4396	]	2
+2874	]
+	1
+3456	_Fields	3
+897	_PENDING	1
+898	_STARTING	1
+899	_STOPPING	1
+6219	_could_	1
+7474	`id`	1
+7475	`name`	1
+7476	`name`-executor-`id`-0.	1
+18	a	1079
+6270	a,	1
+6271	a.CrossProd(b)	1
+5459	a1	1
+5460	a2	1
+7270	ability	1
+2710	able	5
+2719	abnormalstate	1
+5202	abort	1
+7261	aborted.
+	1
+3069	about	11
+2794	above	3
+2795	above,	1
+4130	above.	1
+4106	absolute	4
+2796	absorbed	1
+5941	abstract	6
+3670	abstraction
+	1
+3183	acceleration	1
+2577	accept	2
+4249	accepted	3
+6861	accepted.
+	1
+4842	accepting	1
+5238	accepts	5
+1378	access	7
+1162	accesses	1
+6696	accessibility	1
+7498	accessible	1
+2623	accessible.
+	1
+7307	accessor
+	1
+2331	accidentally	1
+2431	accidently	1
+2559	accomplish	1
+1860	according	16
+5731	accordingly.
+	1
+1869	account	9
+3431	account
+	1
+7332	account.	1
+7832	account.
+	1
+7922	accumulator.	1
+4768	accuracy	1
+6367	accurately.
+	2
+8445	ack	1
+8333	acoustparams:	1
+5315	acquire	1
+2341	acquired	1
+2198	across	1
+7244	acting	1
+504	action	16
+3788	action
+	1
+1257	action.	4
+490	action.
+	4
+1194	actionPerformed.
+	2
+4438	actions	5
+5549	actions
+	1
+5389	actions,	1
+1791	actions.
+	1
+5790	activatable	1
+4491	activate0).
+	1
+6924	activated	1
+2310	activated.	1
+8440	activating	1
+6983	activator.
+	1
+2295	active	5
+6925	active.	1
+3136	activities	1
+3165	activity	11
+2292	activity
+	4
+8590	activity).
+	1
+7126	activity.
+	3
+656	acts	2
+1581	actual	8
+1838	actually	5
+4984	acyclical.
+	3
+2556	adapter	3
+600	adapter
+	1
+7846	adapter.	1
+6784	adapts	1
+951	add	32
+8775	add/edit	1
+2116	addHeaderView	1
+1702	added	13
+2117	added.	2
+2768	added.
+	2
+3148	added/deleted	1
+5526	added/removed	1
+5021	adder	1
+6425	adder,	1
+3052	addesses	1
+1820	adding	5
+5211	addition	1
+3534	additional	4
+3818	additions	1
+4208	address	3
+6284	address,	1
+292	adds	11
+4533	adjacent	1
+630	adjoint	2
+3469	adjusts	1
+7146	admin	2
+3376	advance	1
+2406	advanced	1
+7833	advertising	1
+2109	affect	2
+6320	affected	1
+3993	affecting	1
+3482	afraid.
+	1
+495	after	40
+6519	after
+	1
+7905	afterKey	1
+7194	afterwards.
+	1
+4354	again	3
+2929	again
+	1
+3582	again,	1
+5888	again.	1
+6747	again...
+	1
+3198	against	8
+5280	against
+	1
+4929	agent	1
+5953	agent.
+	1
+7722	agents	1
+6552	aggregation	2
+4385	ajax	1
+8218	al	1
+1425	al.,	1
+4144	alarm	1
+185	alarm.
+	1
+6315	album
+	1
+5361	albums	1
+5698	alerts	1
+3605	algorithm	6
+3552	algorithm,	1
+5458	algorithm.	2
+3856	alias	1
+4391	alias,	1
+6629	alias.
+	1
+6993	aliased.	1
+1507	alive	6
+4075	aliveTagId:	1
+71	all	154
+7071	all,	1
+3857	all-pairs	1
+1131	all.
+	2
+4212	allItems	1
+8188	alliance	1
+3408	alliance
+	1
+3763	alliance.
+	1
+420	allocPage.
+	1
+657	allocate	2
+4720	allocateNewObject(java.lang.Class,	1
+5261	allocated	1
+4601	allocating	1
+1225	allow	8
+2680	allowed	8
+1203	allowed
+	1
+5591	allowed.
+	1
+6976	allowing	1
+799	allows	6
+4788	along	4
+19	alpha,	1
+6355	alphabet	1
+6356	alphabetic	1
+1351	already	26
+5419	already
+	1
+8334	already,	1
+8335	already.
+	1
+1616	also	20
+3212	alt	1
+3363	alt="">
+	3
+3316	alternative	2
+2797	alternatively,	1
+8383	alters)	1
+6224	although	1
+569	always	17
+6515	amalgamate	1
+7291	among	1
+1821	amount	9
+4941	amplitude	1
+20	an	325
+4721	analyses,	1
+972	analysis	4
+7961	analysis,	1
+2908	analysis.	3
+5017	analysis.
+	2
+2909	analysis..	1
+4516	analytics	1
+4517	analytics.
+	1
+6178	analyzing	1
+470	anchor.
+	1
+7451	anchored	1
+21	and	489
+2736	and(leftPredicate,	1
+6412	and/or	3
+7264	angle	1
+4763	angle
+	1
+4704	animate	1
+5820	animate
+	1
+7970	animate(...)	1
+8256	animating	1
+4062	animation	7
+353	animation
+	2
+7285	animation.	2
+8662	annex	1
+8019	annotation.
+	1
+2947	annotations.	1
+741	another	19
+7718	another,	1
+7697	another.	3
+5443	another.
+	2
+6630	anti	1
+542	any	37
+2632	any(predicates)).
+	1
+5783	any.
+	1
+8556	anyone	1
+994	anything	4
+6867	anyway	1
+5609	anywhere	2
+109	api	24
+1495	api.	1
+6802	app	2
+4328	app
+	1
+8163	app,	1
+6803	app.	1
+7539	appId	1
+7540	appSecret	1
+2118	appear	4
+7392	appearance	2
+2685	appearing	4
+5721	append	4
+8175	appended	1
+733	appended.
+	1
+2641	appender	2
+6006	appender.
+	1
+2064	appending	2
+8177	appends	1
+2039	applicable	1
+2217	applicable?	9
+4606	applicable?
+	1
+2371	application	8
+836	application,	2
+7187	application.	1
+3501	application.
+	5
+5137	applications	1
+3685	applications
+	1
+5812	applied	1
+4949	apply	2
+8539	applyInverseTo(rOuter,	1
+658	applyTransformToDestination	2
+659	applyTransformToDestination.	1
+2051	applying	6
+8151	approach,	1
+1792	appropriate	11
+7028	appropriate,	1
+7918	appropriately	1
+3962	approval	1
+1438	approved	1
+230	approximates	2
+4711	apps.
+	2
+1289	arbitrarily	1
+8310	arbitrary	1
+7031	arc	1
+3045	arc-sine	1
+396	arc-tangent	1
+7265	arc.
+	1
+4445	archive
+	1
+22	are	141
+2948	are:	2
+1896	are:</p>	1
+480	area	3
+6591	area[0]	1
+6592	area[1]	1
+4778	aren't	1
+1598	argument	8
+397	argument.
+	5
+5960	arguments	4
+4933	arguments
+	1
+1097	arguments.
+	3
+5759	arise	1
+1555	arithmetic	2
+3096	arity	1
+8076	armor	1
+8588	armored	1
+4410	around	7
+583	array	77
+826	array
+	6
+519	array's	1
+660	array).	1
+8376	array).
+	1
+1556	array,	8
+661	array-based	1
+1352	array-ref	1
+4877	array-referencing	1
+520	array.	6
+1034	array.
+	18
+7709	array.length).
+	1
+7837	arrays	1
+5420	arrive	1
+3256	arrive.
+	1
+7159	arrives,	1
+7611	art,	1
+345	as	163
+1750	as:	1
+4608	asString	1
+5252	ascending	1
+8593	aside	1
+5858	ask	3
+3470	aspect	1
+6420	aspects	1
+3004	asset,	1
+2518	assign	2
+341	assignable	2
+722	assigned	10
+7606	assigned
+	1
+3357	assignee	1
+3225	assignment	2
+2474	assocated	1
+6490	associate	1
+303	associated	19
+6495	association	1
+3977	associations	2
+6994	assume	3
+942	assumed	4
+2910	assumes	8
+3070	assumes,	1
+6811	assuming	1
+5253	assumption	1
+3317	assumptions	1
+6946	asynchronous	1
+130	at	98
+8158	atomic	1
+3193	atomically	1
+6893	atrribute	1
+6575	attach	1
+3945	attached	3
+7819	attached
+	1
+7448	attaches	1
+3946	attachment	1
+3947	attachment:	1
+817	attack	4
+8522	attack.
+	1
+5781	attackLevel
+	1
+1617	attempt	8
+8442	attempting	1
+3347	attempts	3
+4645	attention	2
+570	attribute	9
+1150	attribute
+	1
+2440	attribute.
+	3
+1038	attributes	3
+7661	attributes.
+	1
+1897	attributes.</p>	1
+8676	auction.	1
+1141	audio	15
+7386	authenticate	1
+2504	authenticated	2
+6967	authentication.
+	1
+5316	authoritative	1
+1918	authority	1
+1379	authorization	2
+1898	authors	1
+5595	auto	2
+6236	auto-noop	1
+7072	auto-retry	1
+1230	automatically	5
+3491	automatically,	1
+753	automatically.	1
+4446	auxiliary	1
+6150	availability	1
+907	available	13
+4564	available
+	2
+3071	available.	2
+754	available.
+	2
+4617	availables	1
+1942	average	6
+6478	averages	1
+2930	avoid	4
+4722	avoided	1
+1582	avoids	2
+3226	away	2
+6225	away.
+	2
+3985	axis	2
+697	b	6
+5007	b)	1
+7892	b),	1
+7893	b)</code>	1
+7894	b,	1
+2861	bacause	1
+421	back	12
+8489	back
+	1
+662	backed	1
+4602	backend	1
+4603	backend.	1
+867	background	4
+4174	background,	1
+6922	backing	1
+5134	backoff	1
+4020	backslash	1
+4021	backslash.	1
+7793	backslash.
+	1
+8135	backslashes	1
+734	backup	1
+5868	backward	1
+3918	backwards	1
+91	badge	5
+7577	balanced.
+	1
+4883	balances	1
+5446	balancing	1
+4952	ball.
+	1
+8051	ban.
+	1
+5119	banned	1
+4003	banning	1
+4010	bar	3
+2480	bar
+	1
+5283	bar.	1
+4389	bar.
+	1
+5340	bar?
+	3
+4404	barcode	2
+5768	barcode.
+	1
+1634	bars	1
+1121	base	6
+3873	base,	2
+5173	base-level	1
+6529	base64-encoded	1
+2426	baseEnd	1
+3978	baseObj	1
+3979	baseObj.
+	1
+2427	baseStart,	1
+327	based	34
+2428	baseline	3
+4884	batch	1
+7621	batches	1
+2764	battle	1
+6081	battle.
+	1
+1478	bazel	1
+23	be	317
+7622	bean	1
+755	because	26
+4411	become	4
+1772	becomes	1
+6573	bedgraph	1
+553	been	38
+1204	before	22
+7906	beforeKey.	1
+3432	begin	3
+7002	begin/end	1
+4885	beginOperation().
+	1
+1327	beginning	4
+401	behalf	2
+4779	behavior	1
+8270	behavior.
+	1
+3994	behaviour	1
+4930	behaviour,	1
+620	being	13
+3583	being,	1
+1492	belongs	2
+4537	below	2
+7923	below).
+	1
+5453	benchmarks	1
+919	beneath	1
+3737	best	5
+6272	better	1
+402	between	33
+7741	beyond	1
+8749	biasCorrected	1
+8677	bidder	1
+7840	bidirectional	1
+5865	big	2
+7102	bill	1
+7396	billion.
+	1
+2372	binary	6
+1618	bind	1
+4093	binding.
+	1
+4992	birth.
+	1
+3908	bit	4
+6151	bitfield,	1
+2227	bitmap	8
+4501	bits)	1
+4942	bitsPerSample	1
+6152	bittorrent	1
+8719	blank	1
+8720	blank.	1
+7409	blanks	2
+8721	blanks.	1
+4813	blast	1
+7683	blaze.
+	1
+5039	blind.
+	1
+247	block	8
+1178	block
+	2
+248	block.	3
+1070	blocked	4
+1071	blocking	1
+5801	blocking.	1
+4202	blocks	3
+908	blocks),	1
+7181	blocks.	1
+5439	blocks.
+	1
+1677	board	1
+5982	board.
+	2
+2449	bodies	2
+2450	bodies,	1
+6902	bodies.
+	1
+4420	body	6
+2073	body.
+	1
+5596	bookie	2
+5597	bookie,	1
+2285	bookmark	3
+6037	bookmark.
+	1
+2286	bookmarked	1
+6553	bool	1
+4609	boolean	3
+1599	boolean.	1
+2373	boolean:	1
+5579	boolnea	1
+5204	boosted	1
+1703	both	17
+1463	bottom	3
+2595	bottom,	1
+4332	bottom.	1
+1090	bound	3
+3795	boundaries	2
+1493	boundary	1
+5987	bounded	2
+131	bounding	5
+2911	bounds	5
+8754	bounds.
+	1
+782	bounds</li>	1
+4317	box	4
+7061	box's	1
+132	box.	1
+4014	box.
+	2
+7979	boxes	1
+5495	boxing	1
+521	braces	1
+4355	braces.
+	1
+7578	brackets	1
+4046	break.
+	1
+8164	breaking	1
+7410	breaks	1
+8222	brewing	1
+663	bridge	1
+3559	briefly	1
+2451	brings	1
+3137	broadcast	1
+2835	broadcasting	1
+3138	broadcasts,	1
+4780	broken	1
+5317	broker	1
+8564	brown/red	1
+4063	browsers	1
+8168	bsDiff	1
+7452	bubble	1
+4164	bucket	1
+7278	bucket.	1
+7279	bucket.
+	1
+3189	budges	1
+5572	budges
+	1
+3285	buf.
+	1
+2642	buff)
+	1
+263	buffer	7
+3487	buffer
+	2
+264	buffer's	2
+8580	buffer).
+	1
+8773	buffer,	1
+1590	buffer.	2
+1931	buffer.
+	3
+1669	buffered	2
+1419	buffered.
+	2
+1420	buffers	11
+909	buffers.
+	1
+187	buffs	1
+110	build	28
+5852	build.
+	1
+5991	build.gradle	2
+881	buildUnpaidOrderTable	1
+1932	builder	3
+6826	builder
+	1
+7912	builder.
+	1
+8466	building	1
+6479	builds	1
+5086	built	2
+7841	built,	1
+6682	built.
+	1
+1861	built</p>
+	2
+2028	bundle-range	1
+1392	bundled	1
+2711	bundles	1
+1029	bundles
+	1
+1449	business	2
+698	but	35
+1222	button	13
+2493	button
+	1
+6593	button.	1
+2311	buttonList	1
+2312	buttons)
+	2
+24	by	216
+6382	bypassing	1
+455	byte	23
+596	byte
+	2
+1033	byte-byte-int
+	1
+4398	byte-swapping	1
+4944	byte.
+	2
+7011	byte</code>
+	1
+456	byte[3]	1
+457	byte[]	3
+8433	byte[]
+	1
+3575	byte[].
+	1
+6136	bytecode	1
+458	bytes	21
+8451	bytes
+	1
+1604	bytes)
+	1
+1822	bytes,	1
+3535	bytes.
+	3
+7929	c	1
+7895	c),	1
+7896	c)}</code>,	1
+7511	c.	1
+543	cache	18
+1214	cache
+	4
+6774	cache).	1
+6586	cache,	2
+374	cache.
+	5
+6069	cache.<br	1
+756	cached	3
+8173	caches	1
+5040	calculate	4
+5743	calculateCenter	2
+1751	calculated	2
+3185	calculator
+	1
+403	call	37
+6248	call
+	2
+1072	call,	1
+2407	call.
+	1
+2690	call:	1
+8179	callType	1
+3139	callback	3
+3167	callback)
+	2
+5001	callback,	1
+6329	callback.
+	1
+422	called	49
+8647	called
+	1
+1975	called,	5
+7350	called.	1
+606	called.
+	3
+664	caller	6
+2265	caller.
+	2
+7387	callers.
+	1
+1073	calling	21
+1862	calling:	2
+3392	callously	1
+2543	calls	10
+3364	calls.	2
+1231	calls.
+	3
+3858	callsite	1
+6850	camelBody	1
+431	camera	2
+25	can	112
+3898	can't	5
+943	canContainKey(lease)	1
+7195	canReadMore()	1
+2798	cancel	2
+4851	cancelled	1
+7532	cancelled.	1
+2535	candidate	3
+1568	cannot	13
+2168	cannotShare	1
+7786	canonical	2
+3833	canonicalizing	1
+8257	canvas.
+	1
+8565	cap	2
+8683	cap,	1
+8566	cap.	1
+1166	capacity	7
+1334	capacity
+	1
+1232	capacity.	2
+4795	capacity.
+	1
+4707	caption	1
+4457	captured	1
+6683	carbon	1
+5543	card	1
+6120	cardinal	2
+4425	cardinality	2
+8533	cardinality.
+	1
+215	care	1
+7333	careful	1
+4555	caret	1
+7235	cart
+	1
+7705	cart's	1
+5664	cart.
+	1
+7897	cartesian	1
+5706	carve	1
+1793	case	21
+7454	case
+	1
+7351	case),	1
+2532	case,	3
+6357	case-folding	1
+1359	case-sensitive	3
+1099	case-sensitivity.	1
+4041	case.
+	3
+8219	case:	1
+1794	cases	5
+8356	cases,	2
+1795	cases.	1
+4131	cases:	2
+1796	cast	2
+4973	casting	2
+2040	catalog	6
+2041	catalog.	1
+4107	catalog.</p>
+	1
+2374	categorical	1
+3161	category	4
+7257	category.
+	2
+8453	category.<br>
+	1
+757	cause	5
+1066	cause.
+	3
+7166	cause.toString())</tt>	1
+7231	caused	1
+3639	causes	3
+3005	causing	1
+2258	caution.	1
+8420	celebrities,	1
+2899	cell	7
+8046	cell.
+	1
+6702	cells	2
+6903	cells.	1
+7519	center	2
+6566	center).
+	1
+6606	center.	2
+6607	center.
+	2
+133	centered	4
+3006	centered,	1
+8695	centers	1
+4789	centroid	1
+2351	certain	6
+2893	certificate	5
+2894	certificate.	1
+7182	certificates	1
+8014	certificates.
+	1
+8378	chain	1
+95	chain.	1
+6503	chaining	1
+955	change	10
+7100	change
+	1
+3890	change.
+	2
+288	changed	15
+2000	changed.	1
+742	changed.
+	9
+2422	changer	1
+3113	changes	12
+7121	changes
+	1
+4857	changes.	2
+2400	changing	4
+794	channel	4
+7237	channel.
+	1
+3	char	4
+1483	character	28
+4840	character
+	2
+2544	character-input	2
+8722	character.	1
+2078	character;	1
+3293	characterize	1
+522	characters	20
+6358	characters,	2
+2079	characters.	2
+963	characters.
+	3
+6462	chars	2
+8774	chars.	1
+5385	charset	3
+2174	charset.	1
+4510	chart	6
+3839	chart.
+	3
+6608	charts	2
+1400	chat	1
+8052	chat.	1
+26	check	33
+3213	check
+	1
+1183	check,	2
+8408	check-ins	1
+5585	check.	1
+8277	check</b>:	1
+6438	check?
+	1
+868	checked	3
+3372	checked.
+	2
+3102	checker	2
+758	checking	6
+5477	checking
+	1
+2413	checkouts.	1
+2315	checks	11
+4878	checks.
+	1
+592	child	24
+4950	child
+	1
+6717	childType	1
+4197	children	4
+6383	children.	1
+2152	children.
+	13
+4765	childs	1
+8087	choice	1
+944	choice.	1
+6002	choices	1
+5732	chosen	3
+3738	chosen
+	1
+808	chunk	4
+2199	chunk,	1
+2200	chunk.	1
+3132	chunk.
+	4
+4863	chunks	2
+7744	chunks.
+	1
+2939	ciphertext,	1
+7286	circle	1
+6348	circles	1
+4222	circumstances,	1
+3919	circumstances.
+	1
+391	class	45
+4628	class
+	1
+7516	class!	1
+783	class,	5
+931	class.	4
+1110	class.
+	23
+561	classes	13
+7825	classes
+	1
+381	classes.
+	1
+1137	classified	2
+3859	classify	1
+3424	classname	1
+3566	classpath
+	1
+6090	classpath,	1
+6695	classsification	1
+900	clean	4
+4223	cleaned	2
+7460	cleaning	1
+3533	clear	2
+7924	clearTorques	1
+7127	cleared.	1
+7022	cleared.</p>
+	1
+375	clears	6
+2494	click	2
+5931	clicked.	1
+5932	clickedButton
+	1
+588	clicking	1
+1074	client	9
+1469	client's	1
+8643	client.	1
+2984	client.
+	2
+4412	clip	1
+5879	clipboard
+	1
+3107	clob	1
+3108	clob.	1
+5809	clone	1
+6722	clone)	1
+5444	cloned	2
+1100	cloned,	1
+6372	cloning	1
+6215	close	3
+4947	closeable.
+	1
+5803	closed
+	1
+5935	closed.
+	5
+1251	closely	1
+5961	closer	1
+2296	closes	2
+2857	closest	1
+1854	closing	2
+6444	cloud
+	1
+3673	cloud.
+	1
+3227	cluster	6
+3665	cluster
+	1
+2918	cluster.
+	1
+3899	clusterXML-Schema.xsd	1
+1672	clustered	1
+3228	clustering	2
+3229	clusters	1
+2919	clusters,	1
+4546	cmyk	1
+4148	co-occurrences	1
+173	code	20
+4505	code
+	5
+6812	code,	1
+2287	code.	1
+1122	code.
+	4
+5927	codebase	1
+5450	codes	2
+7051	coefficients	1
+2875	coefficients.	2
+7495	collapse	1
+7372	collapsed	1
+2019	collect	1
+191	collection	12
+8194	collection
+	1
+665	collection-based	1
+5496	collection.	3
+925	collection.
+	4
+192	collection:	1
+7807	collector	1
+1752	collinear,	1
+4338	collision	1
+8357	collocations,	1
+2288	color	9
+4547	color.	2
+2858	color.
+	4
+1635	colors	5
+2676	colors
+	1
+7548	colors.
+	1
+2962	colour	2
+346	column	14
+5226	column(s),	1
+5227	column,	2
+8074	column.	1
+1209	column.
+	3
+2165	columnPath	1
+3049	columns	7
+8075	columns
+	1
+6137	columns.	1
+163	columns.
+	2
+5683	com.j_spaces.client.TemplateMatchCodes:	1
+5521	com.jme.math.Plane	1
+5461	combination.	1
+8744	combines	1
+6824	combining	1
+4015	combo	1
+995	comes	3
+6851	comes.	1
+1508	commFault	1
+4076	commFaultTagId:	1
+523	comma	2
+7455	comma-separated	1
+148	command	42
+2218	command
+	10
+8678	command,	1
+8735	command-line	1
+7526	command-line.	1
+4818	command.	1
+7915	command.
+	2
+4053	commands
+	1
+6033	comment	3
+6796	comment,	1
+7183	comments	2
+2007	comments.
+	2
+3483	commit	4
+4566	committed	4
+4567	committed.
+	2
+3205	committing	1
+3568	common	8
+4194	common.	2
+2836	communities	2
+6821	communities
+	1
+1142	community	7
+7466	community
+	1
+5983	community's	2
+6611	community.
+	3
+8540	comp	1
+8541	comp.applyTo(u),	1
+5250	compact	1
+8663	compaction	1
+2512	companies	1
+7898	comparator	2
+2865	comparator.
+	2
+7899	comparator.</p>	1
+1849	compare	5
+2866	compared	1
+27	comparing	2
+5902	comparision.
+	1
+3199	comparison	4
+3910	comparison.
+	2
+5869	compatibility	1
+3920	compatibility.	1
+4195	compatibility.
+	1
+8692	compatible	1
+4213	compatible
+	1
+4994	compilation	1
+7603	compiled	1
+856	complaint.
+	1
+96	complete	4
+7073	complete,	3
+4760	completed	1
+3168	completed.
+	3
+4998	completely	2
+7990	completes,	2
+3459	completion	3
+6753	completion.	1
+2653	complex	4
+8542	compliant	1
+2237	component	9
+5193	component's	2
+3659	components	7
+3767	components.
+	1
+5669	componet.	1
+982	composite	1
+537	composite.
+	1
+710	composition	2
+3687	compound	2
+597	compress	3
+7984	compression	1
+8023	comprising	1
+2799	compute	3
+28	computed	6
+360	computer,	1
+398	computes	4
+29	computing	3
+7673	concatenated	1
+4454	concept.
+	1
+8358	concerned	1
+7258	concerning	1
+1353	concrete	1
+5196	concurrent	3
+6426	concurrently	1
+2327	condition	6
+5228	condition,	1
+1091	conditions	2
+1182	conditions
+	1
+5497	conducted	1
+30	confidence	1
+6334	confidently	1
+1470	config	3
+1387	config
+	2
+5937	config.
+	1
+6091	config/schemas	1
+379	configs
+	2
+2110	configuration	18
+4214	configuration.	2
+6656	configuration.
+	4
+5044	configurations	1
+1536	configured	3
+6207	configured,	1
+5023	configurer	1
+4750	confirm	2
+4310	confirmation	1
+8198	confirmed	1
+404	conflict	2
+5905	conflict,	1
+5906	conflicts	1
+7352	conforming	1
+8195	confused.
+	1
+640	connect	1
+7751	connect.	1
+4646	connected	3
+6121	connecting	2
+4621	connection	3
+971	connection.
+	1
+4224	connections	2
+8443	connectivity	1
+4361	connects	2
+6653	connects,	1
+2452	conservative	3
+8509	conservatively	1
+8510	conservatively.	1
+2080	consider	2
+328	considered	6
+3449	considered
+	1
+8136	considered:	1
+910	considers	2
+2081	consist	1
+5498	consistency	2
+31	consistent	2
+524	consists	3
+3186	console	2
+885	constant	13
+1632	constant
+	1
+4955	constant.
+	1
+3640	constants	1
+3641	constants,	1
+5024	constraint	5
+7006	constraints	1
+7583	construct	1
+4676	constructed	2
+1101	constructing	2
+5791	construction	1
+6023	construction,	1
+680	construction.
+	1
+3393	consume	1
+3497	consumed	1
+4367	consumed.	1
+1780	consumed.
+	1
+7160	consumer	1
+6738	consumer,	1
+5529	consumption	1
+7699	contact	1
+1704	contain	15
+2900	contain/intersects	1
+274	contained	13
+8610	container	1
+2453	container,	1
+3660	container.
+	3
+666	containing	18
+983	contains	29
+1976	content	18
+4275	content.
+	4
+2293	contentView	1
+265	contents	34
+6471	contents.	2
+759	context	12
+2490	context,	1
+5212	context.	1
+2667	context.
+	4
+6241	contexts.	1
+813	contexts.
+	1
+6122	continuity,	1
+2223	continuous	1
+2375	continuous/counting	1
+5817	contour,	1
+5535	contract	1
+1044	control	4
+6984	controlled	1
+5025	controller	2
+878	controller
+	1
+2423	controller.
+	2
+5026	controllers	1
+6421	controllers
+	1
+2313	controls	1
+8650	controls.
+	1
+7946	convention	3
+4158	conventions	1
+2420	conventions.
+	2
+3230	convergence,	1
+2800	converges	1
+726	conversion	4
+3250	conversion.	1
+2634	convert	12
+1338	converted	8
+5709	converting	4
+4058	converts	4
+5112	cookie	1
+3394	cooking	1
+1870	coordinate	5
+7502	coordinate.
+	1
+471	coordinates	8
+259	coordinates
+	2
+4492	coordinates.
+	1
+8669	coordinates?
+	1
+4730	coords	1
+4761	copied	2
+7037	copied
+	1
+7038	copied,	1
+5640	copied.)
+	1
+5736	coping	1
+80	copy	29
+6684	copy)	1
+6852	copyCamelBodyToBodyAsString	1
+6853	copyVariablesFromHeader	1
+6854	copyVariablesFromProperties	1
+317	core	4
+8430	corpus.
+	1
+996	correct	19
+8359	correctly	1
+4781	correctly.	1
+8122	correctness.
+	1
+1705	corrent	2
+8031	correspond	1
+32	corresponding	20
+239	corresponds	24
+2259	corrupt	1
+4731	cost	1
+973	could	8
+2454	could/should	1
+3775	count	4
+1823	count.
+	2
+997	counter	3
+5568	counter's	1
+8387	counterattack	1
+3627	counters
+	1
+8675	counters.
+	1
+164	counts	4
+5760	course	1
+8431	cover	1
+3776	covered	1
+8311	covers,	1
+886	cp_info	2
+5153	craft	2
+8223	crafting	1
+4225	crash	3
+3268	crash,	1
+3269	crashed.
+	1
+6640	crc32	1
+361	create	33
+8307	createBinaryFileMethod	1
+6644	createDocument	1
+8414	createLocationSettings().
+	1
+2186	created	17
+7939	created!
+	1
+621	created.	2
+3166	created.
+	2
+7900	created:	1
+347	creates	13
+532	creating	10
+1915	creation	1
+7623	creation,	1
+1919	credentials	1
+6220	credentials,	1
+5544	credit	1
+8459	criteria	1
+7008	criteria.
+	1
+149	critical	14
+3471	crop	3
+1753	cross	1
+1754	cross-product	1
+7752	crossing	1
+7799	cryptographically-secure	1
+3126	cube	1
+6123	cubic	1
+1831	cumulative	3
+525	curly	1
+216	current	83
+170	currently	30
+2048	currently-selected	1
+926	cursor	8
+2402	curve	1
+6124	curve,	1
+8152	curves	1
+62	custom	6
+6308	customize	1
+8266	customized	1
+4394	cycle.
+	6
+7901	c}</code>,	1
+2414	d	1
+2587	daemon	4
+2034	daily	2
+7612	dalvik,	1
+1451	damage	7
+965	dangling,	14
+165	data	87
+2060	data
+	7
+2536	data,	6
+4180	data.	6
+2111	data.
+	9
+284	dataSetIndex.
+	1
+3730	dataTag	2
+240	database	29
+1411	database
+	1
+869	database,	1
+2275	database.
+	2
+2260	database.</p>
+	1
+6197	database</li>	1
+6576	databus	1
+3318	dataset	1
+1636	dataset
+	1
+329	date	12
+8404	date
+	1
+1258	date,	1
+6986	date/time
+	1
+4965	dateFrom	1
+3691	dates.	1
+4282	day	5
+6461	day.
+	1
+330	days	3
+3915	db	2
+2761	dead	1
+8401	deadband	1
+5027	deadline	1
+2923	dealt	1
+1596	death	2
+8260	debug	2
+7861	debug.
+	1
+5036	debugging	2
+8493	debugging/diagnosis	1
+4841	decide	2
+6389	decimal	2
+6769	decisions.
+	1
+5478	decl:	1
+8127	declaration
+	1
+7211	declaration.
+	2
+863	declarations
+	1
+8758	declarations.	1
+5907	declared	3
+5847	declares	1
+8294	declaring	1
+4189	declension	3
+8602	decline	1
+4094	decode	1
+1537	decoded	3
+7471	decodes	1
+2415	decoding	3
+7584	decomposition
+	1
+2212	decompressing	1
+8077	decoration	1
+2277	decorations	1
+1839	decrease	1
+4311	decrease,	1
+1613	decreased	3
+8696	decreasing.
+	1
+6221	decrypted	1
+5213	deem	1
+7873	deemed	1
+966	deep	18
+6804	deeplink	1
+436	default	68
+3900	default)	2
+5128	default)
+	1
+1143	default,	6
+1797	default.	2
+4349	default.
+	2
+1989	defaultValue	1
+4251	defaultValue.
+	1
+1990	defaultingDictionary	1
+4820	defaults	1
+5782	defenceLevel	1
+6009	define	3
+1290	defined	6
+5189	defined
+	1
+5467	defined.
+	2
+5232	defines	1
+3486	definition	4
+832	definition
+	2
+7600	definition.
+	1
+4460	definitions	1
+2519	degrading	1
+8043	degree-of-interest.
+	1
+134	degrees,	2
+8759	delay	1
+4986	delay.
+	1
+4626	delegate	4
+3758	delegate's	2
+5610	delegator,	1
+2662	delete	9
+7417	deleted	3
+7280	deleted,	1
+7432	deleted.
+	1
+870	deletes	5
+3980	deleting	1
+4455	deletion	1
+8710	deletion.
+	1
+2723	delimited	2
+2082	delimiter	1
+2083	delimiters	2
+2084	delimiters,	1
+6279	delta.
+	1
+2281	deltaY	1
+6739	demanded.
+	1
+7550	denial	1
+1291	denote	1
+1832	density	2
+8360	departure	1
+2645	depend	1
+4970	dependency	1
+1591	depending	3
+3319	depends	2
+5097	deprecated	1
+711	derivative	4
+1456	derivatives	2
+1943	derived	5
+1111	descendant	2
+3320	described	5
+857	describing	1
+2658	description	5
+8562	description.
+	2
+6203	descriptions?
+	1
+6960	descriptor	1
+956	descriptor,	1
+5848	deserialization	2
+4782	deserialized	3
+8581	design.	1
+1926	designate	1
+1557	designated	2
+6703	designer.
+	1
+1592	desired	6
+8496	destroy	1
+4226	destroyed,	1
+5126	destroyed.
+	1
+1067	detail	15
+4392	detail.	1
+7962	detailed	1
+4274	details	4
+2912	details,	1
+1607	details.
+	3
+7097	detect	1
+1706	detectable	2
+4746	detected	1
+1707	detected.	2
+6569	detected.
+	2
+2213	detecting	2
+5889	detection	1
+5834	detects	1
+2010	determinant
+	1
+5511	determinate	1
+4461	determination	1
+974	determine	11
+5330	determined	4
+6770	determiner	1
+4462	determines	1
+1977	determining	1
+8795	deviation	1
+4575	device	7
+3053	device
+	1
+6805	device,	1
+1211	dex	2
+7713	diagonal	2
+5080	dialog	6
+8464	dialog
+	1
+7429	dialog.	1
+5305	dialog.
+	2
+4487	diamond	1
+8469	dice.
+	1
+3538	dictionary	2
+4887	dictionary
+	1
+8534	dictionary,	1
+4864	dictionary_one_chunk_size	1
+1899	did	3
+3963	difference	4
+4495	differences	2
+699	different	14
+6125	differentiable	1
+3964	differs	2
+7863	diffs.
+	1
+1189	digest.	1
+2972	digit	1
+1538	digit.	2
+1205	digits	4
+3174	digits.
+	1
+4488	dimenisions.
+	2
+5574	dimension	4
+2654	dimension
+	1
+4235	dimensional	2
+2655	dimensions	5
+5042	dimensions.
+	5
+5344	dimenstions.
+	1
+2635	dip	1
+4191	diphone	2
+5780	diphones.
+	1
+6092	dir..	1
+6093	dir>/config/schemas/<reqested_schema_name>-cluster-schema.xsl.	1
+1935	direct	3
+2589	direction	3
+8336	directly	2
+8535	directly,	1
+5605	directly.
+	1
+8137	directly.</p>
+	1
+4593	directly.</strong>	1
+2673	directories,	1
+1360	directory	9
+6232	directory,	1
+5534	directory,
+	2
+3813	directory.	2
+5435	directory.
+	2
+1444	dirty	1
+1445	dirty
+	1
+266	dirty,	2
+1516	disable	3
+5454	disabled	1
+6554	disaggregation	1
+6555	disaggregation.	1
+5625	disappears	1
+3162	disc	2
+1259	discarded.	1
+5399	discarding	1
+4647	disconnected.	1
+1260	discovered	2
+8032	discovered,	1
+1261	discovery	2
+437	discrete	3
+3321	discussed	1
+5984	discussion	2
+1773	disk	3
+871	disk
+	1
+4865	disk.	1
+267	disk.
+	2
+5611	dispatcher	1
+5954	dispatching	1
+188	dispelled	2
+1517	display	4
+5306	displayed	2
+4215	displayed.	2
+5563	dispose	1
+5262	disposing	1
+3395	disregarding	1
+5536	dist.
+	1
+1826	distance	10
+4732	distances	1
+7488	distances
+	1
+7764	distinct</li>	1
+2455	distinguish	1
+3642	distinguishes	1
+1397	distributed	8
+6882	distributedlog	1
+5942	distributes	5
+33	distribution	16
+8410	distribution,	1
+2686	distribution.
+	1
+34	distributions	1
+3955	distributions.
+	1
+3569	distro	1
+3322	divide	1
+4866	divided	1
+8618	divider	1
+700	division	3
+4132	divisor	3
+217	do	20
+7388	do.	1
+7508	doc	1
+2201	docs	1
+1978	document	13
+2014	document
+	2
+4255	document's	1
+8808	document)	1
+6384	document,	1
+6707	document.
+	5
+8303	documentation.
+	1
+6735	documents	2
+6736	documents.
+	1
+533	does	38
+8446	does,	1
+5499	does.	1
+5962	does.
+	1
+3613	doesn't	11
+6748	doing	1
+3154	domain	4
+5996	domain.
+	1
+3492	don't	4
+2714	done	8
+901	done.	1
+5804	door	1
+1206	dot	4
+1361	dot.	2
+2581	dot.
+	1
+8778	dots	1
+4376	dots)	1
+8779	dots.	1
+957	dotted	1
+4242	double	7
+3793	double.
+	2
+584	doubles	2
+4539	doubles,	1
+4540	doubles.
+	1
+6600	doubly-connected	1
+3214	down	5
+2282	down
+	1
+2743	down.
+	1
+2057	download	2
+6070	downloaded	1
+6226	downloads	1
+6227	downloads.	1
+6497	downscaling	2
+7593	downwards	1
+7484	dp
+	1
+2590	drag	1
+5538	drag.
+	1
+481	dragging	1
+1637	draw	7
+8652	draw()	1
+6829	drawables	2
+2268	drawing	1
+6793	drawn	1
+4434	drawn
+	1
+3530	draws	2
+432	driver	2
+2591	drop	1
+3802	drowning)	1
+2697	druidAggregationQuery	1
+5462	ds1	1
+5463	ds2
+	1
+5784	dto	1
+2329	due	6
+8078	dummy.
+	1
+7963	dump	1
+6888	dumpRange.	1
+2598	dumps	1
+1499	duplicate	4
+1262	duplicates	1
+6472	duplicates,	1
+2867	duplicates.	1
+3514	duration	4
+2348	duration")
+	1
+3515	duration.	1
+8102	duration.
+	2
+8337	durations	1
+2349	durations.	1
+1645	during	5
+3643	dynamically	1
+585	e	4
+6524	e.g.	4
+2491	e.g.,	1
+4648	e1	1
+4649	e1,	1
+4650	e1.
+	1
+4651	e2	1
+4652	e3	1
+4653	e3)	1
+4654	e3.	1
+4655	e4	1
+4656	e4.	1
+1292	each	34
+5177	earlier	2
+2801	easily	1
+6504	easy	1
+3007	eats	1
+1500	edge	9
+7210	edge.	1
+7373	edge?
+	1
+1115	edges	5
+3570	edges.	1
+3571	edges.
+	1
+8025	edit	1
+6626	editable.
+	1
+6700	edited.
+	1
+4421	editing	2
+1850	editor	2
+7995	editor.
+	1
+743	effect	14
+3008	effect.
+	2
+2720	effectcontroller
+	1
+6427	effective	2
+3030	effects	2
+4670	effects
+	1
+5355	efficiency	1
+4095	efficiency,	2
+3614	efficient	1
+4476	efficient.
+	1
+8760	efficiently,	1
+7585	eigenvalue	1
+1426	eigenvalues	1
+1427	eigenvectors	1
+1354	either	4
+7347	elected.
+	1
+218	element	48
+3178	element
+	2
+4859	element's	3
+4556	element,	1
+1619	element.	2
+331	element.
+	6
+362	elements	33
+3467	elements
+	1
+526	elements,	1
+1055	elements.	3
+1016	elements.
+	2
+2403	elliptic	1
+2376	else	1
+5612	else,	1
+7281	else.	1
+4538	email	3
+6441	emails.
+	1
+7738	embedded	1
+7035	embeddings.
+	1
+7436	embeds	1
+3365	emissions	1
+3109	emphasis	1
+35	empirical	1
+503	empty	31
+1371	empty
+	2
+2853	empty,	1
+8021	empty.	1
+1558	empty.
+	2
+5214	emulate	1
+6168	emulator	1
+2219	enable	9
+1673	enabled	6
+4011	enabled
+	1
+2269	enabled,	4
+4064	enabled.	1
+5037	enabled.
+	4
+6411	enabled.</p>
+	1
+2878	enabled;	1
+6345	enablement.
+	1
+5684	enables	2
+2408	encapsulates	3
+4269	enchanted	1
+4270	enchantment	1
+527	enclosed	2
+4995	enclosing	2
+5201	encode	1
+2354	encode?
+	1
+2538	encoded	13
+4085	encoded.	1
+7283	encoded_method	1
+6452	encoder	1
+534	encoding	23
+4969	encoding.	4
+2267	encoding.
+	2
+784	encountered	2
+6192	encrypt	1
+6222	encrypted	1
+1605	encryption	1
+7630	encryption/decryption	1
+7449	encrypts	1
+332	end	25
+2063	end
+	1
+6950	end,	1
+1477	end-userr.
+	1
+8494	end-users.
+	1
+6138	end.
+	1
+7562	endDocument	1
+7563	endEntity	1
+4886	endOperation()	1
+5685	endPos	1
+5686	endPos-	1
+5687	endPosInclusive	1
+1339	endian	3
+2751	endian.
+	2
+4570	ending	4
+1484	ending.
+	3
+6855	endpoint,	1
+2956	endpoints.
+	1
+3009	ends	2
+8047	enemy	1
+998	enforce	1
+2140	engine	4
+3033	engines.
+	1
+6718	enities,	1
+1738	enmity	2
+3536	enough	4
+607	ensure	5
+6228	ensures	2
+6126	ensuring	3
+8048	enter	1
+8595	entered	1
+3478	entering	1
+2985	enters	1
+249	entire	4
+3264	entities	1
+2934	entity	13
+7564	entity,	1
+3265	entity.	3
+8174	entity.
+	2
+4393	entityAlias	1
+1559	entries	14
+3360	entries
+	3
+8206	entries,	1
+6621	entries.	1
+8207	entries.
+	1
+405	entry	22
+406	entry
+	2
+4108	entry,	4
+4109	entry.	1
+4503	entry.
+	3
+7155	enumeration	1
+2410	enumeration.
+	2
+6693	enumeration;	1
+4871	env.
+	1
+3995	environment	3
+508	epoch
+	2
+392	equal	20
+5737	equality,	1
+393	equality.	1
+2432	equals	4
+2661	equip	1
+2424	equipment	6
+6570	equipment,	1
+2744	equipments	2
+6571	equipments.
+	1
+1863	equivalent	4
+8090	erase	1
+6771	erroneous	1
+608	error	23
+3983	error
+	2
+8697	error(MQE)	1
+6295	error,	2
+1708	error.	2
+2221	error.
+	5
+4747	errors	5
+7684	errors.
+	1
+4	escape	1
+2377	escaped	1
+4022	escapes	1
+4657	especially	1
+5688	establish	1
+1944	estimated	1
+1428	et	2
+800	etc
+	1
+8224	etc,	1
+6926	etc.	1
+193	etc.
+	2
+8286	etc.)
+	1
+4463	etc.),	1
+4733	euclidian	1
+36	evaluate	2
+3860	evaluation	3
+3861	evaluations.	1
+2571	evaluations.
+	1
+667	even	10
+577	event	16
+8072	event
+	1
+8626	event,	1
+4658	event.	2
+4432	event.
+	2
+1441	events	10
+6445	events
+	2
+1263	events.	2
+3707	events.
+	1
+2433	ever	2
+206	every	3
+1518	everything	4
+6794	everything.
+	1
+1667	evicted.
+	1
+5854	eviction	1
+6772	evidence	1
+97	evolution	1
+2228	exact	3
+1709	exactly	4
+3441	example	5
+1798	example,	7
+3442	example.	1
+5555	example.
+	2
+1959	example:	5
+3443	examples	1
+7250	exceed	1
+7025	exceeded.
+	1
+4705	exceeds	1
+1864	except	9
+1393	exception	30
+7829	exception
+	1
+2931	exception,	2
+7739	exception.	1
+4525	exception.
+	2
+1056	exception.)
+	2
+7374	exceptions
+	1
+8322	exceptions.	1
+4766	exclude	1
+1293	excluding	1
+6977	exec().	1
+4054	execute	5
+150	executed	13
+8511	executed.	1
+1986	executes	12
+5761	executing	1
+6242	execution	2
+3496	executor
+	3
+7477	executor's	1
+7478	executors	1
+535	exist	8
+1184	exist
+	2
+1064	exist.
+	2
+1185	exist?	1
+2913	existence	2
+1116	existent	1
+845	existing	16
+2042	exists	11
+593	exists.
+	9
+4557	exists</li>	1
+7685	exit	1
+4751	exit
+	1
+5170	exited	1
+4227	exits	1
+6900	exp	1
+5240	expanded	1
+37	expected	11
+3965	expected,	1
+8361	expected.
+	1
+2879	experiment	2
+6496	experiment
+	1
+760	experiment's	1
+6941	experiment,	1
+2378	experiment.	1
+4278	experiment.
+	1
+7694	experimental,	2
+3516	expiration	1
+2924	expire	2
+1710	expire.	2
+333	expired	3
+6054	expired.	1
+7156	expired.
+	1
+7161	expires,	1
+334	expiry	1
+2533	explicit	2
+3493	explicitely.
+	1
+7648	explicitly	1
+4677	explicitly
+	1
+3054	exploit	1
+6697	exploration	1
+5655	exponent	1
+8108	exponentiation	2
+6511	export	3
+5792	exported	1
+5793	exporter	1
+7969	exporter
+	1
+5794	exporter.	1
+7389	exposed	2
+7565	exposing	1
+3498	expression	7
+6407	expression).
+	1
+6789	expression.	1
+1174	expression.
+	6
+6587	expressions.	1
+7594	extend	1
+2602	extended	1
+3567	extended
+	1
+2316	extended.
+	2
+7930	extending	1
+1362	extension	4
+3040	external	7
+6661	externalizable
+	1
+7487	externalizable.
+	1
+999	externally	1
+3010	extra	8
+4236	extract	4
+7057	extractBinary.
+	1
+7234	extracted	1
+7116	extracted).
+	1
+63	extracting	1
+846	extracts	3
+8362	extreme	1
+4548	f	1
+2802	f'(x)	1
+2803	f(x)	1
+8338	f0	1
+1646	f0-time	1
+8468	fabs
+	1
+6999	facades.
+	1
+1711	face	4
+8421	face,	1
+1712	face.	2
+1713	faces	3
+8422	faces,	1
+1714	faces.	1
+8423	faces.
+	1
+7058	facility	1
+7985	facility
+	1
+5805	facing	1
+3280	fact	1
+5373	fact,	1
+911	factor	1
+6567	factor.	1
+2851	factor.
+	3
+912	factors	2
+1167	factors.
+	1
+64	factory	7
+5075	factory
+	1
+4178	factory.
+	1
+4065	fade	1
+1715	fail	4
+3750	failed	6
+8034	failed
+	1
+1075	failed,	2
+2882	failed.
+	1
+3200	fails	7
+38	fails.
+	1
+3584	failure	3
+3585	failure,	2
+6556	fall	1
+3425	fallback	4
+7033	fallback([Collection])	1
+8246	fallback.
+	1
+5256	fallbacks	1
+8755	falls	1
+1814	false	17
+7781	false
+	1
+3644	false,	5
+4743	false.
+	3
+4558	false</li>	1
+8424	family	1
+3231	far	1
+5551	farther	1
+4953	farthest	1
+1186	fast	4
+5356	fast)	1
+8654	fastA	1
+5722	faster	1
+7262	fatal,	1
+3323	favor	1
+579	fear	1
+363	feature	12
+7334	feature,	1
+2603	feature.	2
+4631	feature.
+	1
+4526	featureIndex	1
+4527	featureValue	1
+4528	featureValue)	1
+1647	features	4
+364	features.
+	1
+4910	fee	1
+2146	feedback	1
+4453	feeding	1
+1082	fence	2
+1083	fences
+	1
+6588	fetched	1
+6544	fetches	1
+8323	few	2
+231	field	28
+5871	field).	1
+5421	field,	3
+4686	field-based,	1
+1355	field-ref.<br>	1
+2949	field.	4
+81	field.
+	7
+7101	fieldID	1
+3457	fieldId,	1
+383	fields	18
+847	fields
+	3
+2935	fields,	2
+7765	fields.	1
+5390	fields.
+	3
+4571	fifo	2
+536	file	72
+1332	file
+	11
+3433	file,	5
+2112	file.	4
+399	file.
+	17
+8138	file:	1
+1363	filename	4
+1144	files	13
+2992	files
+	1
+5374	files.	4
+4563	files.
+	2
+1670	filesystem.
+	2
+1608	fill	4
+1497	fill.
+	1
+5011	filled	2
+4042	filled.	1
+1102	filter	15
+2278	filter
+	2
+6252	filter,	1
+2279	filter.	2
+560	filter.
+	8
+3444	filtered	3
+4748	filtering.
+	1
+717	filters	2
+4244	filters
+	1
+3358	filters,	1
+3011	final	6
+8295	final,	1
+6827	finalized	1
+2520	find	12
+299	findNode.
+	1
+3819	findOrders	1
+1945	finder	1
+5744	finds	4
+6780	fingerprint	1
+2202	finish	3
+902	finish,	1
+609	finish.	1
+5509	finished,	1
+6018	finished.
+	1
+5397	finite	1
+194	first	39
+5659	first
+	1
+3692	first,	1
+6285	first.
+	1
+2416	first/second	1
+7062	fis:	1
+39	fit	4
+4423	fix-up	1
+1179	fixed	4
+6813	fixed,	1
+6385	fixing	1
+2568	fixture's	1
+2986	flag	6
+6658	flag).
+	1
+1571	flag.
+	3
+7128	flags	1
+1243	flight	5
+1244	flight
+	2
+2646	fling	1
+2647	fling.
+	1
+5295	float	3
+5824	float.	1
+4380	flow.
+	2
+5183	flows
+	1
+5162	flush	2
+610	flushInsert()	1
+611	flushTermination(),	1
+612	flushUpdate(),	1
+207	flushes	1
+6161	fly	3
+2119	focus	1
+1314	focused.
+	1
+1774	folder	2
+3816	folder
+	1
+4559	folder,	1
+7135	folder.
+	1
+4023	follow	4
+5066	follow.	1
+528	followed	2
+1799	following	12
+3426	following:	3
+5890	follows	1
+1294	follows:	1
+5178	font	2
+5430	font,	1
+4713	food	1
+6905	foods	1
+2129	foot-pounds	1
+6938	footer	3
+65	for	381
+6732	for.
+	1
+6933	for...
+	1
+8512	forName	1
+2846	force	4
+5447	forced	1
+8117	forces	1
+348	foreign	3
+3517	form	11
+7604	form
+	1
+7719	form.	1
+8100	form.
+	2
+8324	formally	1
+7649	formally,	1
+3768	format	14
+5967	format
+	2
+1320	format).
+	1
+509	format,	4
+1648	format.	4
+586	format.
+	8
+3948	format:	1
+135	formats	3
+5482	formatted	3
+8178	formatter,	1
+1134	formatting	1
+1755	formed	1
+822	formula	1
+5028	forth.
+	1
+1900	fortran	1
+5324	forward	1
+5798	forward.
+	1
+827	found	8
+4405	found,	2
+7271	found.	1
+3458	found.
+	5
+3232	four	4
+3518	four-argument	1
+7720	fraction	1
+6351	fraction.	1
+356	fraction.
+	2
+2350	fragment	5
+5560	fragment.
+	1
+2052	frame	7
+6635	frame)
+	1
+1716	frame),	2
+1511	frame.
+	3
+7731	frameSize)	1
+7570	framebuffer.
+	1
+3450	framed	1
+6391	frameprovider	1
+7856	frames	1
+7732	frames,	1
+7733	frames.	1
+6546	framework.
+	1
+668	free	3
+2691	freed	1
+2876	frequencies	3
+40	frequency	3
+1461	friend	3
+2837	friends	1
+8425	friends,	1
+3396	frivolous	1
+66	from	266
+7322	from.	1
+5246	front	1
+8176	front.
+	2
+3397	fuel	1
+5029	fulfilled	1
+3618	fulfills	1
+728	full	11
+6291	fully	2
+67	function	19
+2178	function
+	2
+2409	function.	6
+712	function.
+	3
+7674	function.)
+	1
+6335	function;	1
+1968	functionality	2
+8339	functions	1
+7074	funny	1
+3398	furnace.<br>	1
+7971	further	1
+1233	future	4
+6912	future.
+	2
+8723	g	1
+5008	g,	1
+1295	g1</code>	1
+1296	g2</code>	1
+1297	g</code>,	1
+7909	gDay	1
+2417	g_data
+	1
+5649	gained	1
+6761	gallery.
+	1
+2495	game	1
+6173	gamma	2
+4698	garbage	2
+4381	gateway	1
+87	gathered	1
+3194	gating	1
+4821	gauge	1
+8123	gaussian	1
+8316	gave	2
+4133	gcd"	1
+2703	gdb.
+	1
+7145	general	3
+6491	generality	1
+6978	generally	1
+2731	generate	3
+2195	generate
+	1
+160	generated	24
+41	generates	2
+42	generating	3
+7253	generator	1
+8741	generator's	1
+5750	generator.	2
+2290	generator.
+	1
+3155	generic	4
+4218	geo	4
+7964	geomPTA	1
+5138	geometric	2
+4741	gesture
+	1
+2648	gesture.	1
+2335	get	16
+7361	get/set	1
+4529	getFeatureValueAsByte(featureIndex,	1
+4530	getFeatureValueAsShort(featureIndex,	1
+7499	getFields0(int)[];
+	1
+8415	getInstance()	1
+4894	getScrollY()	2
+3298	getSystemPackages0()[];
+	1
+6370	getSystemTimeZoneID(java.lang.String,	1
+6299	getValue	1
+565	gets	4
+3956	getting	2
+8788	ghost.
+	1
+4406	give	3
+136	given	305
+5313	given
+	1
+4439	gives	2
+4671	glare	1
+3187	global	6
+4594	globals.	1
+8396	gml:pos	1
+7075	go!
+	1
+6833	go.	1
+848	goes	3
+4610	going	2
+8162	gone
+	1
+2187	good	1
+5375	good).	1
+43	goodness	1
+3413	googleAuthBtn.
+	1
+1471	gossiping	1
+1380	got	2
+947	grab	2
+5277	graceful	1
+801	gradle	2
+3133	grammar	8
+1620	grammar.	1
+7975	grammaticalityEstimator.
+	1
+6417	grantable	1
+7362	granted.	1
+6876	granularity,	1
+1321	graph	8
+4149	graph
+	4
+814	graph,	3
+2521	graph.	1
+1117	graph.
+	4
+1498	graphic	1
+8000	graphics	1
+2920	graphs	3
+5473	graphs.
+	1
+4956	gravitational	1
+2246	greater	7
+4134	greatest	2
+5337	grid	5
+2120	grid.	2
+5338	grids	1
+7299	ground.	1
+289	group	11
+6014	group
+	1
+4926	group's	1
+7675	group+metric	1
+7766	group-by	1
+7147	group.	1
+5015	group.
+	4
+7003	groupd	1
+44	grouped	1
+4852	groups	4
+1920	groups.
+	3
+6913	grow.	1
+849	guarantee	6
+6024	guarantee:	1
+669	guarantees	1
+2624	guess	1
+4814	guesses	1
+4867	guided	1
+7800	guts	1
+598	gzip	1
+2214	gzip-compressed	1
+7437	h-	1
+5891	had	2
+5806	half	3
+1000	handed	1
+1123	handle	18
+4318	handle's	1
+4344	handled	1
+6589	handled.
+	1
+3414	handler	6
+8305	handler
+	1
+8085	handler,	1
+1969	handler.	3
+7458	handler.
+	1
+1621	handles	5
+293	handling	7
+613	handling,	2
+5049	happen	1
+8789	happened	1
+8627	happens.	1
+7522	happens.
+	1
+433	hardware	2
+6142	harm	1
+8180	harnesses	1
+8576	harvesting	1
+280	has	101
+5586	hasPermission=true	2
+174	hash	12
+8291	hash,	1
+2434	hashCode	2
+6711	hashCode()	1
+3632	hashcode	2
+7450	hashed	1
+4284	hasn't	1
+88	have	63
+2804	have:	1
+6042	haven't	1
+219	having	7
+4659	hazard	1
+8109	hdfs	2
+1717	head-pose,	2
+934	header	7
+761	headers	1
+7795	headers.
+	2
+1597	healing	1
+2061	heap	1
+5844	heartbeats	1
+2754	height	6
+7638	height).
+	1
+7243	height.
+	1
+8619	heights	1
+7710	held	1
+3390	helper	3
+2862	here	5
+5291	here).	1
+220	here.	1
+2020	here.
+	2
+3324	here</a></p>	1
+8205	hex	1
+3246	hexadecimal	2
+628	hh:mm:ss	1
+2584	hidden,	1
+4386	hidden.
+	1
+8006	hide	1
+2456	hierarchy	2
+6719	hierarchy.
+	1
+1001	high	5
+8519	high-level	2
+5067	high-non-zero-byte-first	1
+5825	higher	2
+7405	higher.	1
+913	highest	2
+6214	highlight	1
+6234	highlighted.
+	1
+3682	highlighting	1
+5197	highly	1
+8062	him/her	1
+6654	his	1
+232	histogram	4
+7020	histogram.
+	1
+6636	history	1
+6034	history
+	1
+8375	hit
+	1
+7948	hmac	1
+544	hold	3
+5699	holder.	1
+8460	holder.
+	1
+5580	holds	1
+4259	hole	1
+6094	home	1
+1622	hook	3
+6286	hook,	1
+1623	hook.	1
+7503	horizontal	3
+5769	horizontally	1
+8780	horizontally.
+	1
+4280	host	5
+3409	host-specific	1
+6868	host.
+	2
+5870	hostname	2
+2582	hostname,	1
+1030	hot	1
+3607	hotspot	1
+3797	house	2
+6212	house
+	1
+8679	houses.	1
+1002	how	5
+7076	how?!?	1
+3399	however,	2
+7566	however.	1
+1103	however.
+	1
+5233	href=	1
+3340	href="#Final">final</a>.
+	1
+3325	href="http://www.basic.nwu.edu/statguidefiles/ttest_unpaired_ass_viol.html">	1
+6396	href="http://www.cygnus-software.com/papers/comparingfloats/comparingfloats.htm">	1
+5603	href="http://www.iana.org/assignments/character-sets">IANA</a>.	1
+6453	href="http://www.iana.org/assignments/character-sets">IANA</a>.
+	1
+1901	href="http://www.netlib.org/minpack/lmpar.f">lmpar</a>	1
+7541	href="https://developer.clarifai.com/applications">	1
+7136	html	1
+6968	http	2
+7949	http://stackoverflow.com/questions/11830338/web-api-creating-api-keys	1
+7950	http://stackoverflow.com/questions/3208160/how-to-generate-an-hmac-in-java-equivalent-to-a-python-example?rq=1
+	1
+7951	http://stackoverflow.com/questions/6312544/hmac-sha1-how-to-do-it-properly-in-java	1
+7796	http://www.w3.org/TR/2004/REC-DOM-Level-3-Core-20040407/core.html#TypeInfo-isDerivedFrom
+	1
+5376	https://blogs.oracle.com/xuemingshen/entry/non_utf_8_encoding_in
+	1
+7044	https://docs.docker.com/docker-trusted-registry/userguide/
+	1
+5455	huge	1
+6879	hull	1
+5321	hyperbolic	1
+45	hypothesis	2
+975	i	2
+5068	i,	1
+3127	i-	1
+958	i.e.	21
+6814	i.e.,	1
+472	icon	3
+161	id	14
+2973	id
+	2
+6678	id,	1
+1003	id.	1
+3657	id.
+	2
+4077	id:	2
+6914	ideal	1
+2616	ideally	1
+3606	identical	2
+1298	identical.
+	1
+3201	identifiable	1
+1718	identification.	1
+4024	identified	3
+5710	identifier	2
+7117	identifier.	1
+2043	identifiers	2
+8398	identifiers,	1
+2993	identify	2
+318	identity	6
+6712	identity.
+	1
+1004	ids	4
+7955	ie.	1
+98	if	324
+2229	iff	5
+6979	iframe,	1
+1979	ignorable	1
+1980	ignorable.	1
+3302	ignore	2
+7225	ignored	1
+6455	ignored
+	1
+3891	ignored.	2
+1452	ignores	1
+4417	ignoring	4
+1665	ill-formed.
+	1
+7226	illegal	1
+137	image	23
+8161	image
+	1
+1871	image's	2
+1800	image);	1
+3012	image,	1
+3013	image.	2
+3823	image.
+	1
+6071	images	2
+180	images.
+	1
+1112	immediate	1
+681	immediately	9
+7774	immediately.
+	1
+6828	immutable	1
+2435	imnplemented	1
+6101	impact	1
+2318	implement	7
+319	implementation	15
+2171	implementation
+	3
+7613	implementation".	1
+4622	implementation.	2
+320	implementation.
+	4
+4477	implementations	2
+3546	implemented	1
+4333	implemented)
+	1
+4582	implemented.
+	1
+2914	implementing	2
+7459	implements	1
+5762	implicitly,	1
+407	implied	2
+7517	implies	2
+1299	imply	1
+6386	importNode	1
+3966	importantly,	1
+6740	imported	2
+8348	imported.
+	1
+5650	importing	1
+2379	impression	1
+2380	impressions	1
+6942	impressions.	1
+4506	improve	1
+2457	improved.
+	1
+5	in	404
+6500	in
+	1
+4966	in)	1
+1005	in).	1
+5851	in-buffer.
+	1
+7103	in-memory	1
+8363	in.	1
+8761	in.
+	1
+8340	in:	1
+7323	in;	1
+7367	inSampleSize	1
+8234	inStr	1
+4618	inaccessible	1
+1104	inadvisable	1
+3751	incantation	1
+2674	incl.	1
+3097	include	4
+7430	include.
+	1
+8620	included.	1
+2498	includes	7
+976	including	10
+3359	inclusion/exclusion	1
+4086	inclusive	1
+8591	incognito	1
+2925	incoming	7
+4216	incompatible	1
+5345	inconsistent	1
+3752	incorrect;	1
+4271	increased	2
+7874	increases	1
+4043	increment,	1
+8171	incur	1
+4322	indentation	2
+8364	independence.	1
+7767	independent	1
+5081	indeterminate	1
+872	index	19
+6750	index
+	2
+5689	index)	1
+8384	index).
+	1
+2921	index,	2
+5598	index.	1
+1547	index.
+	4
+3149	indexes	2
+8302	indexes.	1
+3693	indicate	4
+3694	indicate,	1
+5892	indicated	4
+7193	indicated.	1
+5069	indicates	2
+4044	indicating	3
+4407	indication	2
+8781	indicator	1
+8352	indices	1
+5592	indices.	1
+6856	individual	3
+3445	individually.	1
+3645	individually.
+	1
+2706	induce	1
+6179	inferring	1
+8318	infinite	1
+2805	infinity	1
+5963	infinity.	1
+1739	inflicted	3
+1322	info	3
+7218	info
+	2
+5486	info.
+	1
+72	information	20
+3038	information
+	2
+8092	information.	1
+2252	information.
+	5
+2963	informational	1
+8531	informing	1
+8225	ingredients	1
+6923	inherited	1
+8113	init	1
+2649	initial	8
+6869	initialisation	1
+8341	initialised	1
+7624	initialised.
+	1
+3122	initialises	1
+7527	initialising	1
+6109	initialization	2
+6449	initialization.
+	1
+1215	initialize	6
+2688	initialize
+	1
+2854	initialize.
+	1
+3722	initialized	5
+8513	initializer	1
+8514	initializers.
+	1
+434	initializes	3
+5489	initializing	1
+8125	initially	1
+2950	injected	1
+120	injecting	2
+4486	injectors.
+	1
+7658	inner	1
+3270	inprogress	1
+864	input	57
+2566	input
+	1
+1264	input,	4
+1781	input.	5
+6840	input.
+	2
+4972	inputs.
+	1
+3110	insert	4
+2915	inserted	3
+3628	inserts	3
+221	inside	5
+4512	inspector
+	1
+6102	inspired	1
+7423	install
+	1
+6806	installed	1
+7308	installed
+	1
+111	instance	105
+1819	instance
+	3
+5309	instance,	2
+1105	instance.	3
+622	instance.
+	10
+8373	instanced	1
+4906	instances	7
+5569	instances'	1
+4738	instances,	1
+2484	instances.
+	3
+2332	instantiate	2
+8296	instantiated.
+	1
+7169	instantiates	1
+2091	instantiation.
+	4
+3400	instantly,	1
+3967	instead	6
+4350	instead.	4
+2071	instead.
+	1
+6857	instead</li>	1
+7045	instructed	1
+5763	instruction	2
+5764	instruction,	1
+3790	instruction.
+	1
+3791	instructions	2
+4879	instructions,	1
+5331	instrumentation	1
+250	insufficient	1
+2863	int	7
+8283	int)
+	1
+4478	int).	1
+3759	int)</code>	1
+2752	int,	3
+5629	int-string	1
+4762	int.	1
+2522	int...
+	1
+6487	int</code>
+	1
+701	integer	22
+5837	integer,	2
+8146	integer-to-term	2
+5838	integer.
+	1
+7734	integral	2
+8582	integrated	1
+8495	intended	1
+6754	intended,	1
+7390	intent	2
+7822	intent
+	1
+7129	intent.	1
+6016	intent.
+	1
+7980	interacting	1
+3742	interaction	1
+2499	intercept	1
+2300	intercepted.
+	1
+7238	intercepter	1
+2338	interceptors	1
+3140	interested	2
+5471	interface	4
+1113	interface)	1
+8809	interface.	1
+5046	interface.
+	1
+3547	interfaces	2
+4660	interleaving,	1
+7815	intermediary	1
+1865	intermediate	2
+649	internal	16
+6492	internal,	1
+1421	internally	6
+1995	internally,	8
+4181	internally.
+	1
+6764	internals	1
+4087	international	1
+7202	interpolate	1
+7572	interpolated	1
+3719	interpolation	1
+4257	interpreted	1
+3072	interprocedural	1
+5950	interrupt	2
+8258	interrupted	1
+6755	interrupts	1
+6290	intersect	1
+5556	intersect,	1
+2617	intersect.	1
+785	intersection	3
+4717	intersection)	1
+786	intersection,	1
+3749	interval	2
+4931	interval.	1
+5155	interval.
+	1
+2698	intervals	3
+268	into	94
+6428	intrinsically	1
+5215	intrusive	1
+2618	invDx	1
+2619	invDy	1
+4464	invalid	2
+6688	invalid.	1
+7831	invalid.
+	1
+7972	invalidate()	1
+7520	invalidate().
+	1
+6238	invalidation	1
+7120	inventories	1
+8226	inventory,	1
+3401	inventory.
+	1
+357	inverse	7
+6870	invisible,	1
+4298	invitations	1
+8189	invitations.
+	1
+4135	invocation	1
+4136	invocations	1
+4934	invoke	3
+4627	invoke.
+	1
+2203	invoked	4
+2916	invoked.	2
+4424	invokes	2
+294	invoking	1
+1159	involved	1
+3499	involving	2
+6493	irrelevant).
+	1
+151	is	582
+4860	is,	6
+6055	is.
+	1
+6470	is:	1
+5599	isAutoRecoveryEnabled	2
+8444	isConnected	1
+6839	isEnabledForManagedResources.
+	1
+4831	isInNet(host,	1
+321	isSameNode()	2
+408	isShadow	1
+8503	isSrc1_nBest15_smooth1_1_context1_5_psUtt1_tsUtt1_prosody1x0x0/*.wav
+	1
+6172	isSrcPrec.
+	1
+3175	isUSPhoneNumber	1
+7363	isValidxxxId	1
+322	isn't	4
+8165	isolated,	1
+4196	issued	1
+5377	issues	1
+3202	issues,	1
+323	it	134
+1987	it
+	13
+787	it's	13
+5073	it)
+	1
+8447	it,	1
+3981	it.	4
+920	it.
+	12
+6530	it.</p>
+	1
+275	item	20
+1160	item
+	1
+682	item.	3
+1217	item.
+	9
+3402	item.<br>	1
+1175	items	8
+4917	items
+	3
+2578	items.
+	2
+1453	items;	1
+3615	iterate	2
+1057	iteration	2
+2637	iterative	1
+3058	iteratively	1
+2523	iteratively:	1
+1176	iterator	6
+670	iterator,	1
+6889	iterator.
+	1
+73	its	61
+5918	itself	5
+8497	itself
+	1
+7902	itself,	1
+5859	itself.	2
+6598	itself.
+	1
+788	itself.</li>	1
+3128	j-coordinates	1
+3766	jar	2
+1212	jar
+	1
+8325	jasError,	1
+4303	java	4
+8374	java.io.File	1
+6531	java.io.IOException.	1
+4723	java.lang.Class)	1
+4724	java.lang.IllegalAccessException;
+	1
+4725	java.lang.InstantiationException,	1
+4726	java.lang.Object	2
+959	java.lang.Object.
+	1
+3299	java.lang.String	3
+6371	java.lang.String);
+	1
+7500	java.lang.reflect.Field	1
+873	job	6
+5030	job's	1
+5031	job.	1
+5271	job.
+	1
+903	jobFinished(),	1
+6243	jobs	1
+233	join	2
+4853	join.	1
+6456	joiner.	1
+8068	josn	1
+3271	journal.	1
+1124	json	4
+7591	json-formatted	1
+1192	jump	2
+650	just	20
+8724	justified	1
+837	jvm	1
+8365	k	1
+8698	k-mean	1
+7650	k==null	1
+1464	keep	5
+2692	kept	1
+7551	kept.	1
+300	key	30
+2436	key
+	2
+4292	key).	1
+647	key,	8
+1372	key-value	4
+304	key.	12
+305	key.
+	12
+3616	key...the	1
+7651	key.equals(k))</code>,	1
+1052	key/boolean	1
+3145	key/value	3
+7652	key;	1
+4440	keyboard	2
+367	keyboard
+	1
+8454	keycode	1
+1386	keyring
+	1
+368	keys	11
+7138	keys
+	1
+4293	keys.
+	2
+2513	keyword
+	1
+7052	khi	1
+3764	kicked	1
+7344	killed.
+	1
+6617	kilobytes	1
+8680	kinah	1
+4469	kind	1
+3377	kind.	1
+1201	knocked	1
+2001	know	5
+4531	known	4
+2841	label	5
+6525	label,	1
+2842	label.	2
+2303	label.
+	3
+1458	labeled	1
+6113	labeling	1
+1501	labels	5
+6494	lack	1
+4465	language	1
+4051	languages	1
+1719	large	7
+8515	large.	1
+1234	larger	8
+8169	larger,	1
+3014	largest	4
+1364	last	19
+2204	last.
+	1
+7631	lastIndexOf.
+	1
+5479	later	5
+4285	latest	2
+1661	latitude	1
+2957	latitude-longitude	1
+5292	latter	1
+2663	launch.	1
+6807	launched	1
+2049	launched.
+	1
+3156	launcher.	1
+5919	launches	2
+5312	layer	2
+6208	layer,	1
+6062	layer.
+	1
+1039	layout	4
+2847	layout.
+	3
+4049	layouts
+	1
+5733	lazy	1
+5318	leader;	1
+3129	leaf	1
+6652	leak
+	1
+3519	lease	3
+3520	lease's	1
+4444	lease.
+	2
+2762	leases
+	1
+1006	least	13
+6056	leave	1
+5704	leaves	1
+2806	leaving	2
+3272	ledger	1
+3273	ledger.	1
+8026	ledger.
+	1
+2604	left	10
+1756	left,	1
+7639	left-corner	1
+8725	left.	1
+3753	left.
+	1
+3921	legacy	2
+8001	legal	1
+7634	legal.
+	2
+2677	legend	1
+1412	legion	2
+1981	length	10
+3544	length
+	1
+3348	length,	1
+5893	lenient	1
+914	less	6
+7903	lesser	1
+1300	let	5
+1356	lets	1
+3157	letter	2
+5400	letters	1
+1686	level	12
+4272	level
+	1
+7026	level.
+	2
+3326	level</i>,	1
+4377	levels	1
+6181	levels
+	1
+3862	levels.	1
+4159	leverages	1
+7843	lexer	1
+1801	lexical	3
+5310	lexicon	2
+8776	lft	1
+4228	library	2
+4229	license	1
+1757	lie	1
+1758	lies	1
+4395	life	5
+4623	lifecycle	2
+7595	light	1
+7596	lighting	1
+1802	like	9
+5690	limit	2
+8394	limitation	1
+3349	limits	1
+1485	line	20
+4358	line
+	1
+1486	line,	5
+7957	line-by-line	1
+5411	line-ends	1
+5297	line.	2
+4807	line.
+	4
+2429	linear	2
+2164	lines	3
+4323	lines,	1
+6169	lines.
+	1
+5194	link	2
+6180	link,	1
+5195	link.
+	1
+459	linkMAC	1
+8649	linkage	1
+2745	linked	3
+4565	linking	2
+3384	links	2
+7109	links,	1
+384	list	68
+2194	list
+	4
+3373	list,	2
+2664	list.	6
+883	list.
+	24
+7188	list:	2
+6198	list<br	1
+601	listener	10
+589	listener
+	5
+985	listener.
+	3
+7937	listeners	2
+2401	listeners
+	2
+1265	listeners,	2
+6775	listeners.	1
+1266	listening	3
+1048	listens	1
+4588	lists	2
+1472	lists,	1
+5198	lists.
+	2
+5747	literal	3
+2693	little	4
+6281	little-endian	3
+7030	live	2
+1902	lmDir	1
+1903	lmPar	1
+2807	ln	1
+2808	ln(1-x)	1
+2809	ln(1-x).	1
+2810	ln(a)	1
+2811	ln(a),	1
+2812	ln(a).	1
+2813	ln(b)	1
+2814	ln(x)	1
+2815	ln(x),	1
+2816	ln(x+1)	1
+2817	ln(x-1)	1
+1168	load	16
+1439	load.
+	3
+2469	loadInfo	1
+3646	loaded	5
+8516	loaded,	1
+5311	loaded.
+	1
+5928	loader	2
+8247	loader,	1
+5929	loader.	1
+2181	loader.
+	1
+8248	loader:	1
+1007	loading	6
+8101	loading
+	1
+8267	loading,	1
+8268	loading.
+	1
+496	loadmore	1
+4629	loads	5
+166	local	9
+5778	local)
+	1
+440	locale	2
+3073	locally	2
+735	located	1
+1145	located.	1
+7272	locating	1
+1720	location	9
+6019	location.	1
+889	location.
+	3
+8635	locations	1
+545	locator	2
+3892	locators	1
+3893	locators.	1
+3274	lock	6
+2070	lock!
+	1
+6143	locked	1
+6144	locks	1
+400	log	16
+1835	log
+	2
+208	log,	1
+3042	log-normal	1
+7965	log.	1
+5203	log.
+	3
+5656	log10K	1
+2818	logarithms	1
+6007	loggers	1
+4785	logging	1
+8181	logging,	1
+4237	logic	3
+8520	logic
+	1
+1084	logical	2
+2196	login	2
+7742	logout	1
+7820	logs	1
+8069	logy.
+	1
+460	long	12
+2133	long,	2
+6350	long.
+	2
+423	longer	10
+3374	longest	1
+8536	look	1
+3960	lookback	1
+3015	looking	3
+2096	looks	6
+1267	lookup	6
+7133	lookup
+	1
+4175	loop	4
+4186	loot	1
+6728	lost	1
+6153	low)	1
+6557	lower	1
+5401	lowercase	2
+4032	lowered	1
+8656	lowest-numbered	1
+1216	lru	1
+5581	lt	1
+3647	lumped	1
+6568	m-by-n	1
+2596	mFirstPosition
+	1
+6501	mOrderedPositions	1
+1138	mViewTypes}
+	1
+7162	m_closed.
+	1
+2940	mac	1
+5398	machine	1
+8139	machines,	1
+6838	macro	1
+3731	made	10
+7245	made,	1
+3586	made.	1
+6025	magic	2
+189	magical	2
+6627	magnitude	1
+3777	main	5
+3710	main()	1
+838	mainClass	1
+839	mainClass.	1
+6127	maintain	2
+2880	maintain_selector_minimization_bug	1
+671	maintained	1
+1583	maintaining	4
+7077	maintains	1
+5587	maintenance	2
+181	make	11
+672	makes	3
+3521	managed	3
+1526	manager	6
+7199	manager
+	1
+8559	manager.	1
+6064	manager.
+	1
+7834	managers	1
+8312	managers.
+	1
+7375	mandatory	1
+8154	manifest	1
+5205	mantra	2
+4351	manually,	1
+5190	manufactured	1
+7104	manufactured.
+	1
+7105	manufacturing	1
+2053	many	4
+482	map	24
+2396	map
+	2
+1235	map,	4
+4356	map.	3
+3146	map.
+	7
+2044	mapped	4
+6480	mapper	1
+6481	mapper,	1
+3465	mapping	7
+4363	mapping
+	2
+7653	mapping.)	1
+7023	mappings	1
+4357	mappings,	1
+6482	maps	2
+7772	margin.
+	1
+6184	mark	2
+2545	mark()	1
+3840	mark().
+	1
+3841	mark.	1
+3341	marked	2
+3842	marked,	1
+2392	marker	2
+6962	market
+	1
+7418	marking	1
+7844	markup	1
+3806	mart	1
+8504	marytts.signalproc.adaptation.codebook.WeightedCodebookParallelTrainer.mainQuickTest2()	1
+2569	mask	2
+6725	mask.
+	1
+2411	mass	1
+1177	match	9
+2987	matched	1
+4976	matched,	1
+1803	matchedToken	1
+5799	matcher	2
+4715	matcher.
+	1
+3378	matches	10
+566	matches
+	1
+7046	matches.	1
+2352	matching	10
+4401	material	1
+4888	materialise
+	1
+7106	materials	1
+6139	mathematical	1
+3773	matrices	2
+2150	matrices.
+	1
+631	matrix	13
+1173	matrix
+	3
+7714	matrix.	1
+632	matrix.
+	4
+7300	matter	1
+1207	max	1
+8621	maxHeight	1
+8622	maxHeight.
+	1
+4769	maximal	1
+1721	maximum	10
+850	may	25
+7078	maybe	1
+1560	mean	5
+744	means	8
+7353	means.	1
+4678	meant	1
+3622	measure.
+	1
+6336	measured,	1
+4699	measured.
+	1
+4700	measuring	2
+6304	mechanism.	1
+6633	mechanisms	1
+7700	mechs	1
+7701	mechs.
+	1
+2715	media	3
+8482	median	1
+4607	meganization	1
+6675	meganizes	1
+789	member	11
+4861	member-of	1
+5396	member.	1
+5160	member.
+	2
+4854	members	2
+5723	members).	1
+5724	members,	1
+8426	members.	1
+2574	members.
+	1
+3163	memberships
+	1
+762	memory	6
+8022	memory.
+	1
+7614	mention	1
+4145	mentioned	1
+4441	menu	2
+6003	menu
+	1
+815	merge	3
+6309	mergeStyles	1
+1068	message	27
+1156	message
+	8
+2475	message,	5
+5418	message.	2
+1062	message.
+	21
+5422	message.arg1	1
+5423	message.arg2,	1
+5424	message.obj	1
+2021	messages	7
+5772	messages
+	1
+6282	messages.
+	2
+1085	meta	3
+4068	metadata	5
+3827	metadata.
+	1
+6547	metadata.xml	1
+8239	metafiles	1
+932	meter	1
+167	method	249
+3254	method
+	5
+1268	method)	2
+4635	method,	3
+6057	method.	9
+546	method.
+	18
+6499	method/payment	1
+3385	method;	2
+3863	methodologies	1
+3864	methodologies.	1
+5357	methodology	1
+5358	methodology.	1
+702	methods	18
+8024	methods,	2
+7401	methods.
+	1
+7364	methods.</p>
+	1
+5614	metric	1
+5185	metric.
+	2
+7676	metric:	1
+7306	metrics	1
+6435	metrics.
+	1
+3158	middle	2
+5765	might	2
+4304	migrated.	1
+2066	migration	2
+7723	migration.	1
+4604	million	1
+5415	millis.
+	1
+629	milliseconds	6
+5476	milliseconds.
+	2
+4442	mimic	1
+3556	min	1
+2193	min,max
+	1
+3667	minimal	2
+5216	minimize	1
+2687	minimum	11
+5500	minus	3
+8053	minute(s)	1
+5626	minutes	1
+5171	minutes.
+	1
+6301	misformatted.
+	1
+5043	mismatched	2
+851	missing	7
+7523	missing,	1
+8313	mix.	1
+5773	mocking	1
+6989	mod	4
+4088	mode	2
+6961	mode
+	2
+5002	mode)
+	1
+3074	mode,	1
+6189	mode.
+	1
+2097	model	11
+3479	model
+	2
+5606	model's	2
+2098	model,	1
+3480	model.	2
+1982	model.
+	2
+2230	model1	1
+2231	model2.
+	1
+2099	models	3
+7860	modification	1
+7524	modification.<br	1
+5860	modifications.
+	1
+4611	modified	3
+1151	modifier,	3
+3744	modifiers	2
+3745	modifiers.
+	3
+673	modify	2
+8110	modular	2
+1946	module	8
+7431	module(s)	1
+3587	module,	1
+3588	module-specifics.	1
+3488	module.
+	1
+3589	modules	1
+3590	modules,	1
+4137	modulo	2
+2838	moment.
+	1
+7662	monitor.
+	1
+6917	monitored	1
+7324	month	1
+1058	more	33
+4734	more
+	2
+5251	most	7
+483	mouse	7
+5933	mouseX,	1
+5934	mouseY,	1
+2283	move	6
+2732	moved
+	1
+7118	moves	1
+4312	moving	1
+5078	mp4	2
+5725	much	1
+3233	much
+	1
+6135	multi	2
+2085	multi-character	1
+3927	multipart	1
+1722	multiple	13
+5635	multiplication,	1
+358	multiplicative	2
+3016	multiplying	2
+8567	mushroom	1
+306	must	29
+8463	mutators	1
+2819	n	1
+2820	n+1	1
+7246	n-body	1
+5281	n-gram	1
+6154	n-th	1
+3075	naive	1
+602	name	44
+840	name
+	3
+4869	name,	4
+3098	name.	8
+729	name.
+	13
+8140	name.</li>	1
+2625	name.<br>	1
+5113	name/value	1
+6669	nameX,	1
+2175	named	7
+4160	namely	1
+1017	names	12
+1022	names
+	1
+3648	names.	1
+2952	names.
+	2
+5726	names</strong>.	1
+1031	namespace	6
+5319	namespace
+	1
+5320	namespace.	1
+5575	namespace.
+	2
+1624	namespaces	1
+5946	narrow	1
+796	native	8
+1519	native.	1
+1324	native.
+	1
+797	navigate	1
+2301	navigation	5
+6103	near	1
+7804	nearest	1
+5217	nearly	2
+5272	necessarily	1
+2002	necessary	8
+4399	necessary
+	2
+6058	necessary)	1
+5402	necessary.	1
+3814	necessary.
+	4
+1373	need	24
+2003	needed	11
+7808	needed
+	1
+4334	needed.	3
+4161	needed.
+	4
+8220	needed.</p>
+	1
+5139	needing	1
+7107	needs	2
+7528	needs,	1
+6072	needs.	1
+1927	negative	3
+6368	negative).	1
+703	negative).
+	2
+3017	negative,	3
+2821	negative.	1
+2524	neighbor	1
+2525	neighbors	1
+2011	neighbour	1
+2012	neighbours	1
+8297	neither	1
+1301	nested	7
+4838	nesting	1
+5149	network	3
+637	network,	1
+8611	network.	1
+4165	never	7
+74	new	241
+4959	new,	4
+6830	newDrawablesDialog().	1
+3560	newer	2
+5827	newlines.
+	1
+3281	newly	2
+5120	news	1
+5121	newsfeed.
+	1
+2130	newton-meters.
+	1
+307	next	33
+8271	next()	1
+4096	next.
+	1
+46	nextPoisson(mean)	1
+5483	nicely	1
+3403	niceties	1
+6667	nickname
+	1
+152	no	103
+75	node	24
+1040	node
+	3
+6253	node,	2
+967	node.	17
+349	node.
+	5
+2526	nodes	8
+6901	nodes
+	3
+4605	nodes,	1
+1682	nodes.
+	3
+3825	noise
+	1
+5440	non	2
+7391	non-Chrome	1
+7184	non-PEM-encoded	1
+4176	non-blocking.
+	1
+4305	non-catastrophic	1
+8079	non-existent	1
+8726	non-negative	1
+977	non-null	3
+2333	non-obvious	1
+8681	non-player	1
+5855	non-positive,	1
+6359	non-standard	1
+3957	non-symbols,	1
+8673	non-whitespace	1
+4873	non-zero	3
+5964	none	1
+6337	nonzero.	1
+7947	noon".	1
+8298	nor	1
+2328	norm)
+	1
+1866	norm.	2
+5522	normal	2
+818	normal.
+	1
+2421	normalization	1
+8768	normalization;	1
+7910	normalized	1
+4783	normally	2
+6156	normally
+	1
+8568	north-west.	1
+409	not	157
+5714	not
+	3
+5966	not,	1
+1422	not.	3
+1544	not.
+	6
+3446	notably,	1
+4182	notation	2
+2215	notation,	1
+7329	notation.
+	1
+6209	note	1
+222	nothing	7
+7659	nothing,	1
+3865	nothing.	2
+3543	nothing.
+	4
+3778	notice	1
+3677	notification	3
+1513	notifications	4
+7066	notifications
+	1
+8490	notifications,	1
+1678	notifications.
+	4
+1045	notified	5
+7567	notifies	1
+904	notify	4
+2458	now	7
+4913	now
+	1
+376	now),	1
+8793	now:	1
+2153	nta	13
+47	null	40
+5234	null
+	3
+6776	null).	1
+1346	null,	11
+7239	null-type	1
+718	null.
+	16
+7818	null.)
+	1
+5501	null.</p>
+	3
+2381	null:	1
+3779	null;
+	1
+5738	nulls.
+	1
+138	number	63
+8658	number
+	1
+3713	number,	1
+7467	number.	2
+809	number.
+	5
+2382	number:	1
+8261	numbering	1
+2015	numbers	2
+4138	numbers,	1
+2843	numeric	2
+1152	numerical	1
+6376	obj	1
+3548	obj1's	1
+3549	obj2's	1
+260	object	73
+562	object
+	10
+8204	object's	1
+6374	object)
+	1
+308	object,	4
+2100	object.	9
+175	object.
+	20
+6216	objectID	1
+1269	objects	16
+6689	objects,	1
+5727	objects.	1
+3327	observations.	1
+48	observed	1
+6233	observer	3
+6864	observers.
+	1
+8552	obtain	1
+3182	obtained	2
+1365	obtains	2
+1723	occlusions	2
+3234	occupancy	1
+5307	occur	2
+1649	occur.
+	2
+6158	occurred.
+	1
+8203	occurrence	2
+3591	occurs,	1
+4977	occurs.
+	2
+2822	odd	1
+49	of	746
+5564	of.
+	1
+1804	ofKind	1
+1805	ofKind.	1
+227	off	4
+7571	off-screen	1
+251	offset	5
+1340	offset.	2
+4006	offsets.
+	2
+4479	often	1
+8427	often,	1
+3828	oid	1
+5917	old	2
+3561	older	2
+1315	omnibox	1
+5050	omnibox.
+	1
+335	on	140
+1520	on,	2
+4687	on-fly-cg	1
+4045	on.	2
+7325	on;	1
+3282	onCreate	2
+5667	onCreate()	1
+7275	onStart	1
+4915	onStart,	1
+1008	once	5
+3447	once
+	1
+4177	once).	1
+2121	once,	1
+3968	once.	1
+2620	once.
+	2
+195	one	58
+7605	one
+	2
+7740	one,	1
+3328	one-sample,	1
+8583	one-server	1
+3329	one-sided	1
+8366	one-tailed	1
+4661	one.	1
+4033	one.
+	5
+3926	oneof-scoped.
+	1
+921	ones	4
+6413	ones.
+	1
+153	only	88
+5670	only.
+	2
+7229	onto	1
+4518	ontology	1
+8407	onward
+	1
+6641	op	1
+3119	opacity	1
+7287	opaque	1
+7295	opcode.
+	1
+2994	open	5
+8399	opening	1
+5766	operand.
+	2
+5567	operates	1
+8555	operating	1
+410	operation	10
+7654	operation).	1
+3843	operation,	2
+6701	operation.	1
+2546	operation.
+	5
+1671	operations	6
+4139	operations.	2
+6558	operator	1
+6990	operator,return	1
+3619	operator.	2
+1341	opposed	2
+704	opposite	4
+3695	opposite.	1
+6104	optimal	1
+3294	optimization	1
+8435	optimized	1
+3649	option	11
+594	optional	5
+3295	optional)	1
+3350	optionally	5
+3850	options	9
+5254	options
+	2
+8182	options.	1
+252	or	169
+4800	or(leftPredicate,	1
+674	order	18
+2683	order
+	4
+3550	order)	1
+7007	order).
+	2
+6951	order,	1
+675	order.	3
+5070	order.
+	3
+8810	order:	1
+5691	ordered	1
+6952	ordering
+	1
+6953	ordering.	1
+6622	ordering.
+	1
+7857	orderly	1
+5523	org.jme.math.Vector3f	1
+1904	original	9
+7110	originally	1
+6273	orthogonal	1
+6274	orthogonality	1
+154	other	51
+7768	other</li>	1
+4480	others,	1
+8183	others.	1
+2936	others.
+	2
+790	otherwise	7
+2470	otherwise
+	3
+1302	otherwise.	1
+2881	otherwise.
+	5
+8701	otp
+	1
+8505	ouput	1
+2205	our	8
+719	out	27
+7368	out-of-memory	1
+7597	out.	1
+1076	out.
+	2
+1593	outcome	2
+4382	outgoing	2
+8073	outlines	1
+915	output	19
+7157	output.
+	1
+8397	outputs	1
+2334	outside	2
+641	over	16
+4895	overScrollBy()	2
+3235	overall	1
+3522	overflow	3
+7994	overlap	1
+3120	overlay.	1
+3592	overridden	2
+441	overridden
+	1
+1970	override	9
+547	overriden	2
+4451	overwrite	3
+3111	overwrite.
+	1
+8299	overwriteable.	1
+7931	overwrites	1
+6310	overwritten	2
+6815	overwritten.
+	1
+1125	own	11
+3949	owner	4
+6387	ownerDoc	1
+2437	owns	2
+7504	p	1
+1303	p1</code>	1
+1759	p2)	1
+1760	p2).
+	1
+1304	p2</code>	1
+4532	pack
+	1
+5325	package	4
+1606	packet	3
+6937	packet
+	1
+3831	packet.
+	1
+6199	packets	1
+84	packets.
+	1
+7200	pad	2
+3018	padding	4
+3019	padding,	1
+8727	padding.	1
+7587	padding.
+	1
+269	page	9
+8054	page
+	1
+270	page.	2
+798	page.
+	3
+5627	pageContainer	1
+8155	paint	1
+8255	painted	1
+1053	pair	5
+1584	pair;	1
+852	pairs	4
+5114	pairs.	1
+4589	pairs.
+	2
+2859	palette	1
+7172	panel	1
+7582	panel's	1
+5336	panel.
+	3
+4688	paper.	1
+6275	parallel	2
+7854	paralyzed.
+	1
+1545	parameter	16
+4868	parameter
+	2
+1905	parameter.	1
+1610	parameters	8
+112	parameters
+	24
+1473	parameters,	1
+435	parameters.
+	11
+3330	parametric	1
+4835	params	1
+4577	params.
+	2
+145	parent	15
+6883	parent
+	1
+968	parent.
+	14
+6720	parentType	1
+5939	parentheses)	1
+1474	parse	6
+7801	parseNetworkResponse.	1
+763	parsed	3
+8184	parsed,	1
+7997	parsed.
+	1
+3034	parser	9
+8066	parser
+	1
+3379	parser.
+	3
+1988	parses	13
+7433	parsing	1
+223	parsing.
+	1
+1180	part	17
+3838	part.
+	2
+6881	part;	1
+6954	partial	1
+1401	participants.
+	1
+5979	participate	1
+8762	particle	1
+2302	particular	9
+810	partition	1
+2724	partition.	1
+2659	partly	1
+7702	party	1
+8278	partyId	1
+8279	partyId,	1
+2280	pass	1
+764	passed	19
+5273	passes	2
+5795	passing	1
+1381	password	2
+279	password.
+	1
+3351	past	3
+7615	patch	2
+7864	patches	1
+736	path	14
+3103	path
+	2
+2633	path(path,	1
+3780	path,	1
+737	path.	2
+1092	path.
+	5
+7677	path:	1
+3781	paths	5
+6825	paths
+	1
+5264	pattern	2
+4832	pattern.	1
+7093	patterns	2
+1947	patterns.</p>
+	1
+2442	pause	1
+6403	payload	2
+461	payload):	1
+1572	payload,	1
+5545	payment	2
+8227	pays	1
+1248	pcall.
+	1
+6133	peer	1
+5845	peer),	1
+6195	peer.
+	2
+8172	penalty.
+	1
+614	pending	4
+2297	pendingDiscoveries,	1
+1971	per	5
+8598	per-app	1
+6422	per-view	1
+3020	percent	1
+3021	percent,	2
+3782	percentage	3
+3783	percentage,	1
+6512	percentages
+	1
+2319	perform	9
+3352	performance	4
+6145	performance
+	1
+5826	performance.
+	1
+2527	performances.	1
+2022	performed	5
+505	performed
+	9
+3076	performed,	1
+5992	performed.
+	1
+6140	performing	1
+2004	performs	2
+336	period	3
+4967	period,	1
+2725	periods	1
+1305	permission	6
+8280	permission
+	1
+1306	permission,	1
+5588	permission.
+	1
+1307	permissions	6
+7552	permissions,	1
+7365	permissions.	1
+4089	permits	2
+5274	permutations	1
+1133	permute	2
+3553	permutes	1
+4519	persist	1
+4786	persisted	2
+1724	persistedFaceId	2
+7809	persistenceManager	1
+6548	persistent	1
+2143	persists	1
+1725	person	2
+6729	personal	1
+7533	petition	1
+2988	phase	1
+1650	phoneme	1
+6031	phonetic	1
+3950	photo	3
+7640	photo's	1
+4708	photo.
+	1
+3951	photo100172_166443618,photo66748_265827614
+	1
+8456	photos	1
+6316	photos"	1
+8292	phrase	1
+7438	phylogram	1
+3807	physical	2
+6931	picked.	1
+4279	picker.
+	1
+2537	picking	1
+4511	pie-slice	1
+8080	piece.	1
+6155	piece.
+	1
+6577	pieces	2
+7680	pigeon	2
+2505	pilot's	1
+7292	ping	2
+7441	ping.	1
+8004	pinned	1
+1625	pipeline	2
+1626	pipeline,	1
+2613	pipeline.
+	2
+1252	pitchmarks	1
+6637	pixel	2
+5770	pixels,	1
+1726	pixels.	2
+2188	place	3
+5985	place)	1
+4727	place.	1
+6955	placed	2
+6877	placeholder	1
+1840	placements	1
+6601	places	2
+4162	places,	1
+7170	plain	2
+2592	plane
+	1
+5524	plane.	1
+4819	planner,	1
+7094	plans.	1
+5378	platform	1
+1996	platform.	3
+6837	platform.
+	1
+5379	platforms	1
+1366	platforms.
+	2
+8628	played	1
+8629	played.
+	1
+2716	player	10
+5407	player
+	2
+3404	player's	2
+1465	players	1
+3734	players
+	1
+1148	playing	2
+8630	plays	1
+7966	please	1
+3539	plist	1
+3540	plist.
+	1
+7112	plugins.
+	1
+5151	plus	3
+473	point	23
+7040	point
+	1
+7986	point,	1
+2547	point.	3
+4935	point.
+	1
+4880	pointer	3
+8114	pointer)
+	1
+1761	points	7
+6880	points
+	4
+3381	points!
+	1
+76	points-to	6
+1762	points.	2
+3925	points.
+	2
+3754	poison.	1
+4714	poisoned.
+	1
+6375	pojo	1
+8563	pojo.	1
+99	pokemon	4
+5257	pokemon,	1
+7555	pokestops.
+	1
+4187	policy	1
+5332	polling	1
+1609	polygon	5
+4808	polyhedrons	1
+3236	polynomial	1
+3237	polynomials	1
+4790	polyong.
+	1
+7442	pong	1
+4583	pool	2
+5951	pool
+	1
+887	pool).
+	1
+4584	pool,	2
+1841	pool.	3
+1466	pool.
+	5
+6532	poor	1
+6027	pop	1
+4484	populate	1
+5218	populated	1
+4163	populates	2
+823	population	1
+474	popups	1
+8457	port	1
+1561	portion	3
+1594	pos	1
+7063	pos:	1
+261	position	17
+3190	position
+	2
+7255	position.
+	1
+1948	positions	2
+5071	positive	3
+1763	positive,	2
+8141	possibilities	1
+2261	possible	13
+4013	possible
+	1
+727	possible.
+	5
+6516	possible.<br>
+	1
+6416	possible?
+	1
+1936	possibleChild.
+	1
+8385	possibly	1
+3472	possition	1
+4387	post	3
+3952	post,	1
+4662	posted	1
+4663	posted,	1
+2864	postion(offset),	1
+7580	postpunctuation	1
+1679	posts	2
+3077	potential	2
+7027	potion	1
+5657	power	2
+6498	power-of-two	2
+2823	powered	1
+6618	practical	1
+4576	practice	1
+6932	pre-KitKat	1
+7282	pre-assigned	1
+7616	pre-verified	1
+3169	precache	1
+7098	precaching.
+	1
+309	preceded	2
+4689	precisely.
+	1
+1208	precision	3
+8728	precision,	1
+3620	predicate	3
+5874	predicate.
+	1
+8367	predicted.	1
+1521	pref	2
+4735	prefer	1
+8249	preferably	1
+5051	preference	4
+8594	preference,	1
+1950	preferences	2
+1530	preferences
+	1
+5728	preferred	1
+7114	prefetch	1
+4294	prefix	4
+4007	prefix.
+	2
+5866	prefixes.	1
+8770	prefixes.
+	1
+8668	preflight	1
+5668	prepare	4
+7976	prepareBlock()	1
+5660	prepareMatrix	1
+5661	prepareSparseMatrix	1
+2717	preparing.	1
+1569	prerequisite	1
+3405	presence	2
+2548	present	6
+7988	present
+	1
+2029	present)
+	1
+3523	present,	2
+4368	present.	2
+5018	present.
+	3
+1128	presenter	2
+3810	presenter
+	1
+572	presenter.
+	6
+5502	preserve	2
+5828	preserving	1
+3743	press	2
+2314	pressed	1
+2888	pressed.
+	2
+484	pressing	1
+6533	pretty	2
+4985	prettyprinted	2
+5729	prevent	1
+1236	preventing	2
+3353	prevents	3
+5425	preview	1
+271	previous	5
+2883	previously	9
+6859	price
+	1
+1775	primary	3
+8149	prime	1
+5055	primitive	2
+4907	primitives	2
+5607	principle	2
+4957	print	3
+4802	print.
+	1
+8729	printed.	1
+6947	printer	1
+8665	printout.
+	1
+7013	prints	1
+623	prior	1
+5570	priorities	1
+5571	priorities.
+	1
+1842	priority	2
+2404	private	9
+1833	probability	7
+8368	probability.	1
+3296	problem.
+	2
+3696	problematic.
+	1
+3238	procedure,	2
+1509	process	13
+6897	process
+	1
+8458	process,	1
+2068	process-instance
+	1
+5503	process.	1
+5671	process.
+	2
+2848	processed	2
+554	processed).
+	1
+8093	processed.
+	1
+4110	processes	4
+354	processing	9
+6446	processor	1
+3565	processor
+	2
+2054	processor!).
+	1
+8086	processors.
+	1
+7354	produce	1
+6973	produced	2
+940	product	6
+4369	production	2
+3164	products,	1
+765	profile	3
+2506	profile
+	1
+2917	profiling	1
+3078	program	2
+3079	program.	2
+2481	progress	5
+5362	progress.
+	1
+7288	progresses.
+	1
+802	project	9
+1199	project
+	1
+1479	project's	1
+2626	project,	1
+1906	project.	1
+2444	project.
+	3
+1163	projection,	1
+5894	prolog	1
+3484	prompt	2
+8199	prompt.	1
+3650	propagated	1
+3671	propagation	2
+5617	propagation.
+	1
+615	proper	4
+3834	proper,	1
+6210	properly	1
+7805	properly.
+	1
+1446	properties	13
+5468	properties,	2
+5734	properties.	1
+4150	properties.
+	2
+2824	property	7
+4822	property
+	1
+2737	property(propertyName,	2
+2169	property.
+	3
+8432	proportion	1
+8342	prosody,	1
+281	protected	2
+6388	protection.	1
+8304	proto	1
+6293	proto.
+	1
+6597	protocol	1
+7956	protocol,	1
+3835	protocol.
+	1
+1972	provide	7
+6311	provide.
+	1
+1573	provided	27
+8623	provided,	1
+1991	provided.
+	3
+2951	provider	4
+8037	provider,	1
+6779	provider.
+	1
+4090	provides	3
+4595	providing	2
+3593	provoked	1
+2389	proxy	6
+2390	proxy.
+	1
+7568	pseudo-name	1
+5243	pseudoinverse
+	1
+1398	pseudorandom,	2
+2136	public	6
+3386	public.
+	3
+8592	public.banned_ips
+	1
+3852	public.challenges
+	2
+241	public.countries
+	1
+6004	public.hints
+	2
+5818	public.ip_logs
+	2
+6187	public.passreset
+	1
+936	public.rules
+	1
+7938	public.submissions
+	1
+2554	public.teams
+	2
+1415	public.users
+	1
+8644	publication?
+	1
+1574	publish	2
+2320	pull	2
+5487	pulled	1
+7141	pulls	1
+462	pumpMAC	1
+4260	punch	1
+4261	puncture	1
+4262	puncture.	1
+8402	punycode	1
+3755	purify	1
+4263	purpose	3
+6713	purpose.	1
+4370	purpose.
+	1
+2067	purposes.
+	2
+2670	pushed),	1
+4203	put	5
+6890	puts	2
+7735	putting	1
+2636	px
+	1
+705	q	4
+7505	q's	1
+7506	q.	1
+1575	quality	2
+8699	quanisation	1
+5537	quantile-accuracy	1
+3557	quantity	1
+928	quaternion	1
+7247	queried	1
+6436	queries	3
+234	query	16
+2681	query
+	2
+6559	query.	1
+1164	query.
+	3
+6344	query:	1
+1550	quest.
+	1
+8081	question	1
+3055	queue	6
+4313	queue,	3
+4664	queue.	2
+1408	queue.
+	2
+5102	queue.</p>
+	1
+4987	queued	1
+5076	quit	1
+1855	quote	2
+7355	quoted.	1
+4277	quotes	1
+2383	quotes).	1
+706	r	4
+745	r(u)	1
+746	r.revert(v)	1
+7932	r1	1
+7933	r2.	1
+8543	rInner	1
+8544	rInner).
+	1
+8545	rInner.applyTo(u)	1
+8546	rOuter	1
+8547	rOuter.applyInverseTo(v)	1
+6906	race;	1
+6907	races,	1
+6429	racy,	1
+4764	radian	1
+4319	radius.
+	1
+8730	radix	1
+7369	raise	1
+8491	raised	1
+8811	raised.	1
+8812	raised.
+	1
+3239	random	15
+4243	random,	1
+6424	randomizes	1
+3554	randomness
+	1
+1727	range	15
+276	range
+	2
+1815	range.	1
+3720	range.
+	3
+7411	raster	1
+6898	raster.
+	1
+3796	rate	3
+2497	rate
+	1
+6338	rate_1	1
+6339	rate_2.
+	1
+5186	rates	2
+1059	rather	10
+8390	rating	1
+3473	ratio	1
+3474	ratio,	1
+2699	raw	4
+2621	ray	1
+2418	rdp	1
+3206	re-creates	1
+4513	re-dispatch	1
+3366	re-emits	1
+2324	re-throwing.
+	1
+424	re-used	1
+563	reachable	4
+1687	reached	3
+7592	reached.
+	1
+1237	reaches	3
+1023	read	19
+7196	read,	1
+6146	read-committed	1
+4025	read.	1
+6185	read.
+	2
+6778	read/write	1
+7163	readTimeout	1
+7802	readability.
+	1
+1539	reader	6
+6997	reader
+	1
+6714	readerWriter
+	1
+1856	reading	6
+3909	reading.
+	1
+1181	reads	11
+3203	real	10
+5219	real,	2
+2412	real-valued	1
+8343	realised	1
+6908	really	1
+3922	reasons	2
+5012	reasons.
+	1
+3704	recalculates	1
+2005	recalculations	1
+1551	receive	4
+463	receiveMessageType	1
+464	receiveSequenceNumber	1
+1382	received	13
+6862	received,	1
+1118	received.
+	1
+2459	receiver	1
+4932	receiving	1
+8584	recent	1
+4402	recipe
+	1
+8228	recipe,	1
+8229	recipe.<br>	1
+6685	recipients	1
+7036	recognition	1
+7340	recognized	2
+7171	recognizes	1
+8670	recompute	1
+8700	recomputed	1
+7778	reconstruct	1
+2877	reconstructed:	1
+3770	record	8
+8655	record
+	1
+7419	record.	2
+2356	record.
+	1
+6349	recordRepeatedSteps	1
+8671	recorded	1
+3760	recording	3
+2560	recording.	1
+209	records	3
+210	records.
+	1
+7079	recover	1
+6036	recovered	2
+7749	recovering.
+	1
+3207	recovers	1
+3275	recovery	6
+8560	recovery.
+	1
+8653	recreate	1
+7754	rect.
+	1
+1728	rectangle	7
+8156	rectangle
+	1
+4097	rectangle,	1
+1729	rectangle.	2
+485	rectangular	1
+7219	recurrence	2
+5275	recurring	1
+8763	recursive	1
+7847	recycler	1
+3728	redirect	2
+4578	redraw	1
+5530	reduced	3
+7617	ref	1
+1024	reference	8
+4542	reference
+	2
+8764	reference).	1
+3244	reference.
+	2
+2460	referenced	3
+676	references	6
+2461	references.	2
+4309	references.
+	2
+4146	referenses.
+	1
+2462	referred	1
+7501	reflecting	1
+6043	reflection	2
+3651	reflection,	1
+6765	reflection.
+	1
+6287	refresh	3
+2321	refresh
+	1
+4787	refreshToken.
+	1
+6346	refreshes	2
+8438	refreshing	1
+4001	refspec	1
+2579	refusing	1
+1764	regard	1
+1730	regarded	3
+3080	regardless	1
+2013	region	3
+4413	region.	1
+4414	regions.
+	1
+6015	register	2
+5333	registered	5
+6781	registered
+	1
+1270	registered,	1
+6648	registering	1
+6473	registrar	1
+5911	registries)
+	1
+5912	registry	1
+3798	registry
+	3
+5408	registry.
+	2
+4978	regular	3
+6613	reimplemented.
+	1
+3331	reject	1
+50	rejected	1
+8190	rejecting	1
+2069	related	6
+350	relation	3
+351	relation.	1
+7879	relations	1
+1651	relations,	1
+475	relative	7
+7810	released	1
+7113	released
+	1
+7150	released.	1
+5692	relevant	1
+5693	relevant)	1
+6915	relied	1
+841	relies	3
+8038	reloading	1
+6649	rely	1
+1542	remaining	7
+3475	remains	3
+5796	remote	4
+1210	remove	11
+2671	remove,	1
+2508	removed	4
+3705	removed,	2
+7655	removed.	1
+3706	removed.
+	2
+2298	removes	6
+2509	removing	1
+4560	rename	1
+4612	render	2
+3415	rendered.
+	1
+5220	renderer	1
+5490	renderer.
+	1
+5577	rendering	3
+5294	rendering.
+	1
+3524	renewal	1
+1213	repack	1
+4911	repair.	1
+1347	repeat	2
+4744	repeated	2
+7408	repeated.
+	2
+7080	repeatedly.	1
+7111	repeatedly.
+	1
+1348	repeats	1
+4990	repetition
+	1
+3141	replace	6
+5115	replaced	2
+5895	replaces	1
+3466	replacing	2
+7790	replica	1
+4899	replies	1
+5774	reply	1
+2222	report	3
+2232	reported	1
+7569	reported,	1
+5187	reporting	2
+2023	reports	3
+2549	reposition	2
+3844	repositioning	1
+874	repositories	1
+803	repository	2
+3105	repository
+	2
+3525	represent	3
+1924	representaion	1
+365	representation	20
+4472	representation
+	3
+6360	representation"	1
+8326	representation.	3
+5403	representation.
+	3
+1308	representations	1
+5557	representations,	1
+1731	representative	1
+1249	represented	4
+633	representing	12
+3836	represents	5
+113	request	53
+3928	request
+	1
+68	request's	1
+3354	request,	2
+4295	request.	1
+2765	request.
+	8
+6095	requested	3
+7977	requested.	1
+4534	requested.
+	1
+4230	requests	5
+4147	requests.	1
+4843	requests.
+	2
+5129	requestted	1
+2355	require	3
+2147	required	6
+4335	required.	2
+7875	requirement,	1
+5466	requirements	1
+2463	requires	3
+5910	requires
+	1
+4943	resampling.	1
+139	rescaled	2
+5861	rescan	4
+6816	resemble	1
+1843	reservations
+	1
+1776	reserve	1
+1844	reserved	1
+2629	reset	5
+2550	reset()	4
+4306	reset)
+	1
+1933	resets	3
+8039	resetting	1
+888	reside	2
+3826	residual	1
+1238	resize	2
+5469	resize
+	1
+3022	resized	1
+5945	resizes	1
+6073	resizing/compressing	1
+8400	resolution	1
+3866	resolution,	1
+7618	resolved	2
+6956	resolved,	2
+3996	resolver.
+	1
+8521	resolving	1
+295	resolving
+	1
+7958	resorting	1
+624	resource	13
+2712	resource
+	1
+625	resource,	1
+5438	resource-type.
+	2
+3342	resource.	1
+5045	resource.
+	1
+1845	resources	5
+8600	resources
+	1
+3343	resources,	1
+3485	resources.
+	3
+8159	respect	1
+2570	respective	4
+4770	respectively)
+	1
+5426	respectively.
+	1
+8040	responds	1
+879	response	14
+3729	response,	2
+2339	response.	3
+2342	response.
+	4
+465	responseSequenceNumber?	1
+6614	responses	1
+7189	responsibility	1
+3594	responsible	2
+2101	rest	2
+6305	restarted	1
+3595	restarted,	1
+7130	restarts	1
+7991	restore	1
+819	restored	1
+1383	restored)
+	1
+922	restores	1
+4217	restricted	1
+7797	restriction.	1
+6668	restrictions	2
+1732	result	34
+5117	result
+	1
+4415	result,	1
+3596	result.	3
+3969	result.
+	5
+7782	result;	1
+3208	resulting	7
+1394	results	8
+7823	results
+	1
+235	results.
+	3
+1149	resume	1
+6871	resumed	1
+6691	resurrection	1
+1576	retained	2
+2884	retries	1
+6170	retrieved	2
+1129	retrieving	1
+6534	retrospect	1
+5135	retry	1
+5152	retryUpdate
+	1
+100	return	49
+6639	return
+	1
+3678	return.	2
+3290	return.
+	7
+425	returned	29
+1349	returned
+	1
+5276	returned.	2
+6505	returned.
+	7
+6483	returned.</p>	1
+1325	returning	3
+394	returns	74
+7656	returns.
+	1
+4098	reuse	1
+2694	reuse.	1
+2695	reused.	1
+747	reverse	1
+5359	reverse.	1
+5258	revive	1
+5221	rewrite	2
+3286	rewritten	1
+5009	rgb565(r,	1
+7053	rho,	1
+8706	rid	1
+1384	right	11
+5431	right-aligned	1
+4466	right-to-left.	1
+2605	right.	1
+7297	right.
+	1
+2738	rightPredicate)).
+	2
+7148	rights	1
+7549	ring	3
+7695	risk
+	2
+4364	role	2
+3686	roles	1
+4809	roles.
+	1
+2576	rollback	2
+6484	rolled	2
+5504	rolling	2
+253	room	1
+564	root	17
+7496	root
+	1
+4341	root's	1
+7439	root,	1
+4342	root.
+	1
+804	roots;	1
+140	rotated	1
+748	rotation	4
+749	rotation.	2
+8585	roughly	1
+3159	rounded	1
+6756	route.
+	1
+4507	routine	1
+1907	routine.</p>	1
+6679	routing	1
+168	row	5
+5995	row
+	1
+4052	row.
+	1
+8434	rowNumber	1
+7934	rows	1
+3050	rows.
+	3
+766	rule	13
+1198	rule
+	3
+5179	rule).
+	1
+492	rule.
+	4
+5813	rules	2
+5872	rules,	1
+228	run	11
+5707	rune	1
+5862	runnable	1
+6724	runnable
+	1
+1190	running	3
+6211	running
+	1
+6244	running,	2
+5856	running.
+	1
+155	running?
+	13
+3923	runtime	2
+5988	rwos	1
+5326	rx.plugins	1
+3176	s	1
+7848	s.	1
+978	s.
+	1
+3130	s2.h).
+	1
+2528	sadly	1
+3195	safely	1
+3867	safety	1
+6340	said	1
+7190	sake	1
+101	same	48
+7512	same
+	1
+720	same,	1
+51	same.	1
+7838	same.
+	1
+6032	sampa	1
+1146	sample	6
+6322	sample.	1
+6323	sample;	1
+2055	samples	3
+5032	satisfied,	1
+7142	satisfied.
+	1
+5229	satisfied/true.<br>	1
+5230	satisfied/true.<br>
+	1
+6276	satisfies	1
+8200	satisfy	1
+3761	save	8
+559	saved	4
+8429	saved.
+	1
+5573	savedInstanceState	1
+4362	saves	2
+6074	saving	1
+5140	saving.	1
+5636	scalar	1
+5637	scalar.
+	2
+3043	scale	5
+4170	scale.	2
+3701	scaling	3
+2529	scan	4
+5694	scan
+	2
+825	scan.
+	1
+4919	scanContainer	1
+5488	scanPokemon	1
+6594	scanPokemonScreen	1
+1627	scanner.
+	1
+1628	scanning	6
+8049	scene
+	1
+2763	schedule	1
+7479	scheduler	1
+5633	scheduler.	2
+7907	scheduling	1
+1333	schema	5
+6038	schema
+	1
+3901	schema).	1
+8186	schema.	1
+4206	schema.
+	6
+8142	scheme	1
+1633	scope	2
+4596	scope,	1
+8518	scoreboard	1
+6026	scratch.	1
+4231	screen	9
+4674	screen.
+	4
+4672	screenshot	1
+7926	script	1
+4443	scroll	4
+4896	scrollRange	2
+2650	scrolling	3
+7064	sdsd	1
+7252	sealing	1
+2530	search	8
+1662	search.
+	1
+8094	searched	1
+5052	searches	2
+196	searching	2
+197	second	9
+738	secondary	1
+4286	seconds	1
+5628	section	2
+2492	section-like	1
+2890	section.
+	1
+5873	secured	1
+5589	security	1
+1816	see	14
+4502	seed	1
+5751	seed.
+	3
+7987	seeds	1
+7406	seeeeek	1
+4233	seek,	1
+8369	seen	1
+6296	seen.
+	1
+3276	segment	4
+2238	segment.
+	1
+2700	segmentId.
+	1
+767	segmentation	1
+5199	segmented	1
+1652	segments	3
+8153	segments.
+	1
+8344	segmentsAndBoundaries	1
+5087	segs	1
+4383	select	3
+285	selected	11
+5989	selected,	3
+171	selected?
+	4
+8405	selecting	1
+578	selection	10
+1851	selection.
+	1
+4999	selector	3
+1093	selectors	1
+8569	self	1
+8682	selling	1
+3526	semantics	1
+2766	send	8
+5775	sendProcessDisonnectionRequest()	1
+3039	sended	1
+2989	sending	2
+4805	sends	4
+8235	sense	1
+3911	sensitive	2
+4287	sensor	2
+3184	sensor.
+	1
+2024	sent	4
+8063	sent.	1
+3451	sentences	1
+1226	separate	6
+529	separated	5
+1018	separates	1
+3410	separating	2
+1367	separator	3
+3411	separator.
+	1
+7794	separators	1
+7996	separators.
+	1
+7227	separators.<br>	1
+2898	sequence	8
+6294	sequence,	1
+1459	sequence.
+	2
+3196	sequences	2
+1540	sequences.
+	3
+7635	serializable	2
+7779	serialization
+	1
+6450	serialization.
+	1
+6237	serialize	1
+1309	serialized	4
+2340	serialized.
+	3
+4784	serializers	1
+369	series	4
+1997	series.
+	1
+2643	server	16
+2058	server
+	1
+2156	server(s).
+	1
+1077	server.	2
+4806	server.
+	3
+7335	servers	1
+8015	servers'	1
+833	service	11
+1527	service
+	1
+5857	service,	2
+5546	service.	2
+853	serviceName	1
+1271	services	9
+7681	services,	1
+6935	services.
+	1
+5622	session	3
+5074	session.	1
+3056	session.
+	1
+538	set	96
+4296	set,	3
+5019	set.	5
+935	set.
+	2
+3953	set.)	1
+6560	set/overridden	1
+2122	setAdapter.	1
+4625	setCalendar().
+	1
+337	sets	12
+2721	setted	1
+2158	setting	8
+4390	setting.
+	2
+2159	settings	8
+4585	settings.	3
+1328	settings.
+	1
+5993	settings.gradle	1
+7633	settle	1
+805	setup	1
+2855	setupData()	1
+1402	several	4
+411	shadow	2
+4435	shadows	1
+8064	shall	1
+5641	shallow	2
+4489	shape	4
+3044	shape.
+	1
+8230	shape.<br>	1
+4403	shapeless	1
+5830	share	3
+4343	share
+	1
+1951	shared	1
+5448	shedding	1
+7407	sheeet.
+	1
+4055	shell	2
+7134	shield	1
+486	shift.	1
+3240	shifts)	1
+4927	ship	1
+4928	shipAfterDate	1
+1202	shock	1
+2678	shoppingcart
+	1
+2679	shoppinglist	1
+466	short	4
+5090	short-cut	1
+2501	short.
+	1
+7453	shorts	1
+497	should	58
+6980	shouldAllowNavigation().	1
+7345	shouldn't	1
+1157	show	12
+3970	showing	2
+6939	showing?
+	1
+5122	shown	2
+8201	shown.	1
+1514	shown.
+	2
+3971	shows	1
+1049	shutdown	2
+616	shutdown()	1
+2665	shutdown().
+	1
+7858	shutdown,	1
+2926	shutdown.
+	1
+3023	side	3
+8570	sides	1
+7054	sigma.
+	1
+8731	sign	1
+2825	sign.	1
+5876	signal	1
+6632	signalData	1
+6409	signature.
+	1
+296	signatures	2
+2464	signatures.	1
+5943	signatures.
+	5
+3332	significance	1
+5404	significant	1
+707	signs,	3
+7998	silently.	1
+3527	similar	3
+3774	similarity	2
+2102	simple	6
+4796	simplex	2
+2701	simplified	1
+4690	simplify-sccs	1
+1806	simply	6
+4691	simulate	1
+5944	simulateMethod.	5
+2849	simulation	2
+7248	simulation.	1
+8450	simultaneous	1
+2473	since	11
+5322	sine	1
+1765	single	15
+6995	single-threaded	1
+5156	singleton	1
+4920	singleton.
+	2
+1807	sit	1
+5053	site	1
+7849	site,	1
+2534	situation.
+	1
+2627	situations	3
+8571	six	1
+467	size	24
+3243	size
+	4
+1733	size,	5
+2154	size.	14
+5239	size.
+	2
+5968	sizes	3
+7935	skill	1
+8221	skill
+	1
+5531	skills	2
+8794	skills
+	1
+1824	skipped	1
+3035	skipping	2
+5565	slab	1
+8143	slash	1
+8144	slash,	1
+5003	slave	1
+5077	slholder	1
+8007	slide	1
+3241	slight	1
+7151	slock	1
+2606	slop	1
+2607	slop=	1
+7420	slot.
+	1
+5360	slow	2
+6075	slower.</b>
+	1
+2826	slowly.	1
+4508	small	1
+6171	smaller	2
+3333	smallest	3
+3406	smelt	1
+6128	smoothly	1
+6129	smoothness.
+	1
+4320	snap	3
+1009	so	38
+2585	so,	2
+7859	socket	1
+6217	sockets
+	1
+2299	sockets.
+	1
+3081	solely	1
+4428	solution	1
+2827	solved	1
+4771	solver	2
+1218	some	23
+3626	someone
+	1
+1808	something	8
+3997	somewhere	2
+5920	soon	1
+7529	soot	1
+4811	sort	5
+5143	sort
+	1
+5265	sorted	2
+2247	sorts	2
+8631	sound	1
+3708	sounds	1
+182	source	21
+7197	source.	1
+550	source.
+	2
+2682	source/format	1
+7513	sourcename	1
+3024	space	14
+530	space).	1
+6059	space,	2
+8612	space-name	1
+6690	space-separated	1
+1019	space.	3
+1674	space.
+	1
+6060	space.clear()	1
+6077	spacer	1
+1960	spaces	2
+6704	spacing	1
+2726	span	2
+2608	spanning	1
+2206	spans	2
+1442	spans.
+	1
+3799	spawn	1
+8693	spec	1
+1809	special	9
+1310	special-cased:	1
+6017	specialized	1
+5807	species,	1
+1934	specific	26
+8185	specific,	1
+4833	specification	1
+8694	specification.	1
+5896	specifications	1
+141	specified	158
+2045	specified,	2
+1368	specified.	2
+1611	specified.
+	1
+1734	specifies	5
+6834	specify	4
+1106	specifying	3
+4773	spectrum
+	1
+820	speed	6
+7191	speed,	1
+4803	spelling	1
+3931	spent	1
+8745	sphere	1
+8746	sphere.	1
+8747	spheres	1
+6390	spinner.
+	1
+6730	spinning.
+	1
+6130	spline	2
+6131	spline,	1
+6132	splines	1
+1032	split	1
+4736	square	1
+6628	squared.
+	1
+4429	squares	1
+77	src	1
+7095	src="https://raw.github.com/wiki/ReactiveX/RxJava/images/rx-operators/and_then_when.png"	1
+5634	src="https://raw.github.com/wiki/ReactiveX/RxJava/images/rx-operators/switchCase.s.png"	1
+3367	src="https://raw.github.com/wiki/ReactiveX/RxJava/images/rx-operators/whileDo.png"	1
+1335	stack	11
+6028	stack
+	1
+7230	stack).
+	1
+923	stack,	1
+5908	stack.	1
+7092	stack.
+	1
+7444	stackOffset.
+	1
+2740	stacks	2
+686	stage
+	1
+8711	staged	1
+2965	stale	1
+8231	stand	1
+2103	standard	9
+5092	star	1
+1010	start	25
+5695	start-scan	1
+2609	start.
+	4
+7131	startActivity	1
+2035	startDate	2
+3771	startId	1
+3772	startId)
+	1
+5696	startPos	1
+6509	startSearchIndex	1
+6229	startService(),	1
+2561	started	1
+7376	started,	1
+2562	started.
+	3
+211	starting	16
+7019	starting.
+	1
+4238	starts	5
+5921	starts
+	1
+2207	starts,	1
+2166	startsWith	1
+1475	startup	2
+224	state	30
+3114	state
+	3
+290	state.
+	11
+979	statement	1
+1810	statement.	2
+5749	statement.
+	1
+8651	states	1
+8705	states.
+	1
+3082	static	10
+8517	statically	1
+3083	statics	1
+3868	statistical	1
+2233	statistics	3
+4936	statistics
+	1
+7480	stats	2
+1245	status	8
+3661	status
+	2
+7490	status.	1
+4078	statusTagId:	1
+4250	step.	1
+3106	steps	4
+8349	steps)	1
+6485	steps.</p>	1
+3242	steps:	1
+1467	sticking	1
+4665	sticky	1
+6061	still	4
+3820	stock	1
+107	stop	6
+5278	stop
+	1
+7468	stopped
+	1
+1586	stopping	1
+5600	stops	4
+7602	stopwords	1
+1086	storable	2
+2059	storage	7
+5456	storage.	1
+638	store	5
+6578	store.	1
+7293	store.
+	1
+890	stored	8
+4874	stored.
+	1
+1343	stores	5
+6465	storing	1
+1766	straight	4
+6105	strategy	1
+1491	strategy.
+	1
+865	stream	38
+3987	stream
+	5
+3845	stream,	11
+2551	stream.	6
+1923	stream.
+	9
+1443	streaming	1
+2552	streams	4
+3869	strength	1
+3902	stricter	1
+7356	strictly	2
+6	string	63
+948	string
+	4
+5393	string)
+	1
+3036	string,	5
+1126	string.	9
+501	string.
+	20
+2384	string:	1
+3375	strings	4
+7456	strings,	1
+3489	strings?
+	1
+6610	strogae	1
+5235	stroke.	1
+4774	strong	1
+580	struck	1
+8070	structural	1
+7514	structurally	1
+713	structure	7
+5323	structure.
+	3
+8765	structures	1
+3150	structures
+	2
+7065	stsd	1
+5079	stub
+	1
+2104	style	2
+6312	styles	1
+6313	styles.	1
+3784	sub	4
+3785	sub-path	1
+3786	sub-paths	1
+7481	sub-scope	1
+1562	subarray	1
+1114	subclass	3
+1629	subclasses	5
+6996	subexpressions;	1
+842	sublasses,	1
+6414	submaps,	1
+5741	submitted	1
+8712	submodules.	1
+5651	subprojects
+	1
+3368	subscribe()	1
+3142	subscribed	1
+7412	subscriber	1
+3681	subscriber
+	1
+5623	subscribing	1
+6590	subscription	2
+2510	subscriptions	2
+3369	subsequent	2
+2008	subset	7
+2353	subset
+	1
+5103	subsets.
+	1
+2828	substitute	1
+6790	substituted	1
+4889	substitutions	1
+5505	substream,	1
+3099	substring	2
+2829	subtract	1
+4314	subtraction	1
+969	subtree	15
+8441	succeeded	1
+1078	succeeded,	1
+4666	succeeds,	1
+2385	success	6
+7370	success.
+	1
+1385	successful	3
+1127	successfully	5
+4898	successfully,	1
+78	successors.
+	1
+648	such	26
+4496	suffix.
+	1
+1107	suffixs	1
+6361	suitable	1
+4101	sum	8
+6561	sum,	1
+6562	sum.
+	1
+8436	summaries,	1
+6134	summaries.
+	1
+6001	summary)	1
+3572	summing	2
+5124	summon	2
+6666	summoned	2
+7301	sun	1
+7598	sun.
+	1
+2675	super	2
+7978	superclass	1
+2189	superclass's	1
+7518	superclass?	1
+791	superclasses	1
+1937	superinterface	1
+7509	supertype.
+	1
+7491	supervision	1
+7835	supervisors	1
+4315	supplements	1
+1817	supplied	10
+8008	supplied
+	1
+7952	supplied,	1
+5427	supplied.	1
+2895	supplied.
+	2
+551	supplier	1
+8016	supplies	1
+2553	support	6
+6645	support.	1
+4091	support.
+	1
+7791	supportd	1
+142	supported	7
+4234	supported
+	2
+1735	supported.	2
+1414	supported.
+	2
+3846	supporting	1
+324	supports	5
+2086	supposed	1
+2190	sure	8
+8236	surface.	1
+4190	surname
+	1
+5428	surname.
+	2
+4324	surrounding	1
+6615	survey	1
+4336	swimming	1
+5863	swing	1
+8095	swipe	1
+1811	switch	3
+1522	switch.	1
+1523	switch.
+	1
+6213	switching	1
+4171	sy)	1
+4047	syllable	1
+1432	symbol	9
+4371	symbol,	1
+4372	symbol.	1
+1096	symbol.
+	3
+3958	symbols	1
+6341	symmetric	1
+7586	symmetry,	1
+1524	sync	4
+1675	sync-replication	1
+8586	synchrobuffer	1
+1433	synchronized	4
+7880	synchronized.	1
+3460	synchronous	2
+5877	syntax	3
+6692	sys_catalog
+	1
+4273	sys_dic_index
+	1
+3884	sys_role_menu
+	2
+4797	sys_user_thirdparty
+	2
+891	system	25
+768	system,	1
+426	system.	3
+1480	system.
+	2
+5713	systems.
+	1
+792	t	1
+3334	t-test	1
+7203	t.
+	1
+3811	tab	4
+6943	tab-delimited	1
+242	table	39
+1405	table
+	2
+8187	table's	1
+4586	table,	3
+8160	table.	2
+146	table.
+	13
+2167	tableName
+	1
+5582	tableName.
+	1
+5802	tables.
+	1
+1011	tabs	2
+1510	tag	15
+5742	tag
+	1
+7492	tag,	1
+5810	tag.
+	2
+1460	tagged	3
+7773	tagged.
+	1
+5298	tagger	1
+5299	tagger.	1
+3179	tags	6
+1046	tags).
+	1
+1961	tags.	3
+1409	tail	1
+3672	taint	1
+2123	take	3
+1311	taken	5
+1272	taken.
+	1
+1273	takes	6
+3025	taking	2
+3251	tandem	1
+7032	tangent	1
+7696	tap	2
+352	target	15
+1736	targetFace	2
+8345	targetFeaturesList	1
+1653	targets	2
+1528	task	8
+2886	task
+	3
+5547	task(s)	1
+6709	task.
+	1
+1939	task_fire_log
+	1
+617	tasks	4
+1587	tasks.
+	2
+7236	taxable	1
+8013	taxon	1
+7607	taxon-path	1
+6891	tdf	1
+8240	team	1
+8241	team-private.	1
+8232	tedious	1
+3608	teleportation
+	1
+2056	tells	2
+4812	temp	1
+412	template	4
+6147	template,	1
+413	template.	4
+2990	templateHolder	1
+414	templateTransaction	1
+2977	templates	3
+5125	templates
+	1
+2666	temporary	3
+3808	ten	1
+2500	term.
+	1
+3297	terminal	1
+2830	terms	3
+52	test	22
+3335	test,	1
+4339	test.
+	1
+7328	testArray	1
+7081	testServiceLockWaitTimeoutRetryCantRecoverWaiter	1
+5380	tested	1
+325	testing	7
+806	testing:	1
+229	tests	7
+438	tests.
+	4
+1447	text	27
+1196	text
+	1
+8263	text"	1
+5924	text,	2
+7357	text.	1
+1135	text.
+	6
+7865	text1	1
+7866	text2.	1
+3210	textbox	1
+4497	texts	2
+4498	texts.	1
+1369	textual	4
+8572	texture.	1
+916	than	39
+53	that	278
+3026	that's	2
+3528	that,	4
+7769	that:	1
+7	the	1713
+7413	the
+	1
+4028	the.
+	3
+1846	their	8
+1020	them	8
+6330	them
+	1
+7132	them,	1
+2144	them.	2
+5835	them.
+	2
+5642	themselves	2
+1312	themselves.	1
+198	then	46
+2831	theorem	1
+254	there	33
+7082	there's	1
+7083	there...	1
+6579	these	5
+708	they	23
+3972	things	3
+6443	things.
+	1
+7657	third	1
+54	this	348
+2563	this,	2
+5658	this.	1
+6759	this.
+	3
+639	this.containerId
+	1
+8707	this.freePages,	1
+8708	this.numRecords	1
+8709	this.stats,	1
+7336	this:	1
+8416	this;	1
+5141	thoroughly	1
+1370	those	16
+2105	those.	1
+4307	though	3
+6044	though,	1
+7228	though.	1
+626	thread	10
+498	thread
+	4
+3597	thread-safe	1
+2927	thread.	3
+2399	thread.
+	4
+5293	threaded	1
+5735	threads	4
+1949	three	4
+1239	threshold	3
+1240	threshold.	2
+5132	threshold.
+	2
+4069	thrift	3
+1921	through	8
+1357	through.	1
+1546	throw	10
+1060	throwing	4
+5506	thrown	3
+2325	thrown,	1
+3598	thrown.	3
+4470	thrown.
+	4
+4728	throws	6
+8613	throws.	1
+1595	throws.
+	1
+5525	thta	1
+8553	thumbnail	1
+548	thus	4
+8327	tie	1
+5753	tied	1
+7575	tier	1
+7576	tiers
+	1
+4066	tile	1
+7302	tile.	1
+4745	till	3
+427	time	32
+5041	time
+	1
+3679	time)	1
+3529	time).	1
+7152	time,	2
+1666	time.	5
+1916	time.
+	6
+7377	timeCheck	1
+3252	timeStampToString().
+	1
+1079	timed	2
+3599	timeout	4
+7084	timeout,	2
+5136	timeout.
+	1
+8120	timepicker	1
+3600	timer	7
+1147	timer
+	1
+7378	timer.	1
+8648	timerString	1
+6306	timers.	1
+2610	times	5
+1350	times.	2
+2248	timestamp	6
+7443	timestamps	1
+8587	timestamps.	1
+7839	timestamps.
+	1
+8528	timezone.
+	1
+1654	timing	1
+4265	timing.
+	1
+7309	tinker	1
+5341	tinting	1
+7852	title
+	1
+8777	title,	1
+2757	title.
+	3
+55	to	876
+5697	to)	1
+1928	to.	1
+7806	to.
+	1
+5222	to...).
+	1
+4945	to/from	2
+8478	to:	1
+8813	toFeatureString(FeatureVector).
+	1
+7358	toJSONString	1
+4848	toMap	1
+6733	toString	2
+5130	toString.
+	1
+1158	toast	2
+4031	toast.
+	2
+7534	today.
+	1
+3652	together	3
+5033	toggle	2
+1329	token	14
+5800	token.	2
+7119	token.
+	1
+8467	tokenizing	1
+4541	tokens,	1
+2087	tokens.	1
+8346	tokensAndBoundaries	1
+2234	tol	1
+8646	tolerance	1
+5947	tolerance
+	1
+929	tolerance.
+	1
+2832	too	4
+8116	too.
+	1
+4099	took.	1
+7686	tool.	1
+6822	toolbar	3
+3887	toolbar.
+	1
+1454	tools
+	1
+2586	tooltip	1
+924	top	13
+6457	top-level	1
+6665	topN	1
+5986	topic	5
+1577	topic,	1
+8293	topline	1
+6841	torque	2
+7925	torques	1
+949	total	4
+4433	touch	5
+8121	touch-event.
+	1
+6324	touches	1
+3151	tppe	1
+5013	trace	3
+7296	tracing.
+	1
+1193	track.
+	1
+2611	trackId	1
+5034	tracking	1
+4823	tracks	1
+2305	trade.
+	1
+8732	trailing	1
+5104	training	2
+5300	training,	1
+6114	training.
+	1
+8002	tranisient	1
+5583	transNum	1
+415	transaction	6
+6458	transaction,	1
+8208	transaction-	1
+3209	transaction.	1
+2145	transaction.
+	5
+7085	transaction;	1
+6459	transactions	1
+4345	transactions
+	1
+4209	transfer	3
+6762	transformation	5
+1872	transformation.
+	2
+3448	transformations	1
+8011	transformations.
+	1
+8012	transformed	1
+8403	transforms	1
+5391	transient	1
+6572	transition	2
+8479	transitive	1
+7919	translate	1
+3266	translated	3
+1908	translation	2
+1909	translation.</p>
+	1
+5630	translator,	1
+1917	translators	1
+5386	transmissions.
+	1
+3851	transmit	1
+7775	transmitted	1
+7289	transparency	1
+8314	transparent.
+	1
+1973	trap	1
+8634	travel.	1
+2651	traveled	1
+8766	traversal	1
+7824	treat	2
+980	treated	2
+6944	treating	1
+3059	tree	5
+2707	tree
+	2
+3903	tree)	1
+1962	tree.	1
+2638	tree.
+	4
+3562	trees	2
+2306	trial	1
+5745	triangle.
+	3
+6602	triangulation	1
+6766	trie.
+	1
+5897	tries	1
+8041	triggered	1
+7018	triggers	1
+6817	trivially	1
+416	true	84
+102	true
+	3
+3084	true,	8
+769	true.	1
+945	true.
+	5
+4561	true</li>	1
+7047	trust	2
+7185	trusted	3
+3500	truth	2
+5223	try	7
+8191	try
+	1
+4739	trying	1
+539	tuple	2
+7143	tuples	1
+5484	turn	4
+7397	twenty-seven	1
+2991	twice	1
+6302	twin.
+	1
+103	two	38
+4026	two-character	1
+2593	two-dimensional	1
+3336	two-sided	1
+3337	two-tailed	1
+5631	two-way	1
+7379	two.
+	1
+342	type	46
+385	type
+	8
+4297	type!
+	1
+4862	type's	1
+199	type,	5
+3152	type.	6
+1403	type.
+	17
+555	typed	2
+200	types	5
+6115	types
+	1
+4692	types-for-sites,	1
+933	types.
+	1
+8097	types.<br>	1
+3494	typically	3
+8548	u	1
+750	u.	1
+8461	ui	1
+5624	ui.
+	1
+4397	uid.
+	1
+6162	unable	3
+7273	unavailable	1
+1777	unavailable
+	1
+7274	unavailable,	1
+5700	unbound	1
+5701	unbound.
+	1
+6415	unbounded(null)	1
+5507	unboxing	1
+4568	unbuffered	2
+3100	unchanged.	2
+4471	unchecked	1
+3975	uncompressShortArray.
+	1
+5157	uncompressed	1
+7725	undefined.	1
+417	under	12
+1165	underlying	11
+3739	understand	1
+3973	understanding	1
+6863	understood,	1
+7660	undo	2
+4198	unescaped.
+	1
+5308	unexpected	2
+6218	unexport	1
+5797	unexporting	1
+4027	unicode	2
+8782	unidexing	1
+5615	uniform	3
+1399	uniformly	4
+6249	uninitialised	1
+2856	uninitialized	3
+7619	uninstall	1
+2262	unintentionally	1
+2901	union	2
+7056	union).
+	1
+2902	union.
+	1
+2995	unique	4
+2074	unit	3
+6277	unit-length	1
+2958	unit-length.	1
+4590	unit-tag	1
+4996	unit.
+	1
+1012	united	1
+3623	units	2
+468	unknown	1
+571	unknown.	1
+3344	unless	4
+5035	unlike	1
+6116	unlinked	1
+6206	unmarshals	1
+2391	unmodifiable	1
+7212	unparsed	2
+4988	unpauses	1
+7682	unregister	1
+6981	unsafe	1
+2502	unsigned	3
+8272	unspecified	1
+6795	unsubscribe.
+	1
+8192	unsuccessful	1
+1080	until	11
+6982	untrusted	1
+1013	unused	1
+4597	unwrap	1
+5381	unzip	1
+905	up	22
+6188	up
+	1
+4232	up.	1
+5088	up.
+	3
+2030	update	16
+8599	update
+	1
+7553	update.
+	1
+6894	updateOrWrite	1
+4316	updateSupplements()
+	1
+6895	updateTimeout	1
+3573	updated	5
+5334	updated.	1
+3153	updatedTypeData	1
+169	updates	11
+6580	updates
+	1
+6430	updates.	1
+1050	updates.
+	1
+2746	updating	4
+6431	updating.
+	1
+3998	upfront.	1
+2644	upload	8
+2160	uploaded	2
+6916	upon	1
+4034	upper	2
+6362	uppercase	1
+8017	upstream	1
+2583	upto	1
+2733	uptodate?
+	1
+7371	uri	1
+2289	url's	1
+2336	url.
+	1
+2208	us	2
+386	usable	2
+4701	usage	3
+4702	usage.	1
+439	use	39
+6662	use,	1
+1657	use.
+	3
+114	used	120
+7554	used,	2
+5898	used.	3
+5925	used.
+	3
+7326	used:	1
+3740	useful	5
+428	user	44
+1130	user
+	3
+770	user's	3
+6797	user,	3
+6404	user.	2
+2161	user.
+	2
+8281	userLogin	1
+69	userid	1
+1462	users	6
+5940	users.	1
+603	uses	11
+56	using	107
+5994	usually	1
+7914	utf8	1
+4981	utility	2
+122	utils.
+	2
+2443	utterance	3
+5089	utterance.	1
+4252	v	4
+8549	v),	1
+751	v,	1
+7440	v-spacing
+	1
+6535	v2.3!</b>	1
+8056	val	1
+429	valid	12
+854	valid,	3
+2660	valid.
+	4
+3904	validate	4
+7911	validates	2
+961	validating	1
+4587	validation	4
+2741	validation
+	1
+1630	validator	2
+3905	validator.
+	1
+3338	validity	1
+176	value	120
+5711	value
+	3
+7359	value's	1
+1683	value)	4
+5730	value)</code>	1
+2844	value,	11
+310	value.	14
+2467	value.
+	18
+4140	value.</li>	1
+7360	value.toJSONString()	1
+2072	valueOf()	1
+6670	valueX	1
+57	values	43
+2630	values
+	7
+7573	values).	1
+58	values,	4
+3495	values.	8
+1834	values.
+	7
+2046	values.</p>
+	1
+4562	values/	1
+104	vaporeon	1
+811	variable	8
+793	variable,	2
+6858	variable.	1
+6899	variable.
+	1
+6432	variables	4
+3188	variables
+	1
+6005	variables.
+	1
+824	variance
+	2
+2249	variant	2
+115	various	30
+1867	vector	16
+2065	vector.
+	3
+2705	vectors	3
+6204	vectors,	1
+1827	vectors.
+	1
+2652	velocity	1
+6065	vendor	3
+6686	verbose	1
+7636	verifies	2
+771	version	15
+5417	version
+	1
+8351	version)
+	1
+8328	version.
+	1
+3563	versions	2
+6536	versions,	1
+5527	vertex.
+	1
+5284	vertical	3
+5771	vertically,	1
+3881	vertices	2
+1502	vertices.
+	1
+1737	very	5
+2088	via	4
+1929	video	6
+2438	video.
+	1
+2162	videos	1
+2124	view	12
+5829	view
+	3
+1873	view's	2
+6164	view.	1
+829	view.
+	5
+7792	view.postInvalidateOnAnimation()	1
+2734	viewer	1
+4100	viewfinder	1
+4452	viewholder
+	1
+7521	viewport	1
+2125	views	1
+3339	views
+	1
+2126	views.
+	4
+3870	virtual	3
+92	visibility	5
+1952	visible	6
+4522	visit	1
+8537	visitableObj,	1
+4523	visitor.
+	3
+7108	visits	1
+8269	voices	1
+4247	vom	1
+8166	vuid,	1
+3204	vulnerable	1
+8550	w	1
+8551	w),	1
+7014	w.d	1
+6148	w/o	1
+4916	wait	5
+7086	waiting	1
+618	waits	1
+8597	walking
+	1
+4900	wall	2
+6708	wall.
+	1
+1812	want	11
+1813	want,	1
+2127	want.	1
+7850	wanted.
+	1
+1836	warning	1
+6096	warning)	1
+243	was	52
+6927	watching	1
+3803	water	2
+3304	wave	2
+7678	wavefront	1
+7679	wavefront.	1
+1983	way	11
+3974	ways	1
+1847	we	25
+8767	we've	1
+6909	weapons
+	1
+3287	weather	1
+6655	weather
+	1
+1496	web	2
+5613	webapp	1
+3160	website's	1
+4283	week	1
+7304	weekly	1
+5831	weibo
+	1
+5955	weights	1
+3617	well	2
+3697	well,	1
+2025	were	9
+5576	weren't	1
+677	what	5
+1848	what's	1
+6254	whatToshow.	1
+590	wheel	3
+156	when	102
+4960	whenever	3
+255	where	31
+4384	where,	1
+277	whether	59
+476	which	77
+2209	whichever	1
+487	while	10
+1963	white	4
+4824	whitelist	1
+1984	whitespace	2
+4325	whitespace
+	1
+1985	whitespace.	1
+3037	whitespace.
+	1
+2307	who	1
+377	whole	10
+8065	whom	1
+3481	whose	4
+3741	why	1
+3999	wide	1
+2253	widget	1
+5165	widget
+	1
+3283	widget.
+	1
+642	widgets	1
+643	widgets
+	1
+3476	width	5
+2755	width
+	2
+5508	width,	2
+3477	width.
+	1
+3370	width="640"	3
+7981	wildcard	1
+7770	wildcards.
+	2
+311	will	162
+3407	will,	1
+2179	window	8
+6063	window
+	1
+7776	wire	1
+8	with	298
+2928	with,	1
+5335	with.
+	1
+6969	with/without	1
+540	within	19
+147	without	13
+6985	wizard	1
+1404	wkt	1
+6510	woke	1
+8202	won't	1
+7303	wont	1
+5808	wooden	1
+1153	word	6
+3633	word.
+	1
+6767	word/Tuple	1
+7259	words	2
+678	words,	7
+7398	words.	1
+2759	work	5
+8733	work
+	1
+4897	work).
+	2
+6106	work.	2
+7087	work:	1
+4337	workaround	1
+4849	workarounds	1
+5242	workers	1
+6230	working	2
+6107	worklist	1
+3027	works	3
+4493	world	1
+5578	world.
+	2
+105	would	12
+2128	wrap	6
+395	wrapped	4
+3041	wrapper	7
+4543	wrappering	1
+1035	wrapping	4
+2932	wrapping.	1
+256	write	12
+6896	writeLease,	1
+4613	writer.
+	3
+4447	writes	6
+3277	writing	4
+1342	writing.
+	2
+272	written	14
+257	written,	1
+5643	written.
+	1
+7099	wrong	1
+8329	wrong,	1
+5849	wrong.
+	1
+861	x	8
+4141	x)</code>	1
+4142	x)</code>,	1
+2833	x+1	1
+8115	x,y	1
+2834	x-1	1
+7973	x-axis	1
+3531	x-labels	1
+2419	x/y:	1
+7698	x1*x2+y1*y2+z1*z2.	1
+2978	x=3	1
+286	xValue	1
+1767	x_1)	1
+1768	x_1)(y_3	1
+6921	x_i)
+	1
+3906	xml	2
+418	xtn	5
+3288	xtn
+	2
+5436	xxx.properties	1
+862	y	4
+7290	y),	1
+5224	y-axis
+	3
+4321	y-position	1
+3532	y-position
+	1
+2979	y=5)	1
+5285	yMaxLines	1
+5286	yValue,	1
+1769	y_1)	1
+1770	y_1)(x_3	1
+1771	y_3)\)	1
+2036	year	3
+5915	year,	1
+5916	year.
+	1
+2727	years.
+	1
+556	yet	7
+6045	yet.	1
+8242	yet.
+	1
+282	you	25
+8632	you've	1
+946	your	22
+2980	z=8)	1
+2981	z=8)
+	1
+2182	zero	9
+5956	zero
+	2
+2539	zero-compressed	3
+6433	zero.	1
+4968	zero.
+	3
+5405	zeros	2
+5382	zip	2
+5449	zk	1
+3278	znode,	1
+5172	zone	2
+5705	zone
+	1
+2760	zoom	4
+1874	zoomable	1
+488	zoomed	2
+2386	{	1
+1139	{HashMap<Integer,ArrayList<Integer>>	1
+297	|	4
+4924	|2|3|4|	1
+6246	|url|.
+	1
+2387	}
+	1
+4308	~2.2.	1
+3028	~33%	1
